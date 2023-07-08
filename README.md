@@ -1,5 +1,5 @@
 - 🔭 I’m currently building a new startup after selling my last company to Stripe
 - 📫 I love meeting new people, drop me an email or DM to chat!
 - ✍️ I write every so often [on my blog](http://mikebian.co/)
-- 🌱 I’m currently enjoying digging into tmux and terminal productivity more
+- 🌱 I’m currently enjoying digging into tmux and terminal productivity more (check out my [dotfiles](https://github.com/iloveitaly/dotfiles))
 - 💬 I really enjoy personal productivity, check out [hyper-focus](https://github.com/iloveitaly/hyper-focus)
