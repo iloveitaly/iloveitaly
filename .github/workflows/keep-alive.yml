@@ -1,0 +1,14 @@
+# .github/workflows/kee-alive.yml
+# if there's no activity within 60d, the GH actions automatically disables itself
+name: Keepalive Commit
+
+on:
+  schedule:
+    - cron: '0 0 1 * *'
+
+jobs:
+  docker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/keepalive-workflow@v1
