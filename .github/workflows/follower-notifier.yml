@@ -26,4 +26,4 @@ jobs:
           subject: "GitHub Followers Change"
           from: ${{ secrets.MAIL_FROM_ADDRESS }}
           to: "mike@mikebian.co"
-          html_body: file://${{ steps.followerChange.outputs.htmlFilePath }}
+          html_body: file://${{ steps.followersChange.outputs.htmlFilePath }}
