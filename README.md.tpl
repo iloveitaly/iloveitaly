@@ -7,20 +7,17 @@
 #### 📜 My recent blog posts
 
 {{range rss "https://mikebian.co/feed/" 5}}
-
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
 #### 🌱 My latest projects
 
 {{range recentRepos 10}}
-
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
 #### 🔭 Latest releases I've contributed to
 
 {{range recentReleases 10}}
-
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
