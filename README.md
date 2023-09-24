@@ -7,12 +7,12 @@
 #### 📜 My recent blog posts
 
 
-- [Understanding Postgres Database Triggers](https://mikebian.co/understanding-postgres-database-triggers/) (5 days ago)
+- [Executing Multiple SQL Statements in Elixir](https://mikebian.co/executing-multiple-sql-statements-in-elixir/) (3 days ago)
+- [Guide to upgrading old WordPress themes](https://mikebian.co/guide-to-upgrading-old-wordpress-themes/) (5 days ago)
+- [Understanding Postgres Database Triggers](https://mikebian.co/understanding-postgres-database-triggers/) (1 week ago)
 - [Scraping the web with OpenAI](https://mikebian.co/scraping-the-web-with-openai/) (1 month ago)
 - [Git Completions &amp; Tooling on the Command Line](https://mikebian.co/git-completions-tooling-on-the-command-line/) (2 months ago)
 - [Bye Stripe, on to the Next Adventure](https://mikebian.co/bye-stripe-on-to-the-next-adventure/) (2 months ago)
-- [Improve motivation and focus with small contexts](https://mikebian.co/improve-motivation-and-focus-with-small-contexts/) (2 months ago)
-- [Learning tmux](https://mikebian.co/learning-tmux/) (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -27,9 +27,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.0.292](https://github.com/langchain-ai/langchain/releases/tag/v0.0.292), 2 days ago) - ⚡ Building applications with LLMs through composability ⚡
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.150](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.150), 2 days ago) - 
-- [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) ([v0.13.1](https://github.com/abhinav/tmux-fastcopy/releases/tag/v0.13.1), 2 days ago) - easymotion-style text copying for tmux.
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.15.0](https://github.com/dolthub/dolt/releases/tag/v1.15.0), 4 days ago) - Dolt – Git for Data
-- [nearform-actions/github-action-notify-twitter](https://github.com/nearform-actions/github-action-notify-twitter) ([v1.1.1](https://github.com/nearform-actions/github-action-notify-twitter/releases/tag/v1.1.1), 5 days ago) - GitHub action that can send a custom message to a Twitter account
-- [nodejs/node](https://github.com/nodejs/node) ([v20.6.1](https://github.com/nodejs/node/releases/tag/v20.6.1), 1 week ago) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.16.3](https://github.com/dolthub/dolt/releases/tag/v1.16.3), 2 days ago) - Dolt – Git for Data
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.0.300](https://github.com/langchain-ai/langchain/releases/tag/v0.0.300), 2 days ago) - ⚡ Building applications with LLMs through composability ⚡
+- [TriPSs/conventional-changelog-action](https://github.com/TriPSs/conventional-changelog-action) ([v4.1.0](https://github.com/TriPSs/conventional-changelog-action/releases/tag/v4.1.0), 3 days ago) - Github Action that generates a changelog with the Conventional Changelog CLI
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.153](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.153), 3 days ago) - 
+- [iloveitaly/postgres_executor](https://github.com/iloveitaly/postgres_executor) ([v0.2.4](https://github.com/iloveitaly/postgres_executor/releases/tag/v0.2.4), 4 days ago) - Execute raw SQL in Elixir using the psql command line tool. Useful for migrations.
+- [cli/cli](https://github.com/cli/cli) ([v2.35.0](https://github.com/cli/cli/releases/tag/v2.35.0), 5 days ago) - GitHub’s official command line tool
