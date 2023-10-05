@@ -1,3 +1,5 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=iloveitaly&show_icons=true&text_color=718096&hide_title=true"/>
+
 - 🔭 I’m currently building a new startup after selling my last company to Stripe
 - 📫 I love meeting new people, drop me an email or DM to chat!
 - ✍️ I write every so often [on my blog](http://mikebian.co/) and [tweet](https://twitter.com/mike_bianco)
