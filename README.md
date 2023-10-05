@@ -1,3 +1,5 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=iloveitaly&show_icons=true&text_color=718096&hide_title=true"/>
+
 - 🔭 I’m currently building a new startup after selling my last company to Stripe
 - 📫 I love meeting new people, drop me an email or DM to chat!
 - ✍️ I write every so often [on my blog](http://mikebian.co/) and [tweet](https://twitter.com/mike_bianco)
@@ -7,12 +9,12 @@
 #### 📜 My recent blog posts
 
 
-- [Download a CSV of Wealthfront Financial Activity](https://mikebian.co/download-a-csv-of-wealthfront-financial-activity/) (2 days ago)
-- [Notes on Locked Records in NetSuite](https://mikebian.co/notes-on-locked-records-in-netsuite/) (5 days ago)
-- [Executing Multiple SQL Statements in Elixir](https://mikebian.co/executing-multiple-sql-statements-in-elixir/) (1 week ago)
-- [Guide to upgrading old WordPress themes](https://mikebian.co/guide-to-upgrading-old-wordpress-themes/) (1 week ago)
-- [Understanding Postgres Database Triggers](https://mikebian.co/understanding-postgres-database-triggers/) (2 weeks ago)
-- [Scraping the web with OpenAI](https://mikebian.co/scraping-the-web-with-openai/) (2 months ago)
+- [Re-learning Modern PHP](https://mikebian.co/re-learning-modern-php/) (2 days ago)
+- [Download a CSV of Wealthfront Financial Activity](https://mikebian.co/download-a-csv-of-wealthfront-financial-activity/) (6 days ago)
+- [Notes on Locked Records in NetSuite](https://mikebian.co/notes-on-locked-records-in-netsuite/) (1 week ago)
+- [Executing Multiple SQL Statements in Elixir](https://mikebian.co/executing-multiple-sql-statements-in-elixir/) (2 weeks ago)
+- [Guide to upgrading old WordPress themes](https://mikebian.co/guide-to-upgrading-old-wordpress-themes/) (2 weeks ago)
+- [Understanding Postgres Database Triggers](https://mikebian.co/understanding-postgres-database-triggers/) (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -27,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.17.1](https://github.com/dolthub/dolt/releases/tag/v1.17.1), 2 days ago) - Dolt – Git for Data
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.0.305](https://github.com/langchain-ai/langchain/releases/tag/v0.0.305), 2 days ago) - ⚡ Building applications with LLMs through composability ⚡
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.156](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.156), 2 days ago) - 
-- [nodejs/node](https://github.com/nodejs/node) ([v20.8.0](https://github.com/nodejs/node/releases/tag/v20.8.0), 2 days ago) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
-- [brimdata/zed](https://github.com/brimdata/zed) ([v1.10.0](https://github.com/brimdata/zed/releases/tag/v1.10.0), 3 days ago) - A novel data lake based on super-structured data
-- [TriPSs/conventional-changelog-action](https://github.com/TriPSs/conventional-changelog-action) ([v4.1.1](https://github.com/TriPSs/conventional-changelog-action/releases/tag/v4.1.1), 6 days ago) - Github Action that generates a changelog with the Conventional Changelog CLI
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.160](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.160), 1 day ago) - 
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.0.308](https://github.com/langchain-ai/langchain/releases/tag/v0.0.308), 1 day ago) - ⚡ Building applications with LLMs through composability ⚡
+- [nearform-actions/github-action-notify-twitter](https://github.com/nearform-actions/github-action-notify-twitter) ([v1.1.3](https://github.com/nearform-actions/github-action-notify-twitter/releases/tag/v1.1.3), 1 day ago) - GitHub action that can send a custom message to a Twitter account
+- [cli/cli](https://github.com/cli/cli) ([v2.36.0](https://github.com/cli/cli/releases/tag/v2.36.0), 2 days ago) - GitHub’s official command line tool
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.18.0](https://github.com/dolthub/dolt/releases/tag/v1.18.0), 2 days ago) - Dolt – Git for Data
+- [nodejs/node](https://github.com/nodejs/node) ([v20.8.0](https://github.com/nodejs/node/releases/tag/v20.8.0), 6 days ago) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
