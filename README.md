@@ -9,12 +9,12 @@
 #### 📜 My recent blog posts
 
 
-- [Re-learning Modern PHP](https://mikebian.co/re-learning-modern-php/) (2 days ago)
-- [Download a CSV of Wealthfront Financial Activity](https://mikebian.co/download-a-csv-of-wealthfront-financial-activity/) (6 days ago)
+- [Aggregating Data by Month in Google Sheets](https://mikebian.co/aggregating-data-by-month-in-google-sheets/) (3 days ago)
+- [Re-learning Modern PHP](https://mikebian.co/re-learning-modern-php/) (5 days ago)
+- [Download a CSV of Wealthfront Financial Activity](https://mikebian.co/download-a-csv-of-wealthfront-financial-activity/) (1 week ago)
 - [Notes on Locked Records in NetSuite](https://mikebian.co/notes-on-locked-records-in-netsuite/) (1 week ago)
 - [Executing Multiple SQL Statements in Elixir](https://mikebian.co/executing-multiple-sql-statements-in-elixir/) (2 weeks ago)
 - [Guide to upgrading old WordPress themes](https://mikebian.co/guide-to-upgrading-old-wordpress-themes/) (2 weeks ago)
-- [Understanding Postgres Database Triggers](https://mikebian.co/understanding-postgres-database-triggers/) (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.160](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.160), 1 day ago) - 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.0.308](https://github.com/langchain-ai/langchain/releases/tag/v0.0.308), 1 day ago) - ⚡ Building applications with LLMs through composability ⚡
-- [nearform-actions/github-action-notify-twitter](https://github.com/nearform-actions/github-action-notify-twitter) ([v1.1.3](https://github.com/nearform-actions/github-action-notify-twitter/releases/tag/v1.1.3), 1 day ago) - GitHub action that can send a custom message to a Twitter account
-- [cli/cli](https://github.com/cli/cli) ([v2.36.0](https://github.com/cli/cli/releases/tag/v2.36.0), 2 days ago) - GitHub’s official command line tool
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.18.0](https://github.com/dolthub/dolt/releases/tag/v1.18.0), 2 days ago) - Dolt – Git for Data
-- [nodejs/node](https://github.com/nodejs/node) ([v20.8.0](https://github.com/nodejs/node/releases/tag/v20.8.0), 6 days ago) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.162](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.162), 1 day ago) - 
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.0.310](https://github.com/langchain-ai/langchain/releases/tag/v0.0.310), 2 days ago) - ⚡ Building applications with LLMs through composability ⚡
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.18.1](https://github.com/dolthub/dolt/releases/tag/v1.18.1), 2 days ago) - Dolt – Git for Data
+- [srirangav/qlZipInfo](https://github.com/srirangav/qlZipInfo) ([v.1.2.5](https://github.com/srirangav/qlZipInfo/releases/tag/v.1.2.5), 2 days ago) - MacOSX QuickLook Generator for zip, jar, tar, tar.gz (.tgz), tar.bz2 (.tbz2/.tbz), tar.Z, xar (.xar, .pkg), debian (.deb), RedHat Package Manager (.rpm), 7zip (.7z), xz, Microsoft cabinet (.cab), gzip (.gz), lha, BinHex 4.0 (.hqx), ePub (.epub), and Stuffit (.sit) archives, and ISO9660 images
+- [nearform-actions/github-action-notify-twitter](https://github.com/nearform-actions/github-action-notify-twitter) ([v1.1.3](https://github.com/nearform-actions/github-action-notify-twitter/releases/tag/v1.1.3), 4 days ago) - GitHub action that can send a custom message to a Twitter account
+- [cli/cli](https://github.com/cli/cli) ([v2.36.0](https://github.com/cli/cli/releases/tag/v2.36.0), 5 days ago) - GitHub’s official command line tool
