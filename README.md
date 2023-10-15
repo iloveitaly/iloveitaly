@@ -9,12 +9,12 @@
 #### 📜 My recent blog posts
 
 
-- [Aggregating Data by Month in Google Sheets](https://mikebian.co/aggregating-data-by-month-in-google-sheets/) (3 days ago)
-- [Re-learning Modern PHP](https://mikebian.co/re-learning-modern-php/) (5 days ago)
-- [Download a CSV of Wealthfront Financial Activity](https://mikebian.co/download-a-csv-of-wealthfront-financial-activity/) (1 week ago)
-- [Notes on Locked Records in NetSuite](https://mikebian.co/notes-on-locked-records-in-netsuite/) (1 week ago)
-- [Executing Multiple SQL Statements in Elixir](https://mikebian.co/executing-multiple-sql-statements-in-elixir/) (2 weeks ago)
-- [Guide to upgrading old WordPress themes](https://mikebian.co/guide-to-upgrading-old-wordpress-themes/) (2 weeks ago)
+- [Deploying Nodejs on AWS Lambda using NodejsFunction](https://mikebian.co/deploying-nodejs-on-aws-lambda-using-nodejsfunction/) (3 days ago)
+- [Automating Elixir Package Deployment with GitHub Actions](https://mikebian.co/automating-elixir-package-deployment-with-github-actions/) (5 days ago)
+- [Aggregating Data by Month in Google Sheets](https://mikebian.co/aggregating-data-by-month-in-google-sheets/) (1 week ago)
+- [Re-learning Modern PHP](https://mikebian.co/re-learning-modern-php/) (1 week ago)
+- [Download a CSV of Wealthfront Financial Activity](https://mikebian.co/download-a-csv-of-wealthfront-financial-activity/) (2 weeks ago)
+- [Notes on Locked Records in NetSuite](https://mikebian.co/notes-on-locked-records-in-netsuite/) (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.162](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.162), 1 day ago) - 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.0.310](https://github.com/langchain-ai/langchain/releases/tag/v0.0.310), 2 days ago) - ⚡ Building applications with LLMs through composability ⚡
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.18.1](https://github.com/dolthub/dolt/releases/tag/v1.18.1), 2 days ago) - Dolt – Git for Data
-- [srirangav/qlZipInfo](https://github.com/srirangav/qlZipInfo) ([v.1.2.5](https://github.com/srirangav/qlZipInfo/releases/tag/v.1.2.5), 2 days ago) - MacOSX QuickLook Generator for zip, jar, tar, tar.gz (.tgz), tar.bz2 (.tbz2/.tbz), tar.Z, xar (.xar, .pkg), debian (.deb), RedHat Package Manager (.rpm), 7zip (.7z), xz, Microsoft cabinet (.cab), gzip (.gz), lha, BinHex 4.0 (.hqx), ePub (.epub), and Stuffit (.sit) archives, and ISO9660 images
-- [nearform-actions/github-action-notify-twitter](https://github.com/nearform-actions/github-action-notify-twitter) ([v1.1.3](https://github.com/nearform-actions/github-action-notify-twitter/releases/tag/v1.1.3), 4 days ago) - GitHub action that can send a custom message to a Twitter account
-- [cli/cli](https://github.com/cli/cli) ([v2.36.0](https://github.com/cli/cli/releases/tag/v2.36.0), 5 days ago) - GitHub’s official command line tool
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.20.0](https://github.com/dolthub/dolt/releases/tag/v1.20.0), 1 day ago) - Dolt – Git for Data
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.167](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.167), 1 day ago) - 
+- [nodejs/node](https://github.com/nodejs/node) ([v18.18.2](https://github.com/nodejs/node/releases/tag/v18.18.2), 2 days ago) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
+- [gliderlabs/herokuish](https://github.com/gliderlabs/herokuish) ([v0.7.2](https://github.com/gliderlabs/herokuish/releases/tag/v0.7.2), 2 days ago) - Utility for emulating Heroku build and runtime tasks in containers
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.0.314](https://github.com/langchain-ai/langchain/releases/tag/v0.0.314), 2 days ago) - ⚡ Building applications with LLMs through composability ⚡
+- [iloveitaly/todoist-scheduler](https://github.com/iloveitaly/todoist-scheduler) ([v0.3.2](https://github.com/iloveitaly/todoist-scheduler/releases/tag/v0.3.2), 3 days ago) - Automatically reschedule tasks in Todoist to reduce the size of the todo lists you see each day.
