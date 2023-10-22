@@ -9,12 +9,12 @@
 #### 📜 My recent blog posts
 
 
-- [Deploying Nodejs on AWS Lambda using NodejsFunction](https://mikebian.co/deploying-nodejs-on-aws-lambda-using-nodejsfunction/) (3 days ago)
-- [Automating Elixir Package Deployment with GitHub Actions](https://mikebian.co/automating-elixir-package-deployment-with-github-actions/) (5 days ago)
-- [Aggregating Data by Month in Google Sheets](https://mikebian.co/aggregating-data-by-month-in-google-sheets/) (1 week ago)
-- [Re-learning Modern PHP](https://mikebian.co/re-learning-modern-php/) (1 week ago)
-- [Download a CSV of Wealthfront Financial Activity](https://mikebian.co/download-a-csv-of-wealthfront-financial-activity/) (2 weeks ago)
-- [Notes on Locked Records in NetSuite](https://mikebian.co/notes-on-locked-records-in-netsuite/) (2 weeks ago)
+- [Using Ansible to Setup Custom Dotfiles](https://mikebian.co/using-ansible-to-setup-custom-dotfiles/) (2 days ago)
+- [Passing Environments Variables to EC2 Instances using AWS CDK](https://mikebian.co/passing-environments-variables-to-ec2-instances-using-aws-cdk/) (5 days ago)
+- [Deploying Nodejs on AWS Lambda using NodejsFunction](https://mikebian.co/deploying-nodejs-on-aws-lambda-using-nodejsfunction/) (1 week ago)
+- [Automating Elixir Package Deployment with GitHub Actions](https://mikebian.co/automating-elixir-package-deployment-with-github-actions/) (1 week ago)
+- [Aggregating Data by Month in Google Sheets](https://mikebian.co/aggregating-data-by-month-in-google-sheets/) (2 weeks ago)
+- [Re-learning Modern PHP](https://mikebian.co/re-learning-modern-php/) (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.20.0](https://github.com/dolthub/dolt/releases/tag/v1.20.0), 1 day ago) - Dolt – Git for Data
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.167](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.167), 1 day ago) - 
-- [nodejs/node](https://github.com/nodejs/node) ([v18.18.2](https://github.com/nodejs/node/releases/tag/v18.18.2), 2 days ago) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
-- [gliderlabs/herokuish](https://github.com/gliderlabs/herokuish) ([v0.7.2](https://github.com/gliderlabs/herokuish/releases/tag/v0.7.2), 2 days ago) - Utility for emulating Heroku build and runtime tasks in containers
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.0.314](https://github.com/langchain-ai/langchain/releases/tag/v0.0.314), 2 days ago) - ⚡ Building applications with LLMs through composability ⚡
-- [iloveitaly/todoist-scheduler](https://github.com/iloveitaly/todoist-scheduler) ([v0.3.2](https://github.com/iloveitaly/todoist-scheduler/releases/tag/v0.3.2), 3 days ago) - Automatically reschedule tasks in Todoist to reduce the size of the todo lists you see each day.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.0.320](https://github.com/langchain-ai/langchain/releases/tag/v0.0.320), 1 day ago) - ⚡ Building applications with LLMs through composability ⚡
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.170](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.170), 2 days ago) - 
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.21.1](https://github.com/dolthub/dolt/releases/tag/v1.21.1), 2 days ago) - Dolt – Git for Data
+- [nodejs/node](https://github.com/nodejs/node) ([v21.0.0](https://github.com/nodejs/node/releases/tag/v21.0.0), 5 days ago) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
+- [cli/cli](https://github.com/cli/cli) ([v2.37.0](https://github.com/cli/cli/releases/tag/v2.37.0), 5 days ago) - GitHub’s official command line tool
+- [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) ([v0.14.0](https://github.com/abhinav/tmux-fastcopy/releases/tag/v0.14.0), 1 week ago) - easymotion-style text copying for tmux.
