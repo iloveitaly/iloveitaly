@@ -9,12 +9,12 @@
 #### 📜 My recent blog posts
 
 
-- [Using Ansible to Setup Custom Dotfiles](https://mikebian.co/using-ansible-to-setup-custom-dotfiles/) (2 days ago)
-- [Passing Environments Variables to EC2 Instances using AWS CDK](https://mikebian.co/passing-environments-variables-to-ec2-instances-using-aws-cdk/) (5 days ago)
-- [Deploying Nodejs on AWS Lambda using NodejsFunction](https://mikebian.co/deploying-nodejs-on-aws-lambda-using-nodejsfunction/) (1 week ago)
-- [Automating Elixir Package Deployment with GitHub Actions](https://mikebian.co/automating-elixir-package-deployment-with-github-actions/) (1 week ago)
-- [Aggregating Data by Month in Google Sheets](https://mikebian.co/aggregating-data-by-month-in-google-sheets/) (2 weeks ago)
-- [Re-learning Modern PHP](https://mikebian.co/re-learning-modern-php/) (2 weeks ago)
+- [Archiving Videos from Amazon Photos](https://mikebian.co/archiving-videos-from-amazon-photos/) (3 days ago)
+- [Converting a Node Project from CommonJS to ESM](https://mikebian.co/converting-a-node-project-from-commonjs-to-esm/) (5 days ago)
+- [Using Ansible to Setup Custom Dotfiles](https://mikebian.co/using-ansible-to-setup-custom-dotfiles/) (1 week ago)
+- [Passing Environments Variables to EC2 Instances using AWS CDK](https://mikebian.co/passing-environments-variables-to-ec2-instances-using-aws-cdk/) (1 week ago)
+- [Deploying Nodejs on AWS Lambda using NodejsFunction](https://mikebian.co/deploying-nodejs-on-aws-lambda-using-nodejsfunction/) (2 weeks ago)
+- [Automating Elixir Package Deployment with GitHub Actions](https://mikebian.co/automating-elixir-package-deployment-with-github-actions/) (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.0.320](https://github.com/langchain-ai/langchain/releases/tag/v0.0.320), 1 day ago) - ⚡ Building applications with LLMs through composability ⚡
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.170](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.170), 2 days ago) - 
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.21.1](https://github.com/dolthub/dolt/releases/tag/v1.21.1), 2 days ago) - Dolt – Git for Data
-- [nodejs/node](https://github.com/nodejs/node) ([v21.0.0](https://github.com/nodejs/node/releases/tag/v21.0.0), 5 days ago) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
-- [cli/cli](https://github.com/cli/cli) ([v2.37.0](https://github.com/cli/cli/releases/tag/v2.37.0), 5 days ago) - GitHub’s official command line tool
-- [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) ([v0.14.0](https://github.com/abhinav/tmux-fastcopy/releases/tag/v0.14.0), 1 week ago) - easymotion-style text copying for tmux.
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.175](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.175), 1 day ago) - 
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.0.325](https://github.com/langchain-ai/langchain/releases/tag/v0.0.325), 2 days ago) - ⚡ Building applications with LLMs through composability ⚡
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.21.5](https://github.com/dolthub/dolt/releases/tag/v1.21.5), 2 days ago) - Dolt – Git for Data
+- [nearform-actions/github-action-notify-twitter](https://github.com/nearform-actions/github-action-notify-twitter) ([v1.1.4](https://github.com/nearform-actions/github-action-notify-twitter/releases/tag/v1.1.4), 5 days ago) - GitHub action that can send a custom message to a Twitter account
+- [nodejs/node](https://github.com/nodejs/node) ([v21.1.0](https://github.com/nodejs/node/releases/tag/v21.1.0), 5 days ago) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
+- [cli/cli](https://github.com/cli/cli) ([v2.37.0](https://github.com/cli/cli/releases/tag/v2.37.0), 1 week ago) - GitHub’s official command line tool
