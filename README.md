@@ -9,12 +9,12 @@
 #### 📜 My recent blog posts
 
 
-- [Downloading Fidelity Charitable &amp; Cigna Health Records](https://mikebian.co/downloading-fidelity-charitable-cigna-health-records/) (4 days ago)
-- [Raspberry Pi Configuration Tips &amp; Tricks](https://mikebian.co/raspberry-pi-configuration-tips-tricks/) (1 week ago)
-- [Book Notes: Wanting](https://mikebian.co/book-notes-wanting/) (1 week ago)
-- [Learning Elixir and Ecto](https://mikebian.co/learning-elixir-and-ecto/) (2 weeks ago)
-- [Choosing the right Ubuntu AMI for EC2](https://mikebian.co/choosing-the-right-ubuntu-ami-for-ec2/) (2 weeks ago)
-- [Archiving Videos from Amazon Photos](https://mikebian.co/archiving-videos-from-amazon-photos/) (3 weeks ago)
+- [Downloading Fidelity Charitable &amp; Cigna Health Records](https://mikebian.co/downloading-fidelity-charitable-cigna-health-records/) (1 week ago)
+- [Raspberry Pi Configuration Tips &amp; Tricks](https://mikebian.co/raspberry-pi-configuration-tips-tricks/) (2 weeks ago)
+- [Book Notes: Wanting](https://mikebian.co/book-notes-wanting/) (2 weeks ago)
+- [Learning Elixir and Ecto](https://mikebian.co/learning-elixir-and-ecto/) (3 weeks ago)
+- [Choosing the right Ubuntu AMI for EC2](https://mikebian.co/choosing-the-right-ubuntu-ami-for-ec2/) (3 weeks ago)
+- [Archiving Videos from Amazon Photos](https://mikebian.co/archiving-videos-from-amazon-photos/) (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.0.338](https://github.com/langchain-ai/langchain/releases/tag/v0.0.338), 1 day ago) - ⚡ Building applications with LLMs through composability ⚡
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.192](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.192), 2 days ago) - 
-- [python-poetry/poetry](https://github.com/python-poetry/poetry) ([1.7.1](https://github.com/python-poetry/poetry/releases/tag/1.7.1), 3 days ago) - Python packaging and dependency management made easy
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.27.0](https://github.com/dolthub/dolt/releases/tag/v1.27.0), 3 days ago) - Dolt – Git for Data
-- [griptape-ai/griptape-docs](https://github.com/griptape-ai/griptape-docs) ([v0.20.0](https://github.com/griptape-ai/griptape-docs/releases/tag/v0.20.0), 3 days ago) - Docs for the Griptape framework
-- [nodejs/node](https://github.com/nodejs/node) ([v21.2.0](https://github.com/nodejs/node/releases/tag/v21.2.0), 5 days ago) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.0.339rc3](https://github.com/langchain-ai/langchain/releases/tag/v0.0.339rc3), 1 day ago) - ⚡ Building applications with LLMs through composability ⚡
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.28.1](https://github.com/dolthub/dolt/releases/tag/v1.28.1), 3 days ago) - Dolt – Git for Data
+- [nearform-actions/github-action-notify-twitter](https://github.com/nearform-actions/github-action-notify-twitter) ([v1.1.5](https://github.com/nearform-actions/github-action-notify-twitter/releases/tag/v1.1.5), 4 days ago) - GitHub action that can send a custom message to a Twitter account
+- [nodejs/node](https://github.com/nodejs/node) ([v20.10.0](https://github.com/nodejs/node/releases/tag/v20.10.0), 4 days ago) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.196](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.196), 4 days ago) - 
+- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) ([v3.12.1](https://github.com/zdharma-continuum/zinit/releases/tag/v3.12.1), 6 days ago) - 🌻 Flexible and fast ZSH plugin manager
