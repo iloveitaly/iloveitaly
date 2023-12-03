@@ -9,8 +9,8 @@
 #### 📜 My recent blog posts
 
 
-- [What I’ve Learned Searching for a New Startup Idea, Part 2](https://mikebian.co/what-ive-learned-searching-for-a-new-startup-idea-part-2/) (2 days ago)
-- [What I’ve Learned Searching for a New Startup Idea, Part I](https://mikebian.co/what-ive-learned-searching-for-a-new-startup-idea-part-i/) (4 days ago)
+- [What I’ve Learned Searching for a New Startup Idea, Part 2](https://mikebian.co/what-ive-learned-searching-for-a-new-startup-idea-part-2/) (3 days ago)
+- [What I’ve Learned Searching for a New Startup Idea, Part I](https://mikebian.co/what-ive-learned-searching-for-a-new-startup-idea-part-i/) (5 days ago)
 - [Downloading Fidelity Charitable &amp; Cigna Health Records](https://mikebian.co/downloading-fidelity-charitable-cigna-health-records/) (2 weeks ago)
 - [Raspberry Pi Configuration Tips &amp; Tricks](https://mikebian.co/raspberry-pi-configuration-tips-tricks/) (3 weeks ago)
 - [Book Notes: Wanting](https://mikebian.co/book-notes-wanting/) (3 weeks ago)
@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.200](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.200), today) - 
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.29.0](https://github.com/dolthub/dolt/releases/tag/v1.29.0), 1 day ago) - Dolt – Git for Data
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.0.344](https://github.com/langchain-ai/langchain/releases/tag/v0.0.344), 1 day ago) - ⚡ Building applications with LLMs through composability ⚡
-- [nodejs/node](https://github.com/nodejs/node) ([v21.3.0](https://github.com/nodejs/node/releases/tag/v21.3.0), 2 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
-- [iloveitaly/clean-browser](https://github.com/iloveitaly/clean-browser) ([v0.6.2](https://github.com/iloveitaly/clean-browser/releases/tag/v0.6.2), 4 days ago) - Collect all browser URLs, output to terminal, and archive to todoist. Useful for cleaning up your workspace at the end of the day, without loosing important urls.
-- [iloveitaly/todoist-scheduler](https://github.com/iloveitaly/todoist-scheduler) ([v0.3.3](https://github.com/iloveitaly/todoist-scheduler/releases/tag/v0.3.3), 4 days ago) - Automatically reschedule tasks in Todoist to reduce the size of the todo lists you see each day.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.0.345](https://github.com/langchain-ai/langchain/releases/tag/v0.0.345), 1 day ago) - ⚡ Building applications with LLMs through composability ⚡
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.200](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.200), 1 day ago) - 
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.29.0](https://github.com/dolthub/dolt/releases/tag/v1.29.0), 2 days ago) - Dolt – Git for Data
+- [nodejs/node](https://github.com/nodejs/node) ([v21.3.0](https://github.com/nodejs/node/releases/tag/v21.3.0), 3 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
+- [iloveitaly/clean-browser](https://github.com/iloveitaly/clean-browser) ([v0.6.2](https://github.com/iloveitaly/clean-browser/releases/tag/v0.6.2), 5 days ago) - Collect all browser URLs, output to terminal, and archive to todoist. Useful for cleaning up your workspace at the end of the day, without loosing important urls.
+- [iloveitaly/todoist-scheduler](https://github.com/iloveitaly/todoist-scheduler) ([v0.3.3](https://github.com/iloveitaly/todoist-scheduler/releases/tag/v0.3.3), 5 days ago) - Automatically reschedule tasks in Todoist to reduce the size of the todo lists you see each day.
