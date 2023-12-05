@@ -9,11 +9,11 @@
 #### 📜 My recent blog posts
 
 
-- [What I’ve Learned Searching for a New Startup Idea, Part 2](https://mikebian.co/what-ive-learned-searching-for-a-new-startup-idea-part-2/) (4 days ago)
-- [What I’ve Learned Searching for a New Startup Idea, Part I](https://mikebian.co/what-ive-learned-searching-for-a-new-startup-idea-part-i/) (6 days ago)
+- [What I’ve Learned Searching for a New Startup Idea, Part 2](https://mikebian.co/what-ive-learned-searching-for-a-new-startup-idea-part-2/) (5 days ago)
+- [What I’ve Learned Searching for a New Startup Idea, Part I](https://mikebian.co/what-ive-learned-searching-for-a-new-startup-idea-part-i/) (1 week ago)
 - [Downloading Fidelity Charitable &amp; Cigna Health Records](https://mikebian.co/downloading-fidelity-charitable-cigna-health-records/) (2 weeks ago)
 - [Raspberry Pi Configuration Tips &amp; Tricks](https://mikebian.co/raspberry-pi-configuration-tips-tricks/) (3 weeks ago)
-- [Book Notes: Wanting](https://mikebian.co/book-notes-wanting/) (3 weeks ago)
+- [Book Notes: Wanting](https://mikebian.co/book-notes-wanting/) (4 weeks ago)
 - [Learning Elixir and Ecto](https://mikebian.co/learning-elixir-and-ecto/) (1 month ago)
 
 #### 🌱 My latest projects
@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) ([v0.14.1](https://github.com/abhinav/tmux-fastcopy/releases/tag/v0.14.1), 1 day ago) - easymotion-style text copying for tmux.
-- [iloveitaly/ipython-ctrlr-fzf](https://github.com/iloveitaly/ipython-ctrlr-fzf) ([v0.2.0](https://github.com/iloveitaly/ipython-ctrlr-fzf/releases/tag/v0.2.0), 1 day ago) - overrides ipython&#39;s backwards search to use fzf
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.0.345](https://github.com/langchain-ai/langchain/releases/tag/v0.0.345), 2 days ago) - ⚡ Building applications with LLMs through composability ⚡
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.200](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.200), 2 days ago) - 
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.29.0](https://github.com/dolthub/dolt/releases/tag/v1.29.0), 3 days ago) - Dolt – Git for Data
-- [nodejs/node](https://github.com/nodejs/node) ([v21.3.0](https://github.com/nodejs/node/releases/tag/v21.3.0), 4 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
+- [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) ([v0.14.1](https://github.com/abhinav/tmux-fastcopy/releases/tag/v0.14.1), 2 days ago) - easymotion-style text copying for tmux.
+- [iloveitaly/ipython-ctrlr-fzf](https://github.com/iloveitaly/ipython-ctrlr-fzf) ([v0.2.0](https://github.com/iloveitaly/ipython-ctrlr-fzf/releases/tag/v0.2.0), 2 days ago) - overrides ipython&#39;s backwards search to use fzf
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.0.345](https://github.com/langchain-ai/langchain/releases/tag/v0.0.345), 3 days ago) - ⚡ Building applications with LLMs through composability ⚡
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.200](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.200), 3 days ago) - 
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.29.0](https://github.com/dolthub/dolt/releases/tag/v1.29.0), 4 days ago) - Dolt – Git for Data
+- [nodejs/node](https://github.com/nodejs/node) ([v21.3.0](https://github.com/nodejs/node/releases/tag/v21.3.0), 5 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
