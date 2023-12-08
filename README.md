@@ -9,7 +9,7 @@
 #### 📜 My recent blog posts
 
 
-- [Using ChatGPT to Convert LabCorp PDFs into a Google Sheet](https://mikebian.co/using-chatgpt-to-convert-labcorp-pdfs-into-a-google-sheet/) (2 days ago)
+- [Using ChatGPT to Convert LabCorp PDFs into a Google Sheet](https://mikebian.co/using-chatgpt-to-convert-labcorp-pdfs-into-a-google-sheet/) (3 days ago)
 - [What I’ve Learned Searching for a New Startup Idea, Part 2](https://mikebian.co/what-ive-learned-searching-for-a-new-startup-idea-part-2/) (1 week ago)
 - [What I’ve Learned Searching for a New Startup Idea, Part I](https://mikebian.co/what-ive-learned-searching-for-a-new-startup-idea-part-i/) (1 week ago)
 - [Downloading Fidelity Charitable &amp; Cigna Health Records](https://mikebian.co/downloading-fidelity-charitable-cigna-health-records/) (3 weeks ago)
@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.202](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.202), 1 day ago) - 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.0.346](https://github.com/langchain-ai/langchain/releases/tag/v0.0.346), 2 days ago) - ⚡ Building applications with LLMs through composability ⚡
-- [nodejs/node](https://github.com/nodejs/node) ([v21.4.0](https://github.com/nodejs/node/releases/tag/v21.4.0), 2 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
-- [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) ([v0.14.1](https://github.com/abhinav/tmux-fastcopy/releases/tag/v0.14.1), 4 days ago) - easymotion-style text copying for tmux.
-- [iloveitaly/ipython-ctrlr-fzf](https://github.com/iloveitaly/ipython-ctrlr-fzf) ([v0.2.0](https://github.com/iloveitaly/ipython-ctrlr-fzf/releases/tag/v0.2.0), 4 days ago) - overrides ipython&#39;s backwards search to use fzf
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.29.0](https://github.com/dolthub/dolt/releases/tag/v1.29.0), 6 days ago) - Dolt – Git for Data
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.0.348](https://github.com/langchain-ai/langchain/releases/tag/v0.0.348), 1 day ago) - ⚡ Building applications with LLMs through composability ⚡
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.29.2](https://github.com/dolthub/dolt/releases/tag/v1.29.2), 1 day ago) - Dolt – Git for Data
+- [cli/cli](https://github.com/cli/cli) ([v2.40.0](https://github.com/cli/cli/releases/tag/v2.40.0), 1 day ago) - GitHub’s official command line tool
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.203](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.203), 1 day ago) - 
+- [nodejs/node](https://github.com/nodejs/node) ([v21.4.0](https://github.com/nodejs/node/releases/tag/v21.4.0), 3 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
+- [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) ([v0.14.1](https://github.com/abhinav/tmux-fastcopy/releases/tag/v0.14.1), 5 days ago) - easymotion-style text copying for tmux.
