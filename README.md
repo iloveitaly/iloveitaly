@@ -12,7 +12,7 @@
 - [Using ChatGPT to Convert LabCorp PDFs into a Google Sheet](https://mikebian.co/using-chatgpt-to-convert-labcorp-pdfs-into-a-google-sheet/) (1 week ago)
 - [What I’ve Learned Searching for a New Startup Idea, Part 2](https://mikebian.co/what-ive-learned-searching-for-a-new-startup-idea-part-2/) (1 week ago)
 - [What I’ve Learned Searching for a New Startup Idea, Part I](https://mikebian.co/what-ive-learned-searching-for-a-new-startup-idea-part-i/) (2 weeks ago)
-- [Downloading Fidelity Charitable &amp; Cigna Health Records](https://mikebian.co/downloading-fidelity-charitable-cigna-health-records/) (3 weeks ago)
+- [Downloading Fidelity Charitable &amp; Cigna Health Records](https://mikebian.co/downloading-fidelity-charitable-cigna-health-records/) (4 weeks ago)
 - [Raspberry Pi Configuration Tips &amp; Tricks](https://mikebian.co/raspberry-pi-configuration-tips-tricks/) (1 month ago)
 - [Book Notes: Wanting](https://mikebian.co/book-notes-wanting/) (1 month ago)
 
@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.0.349](https://github.com/langchain-ai/langchain/releases/tag/v0.0.349), 1 day ago) - ⚡ Building applications with LLMs through composability ⚡
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.29.3](https://github.com/dolthub/dolt/releases/tag/v1.29.3), 3 days ago) - Dolt – Git for Data
-- [cli/cli](https://github.com/cli/cli) ([v2.40.0](https://github.com/cli/cli/releases/tag/v2.40.0), 5 days ago) - GitHub’s official command line tool
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.203](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.203), 5 days ago) - 
-- [nodejs/node](https://github.com/nodejs/node) ([v21.4.0](https://github.com/nodejs/node/releases/tag/v21.4.0), 1 week ago) - Node.js JavaScript runtime ✨🐢🚀✨
-- [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) ([v0.14.1](https://github.com/abhinav/tmux-fastcopy/releases/tag/v0.14.1), 1 week ago) - easymotion-style text copying for tmux.
+- [iloveitaly/funcy-pipe](https://github.com/iloveitaly/funcy-pipe) ([v0.5.0](https://github.com/iloveitaly/funcy-pipe/releases/tag/v0.5.0), 1 day ago) - If Funcy and Pipe had a baby. Decorates all Funcy methods with Pipe superpowers.
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.205](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.205), 1 day ago) - 
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.0.350](https://github.com/langchain-ai/langchain/releases/tag/v0.0.350), 1 day ago) - ⚡ Building applications with LLMs through composability ⚡
+- [dawidd6/action-homebrew-bump-formula](https://github.com/dawidd6/action-homebrew-bump-formula) ([v3.10.1](https://github.com/dawidd6/action-homebrew-bump-formula/releases/tag/v3.10.1), 1 day ago) - :gear: A GitHub Action to easily bump Homebrew formula on new release
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.29.4](https://github.com/dolthub/dolt/releases/tag/v1.29.4), 1 day ago) - Dolt – Git for Data
+- [cli/cli](https://github.com/cli/cli) ([v2.40.0](https://github.com/cli/cli/releases/tag/v2.40.0), 6 days ago) - GitHub’s official command line tool
