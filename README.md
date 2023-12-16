@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) ([v1.20.0](https://github.com/railwayapp/nixpacks/releases/tag/v1.20.0), 1 day ago) - App source &#43; Nix packages &#43; Docker = Image
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.207](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.207), 1 day ago) - 
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.29.5](https://github.com/dolthub/dolt/releases/tag/v1.29.5), 2 days ago) - Dolt – Git for Data
-- [cli/cli](https://github.com/cli/cli) ([v2.40.1](https://github.com/cli/cli/releases/tag/v2.40.1), 2 days ago) - GitHub’s official command line tool
-- [iloveitaly/funcy-pipe](https://github.com/iloveitaly/funcy-pipe) ([v0.5.0](https://github.com/iloveitaly/funcy-pipe/releases/tag/v0.5.0), 3 days ago) - If Funcy and Pipe had a baby. Decorates all Funcy methods with Pipe superpowers.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.0.350](https://github.com/langchain-ai/langchain/releases/tag/v0.0.350), 3 days ago) - ⚡ Building applications with LLMs through composability ⚡
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.208](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.208), 1 day ago) - 
+- [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) ([v1.20.0](https://github.com/railwayapp/nixpacks/releases/tag/v1.20.0), 2 days ago) - App source &#43; Nix packages &#43; Docker = Image
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.29.5](https://github.com/dolthub/dolt/releases/tag/v1.29.5), 3 days ago) - Dolt – Git for Data
+- [cli/cli](https://github.com/cli/cli) ([v2.40.1](https://github.com/cli/cli/releases/tag/v2.40.1), 3 days ago) - GitHub’s official command line tool
+- [iloveitaly/funcy-pipe](https://github.com/iloveitaly/funcy-pipe) ([v0.5.0](https://github.com/iloveitaly/funcy-pipe/releases/tag/v0.5.0), 4 days ago) - If Funcy and Pipe had a baby. Decorates all Funcy methods with Pipe superpowers.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.0.350](https://github.com/langchain-ai/langchain/releases/tag/v0.0.350), 4 days ago) - ⚡ Building applications with LLMs through composability ⚡
