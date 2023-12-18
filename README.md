@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [iloveitaly/todoist-digest](https://github.com/iloveitaly/todoist-digest) ([v0.2.0](https://github.com/iloveitaly/todoist-digest/releases/tag/v0.2.0), 1 day ago) - Generate a digest of comments that occured since the last checked in date. Useful for including in an email.
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.208](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.208), 2 days ago) - 
-- [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) ([v1.20.0](https://github.com/railwayapp/nixpacks/releases/tag/v1.20.0), 3 days ago) - App source &#43; Nix packages &#43; Docker = Image
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.29.5](https://github.com/dolthub/dolt/releases/tag/v1.29.5), 4 days ago) - Dolt – Git for Data
-- [cli/cli](https://github.com/cli/cli) ([v2.40.1](https://github.com/cli/cli/releases/tag/v2.40.1), 4 days ago) - GitHub’s official command line tool
-- [iloveitaly/funcy-pipe](https://github.com/iloveitaly/funcy-pipe) ([v0.5.0](https://github.com/iloveitaly/funcy-pipe/releases/tag/v0.5.0), 5 days ago) - If Funcy and Pipe had a baby. Decorates all Funcy methods with Pipe superpowers.
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.209](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.209), 1 day ago) - 
+- [iloveitaly/todoist-digest](https://github.com/iloveitaly/todoist-digest) ([v0.2.0](https://github.com/iloveitaly/todoist-digest/releases/tag/v0.2.0), 2 days ago) - Generate a digest of comments that occured since the last checked in date. Useful for including in an email.
+- [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) ([v1.20.0](https://github.com/railwayapp/nixpacks/releases/tag/v1.20.0), 4 days ago) - App source &#43; Nix packages &#43; Docker = Image
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.29.5](https://github.com/dolthub/dolt/releases/tag/v1.29.5), 5 days ago) - Dolt – Git for Data
+- [cli/cli](https://github.com/cli/cli) ([v2.40.1](https://github.com/cli/cli/releases/tag/v2.40.1), 5 days ago) - GitHub’s official command line tool
+- [iloveitaly/funcy-pipe](https://github.com/iloveitaly/funcy-pipe) ([v0.5.0](https://github.com/iloveitaly/funcy-pipe/releases/tag/v0.5.0), 6 days ago) - If Funcy and Pipe had a baby. Decorates all Funcy methods with Pipe superpowers.
