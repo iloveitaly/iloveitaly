@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.0.351](https://github.com/langchain-ai/langchain/releases/tag/v0.0.351), 1 day ago) - ⚡ Building applications with LLMs through composability ⚡
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.29.6](https://github.com/dolthub/dolt/releases/tag/v1.29.6), 1 day ago) - Dolt – Git for Data
-- [iloveitaly/todoist-digest](https://github.com/iloveitaly/todoist-digest) ([v0.2.4](https://github.com/iloveitaly/todoist-digest/releases/tag/v0.2.4), 1 day ago) - Generate a digest of comments that occured since the last checked in date. Useful for including in an email.
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.209](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.209), 2 days ago) - 
-- [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) ([v1.20.0](https://github.com/railwayapp/nixpacks/releases/tag/v1.20.0), 5 days ago) - App source &#43; Nix packages &#43; Docker = Image
-- [cli/cli](https://github.com/cli/cli) ([v2.40.1](https://github.com/cli/cli/releases/tag/v2.40.1), 6 days ago) - GitHub’s official command line tool
+- [nodejs/node](https://github.com/nodejs/node) ([v21.5.0](https://github.com/nodejs/node/releases/tag/v21.5.0), 1 day ago) - Node.js JavaScript runtime ✨🐢🚀✨
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.0.351](https://github.com/langchain-ai/langchain/releases/tag/v0.0.351), 2 days ago) - ⚡ Building applications with LLMs through composability ⚡
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.29.6](https://github.com/dolthub/dolt/releases/tag/v1.29.6), 2 days ago) - Dolt – Git for Data
+- [iloveitaly/todoist-digest](https://github.com/iloveitaly/todoist-digest) ([v0.2.4](https://github.com/iloveitaly/todoist-digest/releases/tag/v0.2.4), 2 days ago) - Generate a digest of comments that occured since the last checked in date. Useful for including in an email.
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.209](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.209), 3 days ago) - 
+- [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) ([v1.20.0](https://github.com/railwayapp/nixpacks/releases/tag/v1.20.0), 6 days ago) - App source &#43; Nix packages &#43; Docker = Image
