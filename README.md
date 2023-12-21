@@ -10,7 +10,7 @@
 
 
 - [Using ChatGPT to Convert LabCorp PDFs into a Google Sheet](https://mikebian.co/using-chatgpt-to-convert-labcorp-pdfs-into-a-google-sheet/) (2 weeks ago)
-- [What I’ve Learned Searching for a New Startup Idea, Part 2](https://mikebian.co/what-ive-learned-searching-for-a-new-startup-idea-part-2/) (2 weeks ago)
+- [What I’ve Learned Searching for a New Startup Idea, Part 2](https://mikebian.co/what-ive-learned-searching-for-a-new-startup-idea-part-2/) (3 weeks ago)
 - [What I’ve Learned Searching for a New Startup Idea, Part I](https://mikebian.co/what-ive-learned-searching-for-a-new-startup-idea-part-i/) (3 weeks ago)
 - [Downloading Fidelity Charitable &amp; Cigna Health Records](https://mikebian.co/downloading-fidelity-charitable-cigna-health-records/) (1 month ago)
 - [Raspberry Pi Configuration Tips &amp; Tricks](https://mikebian.co/raspberry-pi-configuration-tips-tricks/) (1 month ago)
@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [nodejs/node](https://github.com/nodejs/node) ([v21.5.0](https://github.com/nodejs/node/releases/tag/v21.5.0), 1 day ago) - Node.js JavaScript runtime ✨🐢🚀✨
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.0.351](https://github.com/langchain-ai/langchain/releases/tag/v0.0.351), 2 days ago) - ⚡ Building applications with LLMs through composability ⚡
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.29.6](https://github.com/dolthub/dolt/releases/tag/v1.29.6), 2 days ago) - Dolt – Git for Data
-- [iloveitaly/todoist-digest](https://github.com/iloveitaly/todoist-digest) ([v0.2.4](https://github.com/iloveitaly/todoist-digest/releases/tag/v0.2.4), 2 days ago) - Generate a digest of comments that occured since the last checked in date. Useful for including in an email.
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.209](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.209), 3 days ago) - 
-- [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) ([v1.20.0](https://github.com/railwayapp/nixpacks/releases/tag/v1.20.0), 6 days ago) - App source &#43; Nix packages &#43; Docker = Image
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.29.7](https://github.com/dolthub/dolt/releases/tag/v1.29.7), 1 day ago) - Dolt – Git for Data
+- [brimdata/zed](https://github.com/brimdata/zed) ([v1.12.0](https://github.com/brimdata/zed/releases/tag/v1.12.0), 1 day ago) - A novel data lake based on super-structured data
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.0.352](https://github.com/langchain-ai/langchain/releases/tag/v0.0.352), 1 day ago) - ⚡ Building applications with LLMs through composability ⚡
+- [nearform-actions/github-action-notify-twitter](https://github.com/nearform-actions/github-action-notify-twitter) ([v1.1.6](https://github.com/nearform-actions/github-action-notify-twitter/releases/tag/v1.1.6), 1 day ago) - GitHub action that can send a custom message to a Twitter account
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.210](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.210), 1 day ago) - 
+- [nodejs/node](https://github.com/nodejs/node) ([v21.5.0](https://github.com/nodejs/node/releases/tag/v21.5.0), 2 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
