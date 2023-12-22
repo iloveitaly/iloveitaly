@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.29.7](https://github.com/dolthub/dolt/releases/tag/v1.29.7), 1 day ago) - Dolt – Git for Data
-- [brimdata/zed](https://github.com/brimdata/zed) ([v1.12.0](https://github.com/brimdata/zed/releases/tag/v1.12.0), 1 day ago) - A novel data lake based on super-structured data
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.0.352](https://github.com/langchain-ai/langchain/releases/tag/v0.0.352), 1 day ago) - ⚡ Building applications with LLMs through composability ⚡
-- [nearform-actions/github-action-notify-twitter](https://github.com/nearform-actions/github-action-notify-twitter) ([v1.1.6](https://github.com/nearform-actions/github-action-notify-twitter/releases/tag/v1.1.6), 1 day ago) - GitHub action that can send a custom message to a Twitter account
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.210](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.210), 1 day ago) - 
-- [nodejs/node](https://github.com/nodejs/node) ([v21.5.0](https://github.com/nodejs/node/releases/tag/v21.5.0), 2 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
+- [iloveitaly/todoist-digest](https://github.com/iloveitaly/todoist-digest) ([v0.2.6](https://github.com/iloveitaly/todoist-digest/releases/tag/v0.2.6), 1 day ago) - Generate a digest of comments that occured since the last checked in date. Useful for including in an email.
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.211](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.211), 1 day ago) - 
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.29.7](https://github.com/dolthub/dolt/releases/tag/v1.29.7), 2 days ago) - Dolt – Git for Data
+- [brimdata/zed](https://github.com/brimdata/zed) ([v1.12.0](https://github.com/brimdata/zed/releases/tag/v1.12.0), 2 days ago) - A novel data lake based on super-structured data
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.0.352](https://github.com/langchain-ai/langchain/releases/tag/v0.0.352), 2 days ago) - ⚡ Building applications with LLMs through composability ⚡
+- [nearform-actions/github-action-notify-twitter](https://github.com/nearform-actions/github-action-notify-twitter) ([v1.1.6](https://github.com/nearform-actions/github-action-notify-twitter/releases/tag/v1.1.6), 2 days ago) - GitHub action that can send a custom message to a Twitter account
