@@ -19,19 +19,19 @@
 #### 🌱 My latest projects
 
 
+- [iloveitaly/readwise-to-datasette](https://github.com/iloveitaly/readwise-to-datasette) - Extract readwise highlights into a datasette sqlite DB
 - [iloveitaly/ipython-ctrlr-fzf](https://github.com/iloveitaly/ipython-ctrlr-fzf) - overrides ipython&#39;s backwards search to use fzf
 - [iloveitaly/ics-to-datasette](https://github.com/iloveitaly/ics-to-datasette) - Convert an ICS file to a SQLite database
 - [iloveitaly/todoist-digest](https://github.com/iloveitaly/todoist-digest) - Generate a digest of comments that occured since the last checked in date. Useful for including in an email.
 - [iloveitaly/conventional-notes-summarization](https://github.com/iloveitaly/conventional-notes-summarization) - 
 - [iloveitaly/census-business-data](https://github.com/iloveitaly/census-business-data) - 
-- [iloveitaly/ansible-dotfiles-bootstrap](https://github.com/iloveitaly/ansible-dotfiles-bootstrap) - Ansible role to download dotfiles, find the installation/bootstrap command, and execute it
 
 #### 🔭 Latest releases I've contributed to
 
 
-- [iloveitaly/todoist-digest](https://github.com/iloveitaly/todoist-digest) ([v0.3.0](https://github.com/iloveitaly/todoist-digest/releases/tag/v0.3.0), 1 day ago) - Generate a digest of comments that occured since the last checked in date. Useful for including in an email.
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.212](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.212), 1 day ago) - 
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.29.7](https://github.com/dolthub/dolt/releases/tag/v1.29.7), 4 days ago) - Dolt – Git for Data
-- [brimdata/zed](https://github.com/brimdata/zed) ([v1.12.0](https://github.com/brimdata/zed/releases/tag/v1.12.0), 4 days ago) - A novel data lake based on super-structured data
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.0.352](https://github.com/langchain-ai/langchain/releases/tag/v0.0.352), 4 days ago) - ⚡ Building applications with LLMs through composability ⚡
-- [nearform-actions/github-action-notify-twitter](https://github.com/nearform-actions/github-action-notify-twitter) ([v1.1.6](https://github.com/nearform-actions/github-action-notify-twitter/releases/tag/v1.1.6), 4 days ago) - GitHub action that can send a custom message to a Twitter account
+- [iloveitaly/hyper-focus](https://github.com/iloveitaly/hyper-focus) ([v0.4.0](https://github.com/iloveitaly/hyper-focus/releases/tag/v0.4.0), 1 day ago) - Block hosts, apps, specific urls (with query string vars!), launch scripts on wake, and generally optimize your productivity and focus
+- [iloveitaly/readwise-to-datasette](https://github.com/iloveitaly/readwise-to-datasette) ([v0.2.0](https://github.com/iloveitaly/readwise-to-datasette/releases/tag/v0.2.0), 1 day ago) - Extract readwise highlights into a datasette sqlite DB
+- [iloveitaly/todoist-digest](https://github.com/iloveitaly/todoist-digest) ([v0.3.0](https://github.com/iloveitaly/todoist-digest/releases/tag/v0.3.0), 2 days ago) - Generate a digest of comments that occured since the last checked in date. Useful for including in an email.
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.212](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.212), 2 days ago) - 
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.29.7](https://github.com/dolthub/dolt/releases/tag/v1.29.7), 5 days ago) - Dolt – Git for Data
+- [brimdata/zed](https://github.com/brimdata/zed) ([v1.12.0](https://github.com/brimdata/zed/releases/tag/v1.12.0), 5 days ago) - A novel data lake based on super-structured data
