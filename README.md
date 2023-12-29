@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.30.1](https://github.com/dolthub/dolt/releases/tag/v1.30.1), 1 day ago) - Dolt – Git for Data
-- [iloveitaly/hyper-focus](https://github.com/iloveitaly/hyper-focus) ([v0.4.0](https://github.com/iloveitaly/hyper-focus/releases/tag/v0.4.0), 4 days ago) - Block hosts, apps, specific urls (with query string vars!), launch scripts on wake, and generally optimize your productivity and focus
-- [iloveitaly/readwise-to-datasette](https://github.com/iloveitaly/readwise-to-datasette) ([v0.2.0](https://github.com/iloveitaly/readwise-to-datasette/releases/tag/v0.2.0), 4 days ago) - Extract readwise highlights into a datasette sqlite DB
-- [iloveitaly/todoist-digest](https://github.com/iloveitaly/todoist-digest) ([v0.3.0](https://github.com/iloveitaly/todoist-digest/releases/tag/v0.3.0), 5 days ago) - Generate a digest of comments that occured since the last checked in date. Useful for including in an email.
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.212](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.212), 5 days ago) - 
-- [brimdata/zed](https://github.com/brimdata/zed) ([v1.12.0](https://github.com/brimdata/zed/releases/tag/v1.12.0), 1 week ago) - A novel data lake based on super-structured data
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.30.2](https://github.com/dolthub/dolt/releases/tag/v1.30.2), 1 day ago) - Dolt – Git for Data
+- [TriPSs/conventional-changelog-action](https://github.com/TriPSs/conventional-changelog-action) ([v5.0.0](https://github.com/TriPSs/conventional-changelog-action/releases/tag/v5.0.0), 1 day ago) - Github Action that generates a changelog with the Conventional Changelog CLI
+- [iloveitaly/hyper-focus](https://github.com/iloveitaly/hyper-focus) ([v0.4.0](https://github.com/iloveitaly/hyper-focus/releases/tag/v0.4.0), 5 days ago) - Block hosts, apps, specific urls (with query string vars!), launch scripts on wake, and generally optimize your productivity and focus
+- [iloveitaly/readwise-to-datasette](https://github.com/iloveitaly/readwise-to-datasette) ([v0.2.0](https://github.com/iloveitaly/readwise-to-datasette/releases/tag/v0.2.0), 5 days ago) - Extract readwise highlights into a datasette sqlite DB
+- [iloveitaly/todoist-digest](https://github.com/iloveitaly/todoist-digest) ([v0.3.0](https://github.com/iloveitaly/todoist-digest/releases/tag/v0.3.0), 6 days ago) - Generate a digest of comments that occured since the last checked in date. Useful for including in an email.
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.212](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.212), 6 days ago) - 
