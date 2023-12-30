@@ -10,7 +10,7 @@
 
 
 - [Using ChatGPT to Convert LabCorp PDFs into a Google Sheet](https://mikebian.co/using-chatgpt-to-convert-labcorp-pdfs-into-a-google-sheet/) (3 weeks ago)
-- [What I’ve Learned Searching for a New Startup Idea, Part 2](https://mikebian.co/what-ive-learned-searching-for-a-new-startup-idea-part-2/) (4 weeks ago)
+- [What I’ve Learned Searching for a New Startup Idea, Part 2](https://mikebian.co/what-ive-learned-searching-for-a-new-startup-idea-part-2/) (1 month ago)
 - [What I’ve Learned Searching for a New Startup Idea, Part I](https://mikebian.co/what-ive-learned-searching-for-a-new-startup-idea-part-i/) (1 month ago)
 - [Downloading Fidelity Charitable &amp; Cigna Health Records](https://mikebian.co/downloading-fidelity-charitable-cigna-health-records/) (1 month ago)
 - [Raspberry Pi Configuration Tips &amp; Tricks](https://mikebian.co/raspberry-pi-configuration-tips-tricks/) (1 month ago)
@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.30.2](https://github.com/dolthub/dolt/releases/tag/v1.30.2), 1 day ago) - Dolt – Git for Data
-- [TriPSs/conventional-changelog-action](https://github.com/TriPSs/conventional-changelog-action) ([v5.0.0](https://github.com/TriPSs/conventional-changelog-action/releases/tag/v5.0.0), 1 day ago) - Github Action that generates a changelog with the Conventional Changelog CLI
-- [iloveitaly/hyper-focus](https://github.com/iloveitaly/hyper-focus) ([v0.4.0](https://github.com/iloveitaly/hyper-focus/releases/tag/v0.4.0), 5 days ago) - Block hosts, apps, specific urls (with query string vars!), launch scripts on wake, and generally optimize your productivity and focus
-- [iloveitaly/readwise-to-datasette](https://github.com/iloveitaly/readwise-to-datasette) ([v0.2.0](https://github.com/iloveitaly/readwise-to-datasette/releases/tag/v0.2.0), 5 days ago) - Extract readwise highlights into a datasette sqlite DB
-- [iloveitaly/todoist-digest](https://github.com/iloveitaly/todoist-digest) ([v0.3.0](https://github.com/iloveitaly/todoist-digest/releases/tag/v0.3.0), 6 days ago) - Generate a digest of comments that occured since the last checked in date. Useful for including in an email.
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.212](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.212), 6 days ago) - 
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.30.3](https://github.com/dolthub/dolt/releases/tag/v1.30.3), 1 day ago) - Dolt – Git for Data
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.0.353](https://github.com/langchain-ai/langchain/releases/tag/v0.0.353), 1 day ago) - ⚡ Building applications with LLMs through composability ⚡
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.213](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.213), 1 day ago) - 
+- [iloveitaly/hyper-focus](https://github.com/iloveitaly/hyper-focus) ([v0.5.1](https://github.com/iloveitaly/hyper-focus/releases/tag/v0.5.1), 1 day ago) - Block hosts, apps, specific urls (with query string vars!), launch scripts on wake, and generally optimize your productivity and focus
+- [TriPSs/conventional-changelog-action](https://github.com/TriPSs/conventional-changelog-action) ([v5.0.0](https://github.com/TriPSs/conventional-changelog-action/releases/tag/v5.0.0), 2 days ago) - Github Action that generates a changelog with the Conventional Changelog CLI
+- [iloveitaly/readwise-to-datasette](https://github.com/iloveitaly/readwise-to-datasette) ([v0.2.0](https://github.com/iloveitaly/readwise-to-datasette/releases/tag/v0.2.0), 6 days ago) - Extract readwise highlights into a datasette sqlite DB
