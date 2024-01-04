@@ -9,7 +9,7 @@
 #### 📜 My recent blog posts
 
 
-- [Using ChatGPT to Convert LabCorp PDFs into a Google Sheet](https://mikebian.co/using-chatgpt-to-convert-labcorp-pdfs-into-a-google-sheet/) (4 weeks ago)
+- [Using ChatGPT to Convert LabCorp PDFs into a Google Sheet](https://mikebian.co/using-chatgpt-to-convert-labcorp-pdfs-into-a-google-sheet/) (1 month ago)
 - [What I’ve Learned Searching for a New Startup Idea, Part 2](https://mikebian.co/what-ive-learned-searching-for-a-new-startup-idea-part-2/) (1 month ago)
 - [What I’ve Learned Searching for a New Startup Idea, Part I](https://mikebian.co/what-ive-learned-searching-for-a-new-startup-idea-part-i/) (1 month ago)
 - [Downloading Fidelity Charitable &amp; Cigna Health Records](https://mikebian.co/downloading-fidelity-charitable-cigna-health-records/) (1 month ago)
@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [iloveitaly/todoist-digest](https://github.com/iloveitaly/todoist-digest) ([v0.3.1](https://github.com/iloveitaly/todoist-digest/releases/tag/v0.3.1), 2 days ago) - Generate a digest of comments that occured since the last checked in date. Useful for including in an email.
-- [wfxr/forgit](https://github.com/wfxr/forgit) ([24.01.0](https://github.com/wfxr/forgit/releases/tag/24.01.0), 2 days ago) - :zzz: A utility tool powered by fzf for using git interactively.
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.30.4](https://github.com/dolthub/dolt/releases/tag/v1.30.4), 4 days ago) - Dolt – Git for Data
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.0.353](https://github.com/langchain-ai/langchain/releases/tag/v0.0.353), 5 days ago) - ⚡ Building applications with LLMs through composability ⚡
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.213](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.213), 5 days ago) - 
-- [iloveitaly/hyper-focus](https://github.com/iloveitaly/hyper-focus) ([v0.5.1](https://github.com/iloveitaly/hyper-focus/releases/tag/v0.5.1), 5 days ago) - Block hosts, apps, specific urls (with query string vars!), launch scripts on wake, and generally optimize your productivity and focus
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.30.5](https://github.com/dolthub/dolt/releases/tag/v1.30.5), 1 day ago) - Dolt – Git for Data
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.0.354](https://github.com/langchain-ai/langchain/releases/tag/v0.0.354), 1 day ago) - ⚡ Building applications with LLMs through composability ⚡
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.214](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.214), 1 day ago) - 
+- [iloveitaly/todoist-digest](https://github.com/iloveitaly/todoist-digest) ([v0.3.1](https://github.com/iloveitaly/todoist-digest/releases/tag/v0.3.1), 3 days ago) - Generate a digest of comments that occured since the last checked in date. Useful for including in an email.
+- [wfxr/forgit](https://github.com/wfxr/forgit) ([24.01.0](https://github.com/wfxr/forgit/releases/tag/24.01.0), 3 days ago) - :zzz: A utility tool powered by fzf for using git interactively.
+- [iloveitaly/hyper-focus](https://github.com/iloveitaly/hyper-focus) ([v0.5.1](https://github.com/iloveitaly/hyper-focus/releases/tag/v0.5.1), 6 days ago) - Block hosts, apps, specific urls (with query string vars!), launch scripts on wake, and generally optimize your productivity and focus
