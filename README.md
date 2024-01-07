@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.30.7](https://github.com/dolthub/dolt/releases/tag/v1.30.7), 1 day ago) - Dolt – Git for Data
-- [TriPSs/conventional-changelog-action](https://github.com/TriPSs/conventional-changelog-action) ([v5.1.0](https://github.com/TriPSs/conventional-changelog-action/releases/tag/v5.1.0), 1 day ago) - Github Action that generates a changelog with the Conventional Changelog CLI
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.0.354](https://github.com/langchain-ai/langchain/releases/tag/v0.0.354), 3 days ago) - ⚡ Building applications with LLMs through composability ⚡
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.214](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.214), 3 days ago) - 
-- [iloveitaly/todoist-digest](https://github.com/iloveitaly/todoist-digest) ([v0.3.1](https://github.com/iloveitaly/todoist-digest/releases/tag/v0.3.1), 5 days ago) - Generate a digest of comments that occured since the last checked in date. Useful for including in an email.
-- [wfxr/forgit](https://github.com/wfxr/forgit) ([24.01.0](https://github.com/wfxr/forgit/releases/tag/24.01.0), 5 days ago) - :zzz: A utility tool powered by fzf for using git interactively.
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.0](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.0), 1 day ago) - 
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.1.0](https://github.com/langchain-ai/langchain/releases/tag/v0.1.0), 1 day ago) - ⚡ Building applications with LLMs through composability ⚡
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.30.7](https://github.com/dolthub/dolt/releases/tag/v1.30.7), 2 days ago) - Dolt – Git for Data
+- [TriPSs/conventional-changelog-action](https://github.com/TriPSs/conventional-changelog-action) ([v5.1.0](https://github.com/TriPSs/conventional-changelog-action/releases/tag/v5.1.0), 2 days ago) - Github Action that generates a changelog with the Conventional Changelog CLI
+- [iloveitaly/todoist-digest](https://github.com/iloveitaly/todoist-digest) ([v0.3.1](https://github.com/iloveitaly/todoist-digest/releases/tag/v0.3.1), 6 days ago) - Generate a digest of comments that occured since the last checked in date. Useful for including in an email.
+- [wfxr/forgit](https://github.com/wfxr/forgit) ([24.01.0](https://github.com/wfxr/forgit/releases/tag/24.01.0), 6 days ago) - :zzz: A utility tool powered by fzf for using git interactively.
