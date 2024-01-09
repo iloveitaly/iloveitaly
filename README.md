@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.0](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.0), 2 days ago) - 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.1.0](https://github.com/langchain-ai/langchain/releases/tag/v0.1.0), 2 days ago) - ⚡ Building applications with LLMs through composability ⚡
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.30.7](https://github.com/dolthub/dolt/releases/tag/v1.30.7), 3 days ago) - Dolt – Git for Data
-- [TriPSs/conventional-changelog-action](https://github.com/TriPSs/conventional-changelog-action) ([v5.1.0](https://github.com/TriPSs/conventional-changelog-action/releases/tag/v5.1.0), 3 days ago) - Github Action that generates a changelog with the Conventional Changelog CLI
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.31.0](https://github.com/dolthub/dolt/releases/tag/v1.31.0), 1 day ago) - Dolt – Git for Data
+- [cli/cli](https://github.com/cli/cli) ([v2.41.0](https://github.com/cli/cli/releases/tag/v2.41.0), 1 day ago) - GitHub’s official command line tool
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.1](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.1), 1 day ago) - 
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.1.0](https://github.com/langchain-ai/langchain/releases/tag/v0.1.0), 3 days ago) - ⚡ Building applications with LLMs through composability ⚡
+- [TriPSs/conventional-changelog-action](https://github.com/TriPSs/conventional-changelog-action) ([v5.1.0](https://github.com/TriPSs/conventional-changelog-action/releases/tag/v5.1.0), 4 days ago) - Github Action that generates a changelog with the Conventional Changelog CLI
 - [iloveitaly/todoist-digest](https://github.com/iloveitaly/todoist-digest) ([v0.3.1](https://github.com/iloveitaly/todoist-digest/releases/tag/v0.3.1), 1 week ago) - Generate a digest of comments that occured since the last checked in date. Useful for including in an email.
-- [wfxr/forgit](https://github.com/wfxr/forgit) ([24.01.0](https://github.com/wfxr/forgit/releases/tag/24.01.0), 1 week ago) - :zzz: A utility tool powered by fzf for using git interactively.
