@@ -9,12 +9,12 @@
 #### 📜 My recent blog posts
 
 
+- [2023 Goal Retrospective](https://mikebian.co/2023-goal-retrospective/) (1 day ago)
 - [Using ChatGPT to Convert LabCorp PDFs into a Google Sheet](https://mikebian.co/using-chatgpt-to-convert-labcorp-pdfs-into-a-google-sheet/) (1 month ago)
 - [What I’ve Learned Searching for a New Startup Idea, Part 2](https://mikebian.co/what-ive-learned-searching-for-a-new-startup-idea-part-2/) (1 month ago)
 - [What I’ve Learned Searching for a New Startup Idea, Part I](https://mikebian.co/what-ive-learned-searching-for-a-new-startup-idea-part-i/) (1 month ago)
 - [Downloading Fidelity Charitable &amp; Cigna Health Records](https://mikebian.co/downloading-fidelity-charitable-cigna-health-records/) (1 month ago)
 - [Raspberry Pi Configuration Tips &amp; Tricks](https://mikebian.co/raspberry-pi-configuration-tips-tricks/) (2 months ago)
-- [Book Notes: Wanting](https://mikebian.co/book-notes-wanting/) (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.31.0](https://github.com/dolthub/dolt/releases/tag/v1.31.0), 1 day ago) - Dolt – Git for Data
-- [cli/cli](https://github.com/cli/cli) ([v2.41.0](https://github.com/cli/cli/releases/tag/v2.41.0), 1 day ago) - GitHub’s official command line tool
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.1](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.1), 1 day ago) - 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.1.0](https://github.com/langchain-ai/langchain/releases/tag/v0.1.0), 3 days ago) - ⚡ Building applications with LLMs through composability ⚡
-- [TriPSs/conventional-changelog-action](https://github.com/TriPSs/conventional-changelog-action) ([v5.1.0](https://github.com/TriPSs/conventional-changelog-action/releases/tag/v5.1.0), 4 days ago) - Github Action that generates a changelog with the Conventional Changelog CLI
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.2](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.2), 1 day ago) - 
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.31.0](https://github.com/dolthub/dolt/releases/tag/v1.31.0), 2 days ago) - Dolt – Git for Data
+- [cli/cli](https://github.com/cli/cli) ([v2.41.0](https://github.com/cli/cli/releases/tag/v2.41.0), 2 days ago) - GitHub’s official command line tool
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.1.0](https://github.com/langchain-ai/langchain/releases/tag/v0.1.0), 4 days ago) - ⚡ Building applications with LLMs through composability ⚡
+- [TriPSs/conventional-changelog-action](https://github.com/TriPSs/conventional-changelog-action) ([v5.1.0](https://github.com/TriPSs/conventional-changelog-action/releases/tag/v5.1.0), 5 days ago) - Github Action that generates a changelog with the Conventional Changelog CLI
 - [iloveitaly/todoist-digest](https://github.com/iloveitaly/todoist-digest) ([v0.3.1](https://github.com/iloveitaly/todoist-digest/releases/tag/v0.3.1), 1 week ago) - Generate a digest of comments that occured since the last checked in date. Useful for including in an email.
