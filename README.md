@@ -9,8 +9,8 @@
 #### 📜 My recent blog posts
 
 
-- [Best of 2023](https://mikebian.co/best-of-2023/) (3 days ago)
-- [2023 Goal Retrospective](https://mikebian.co/2023-goal-retrospective/) (5 days ago)
+- [Best of 2023](https://mikebian.co/best-of-2023/) (4 days ago)
+- [2023 Goal Retrospective](https://mikebian.co/2023-goal-retrospective/) (6 days ago)
 - [Using ChatGPT to Convert LabCorp PDFs into a Google Sheet](https://mikebian.co/using-chatgpt-to-convert-labcorp-pdfs-into-a-google-sheet/) (1 month ago)
 - [What I’ve Learned Searching for a New Startup Idea, Part 2](https://mikebian.co/what-ive-learned-searching-for-a-new-startup-idea-part-2/) (1 month ago)
 - [What I’ve Learned Searching for a New Startup Idea, Part I](https://mikebian.co/what-ive-learned-searching-for-a-new-startup-idea-part-i/) (1 month ago)
@@ -19,19 +19,19 @@
 #### 🌱 My latest projects
 
 
+- [iloveitaly/datasette-enrichments-shell](https://github.com/iloveitaly/datasette-enrichments-shell) - 
 - [iloveitaly/readwise-to-datasette](https://github.com/iloveitaly/readwise-to-datasette) - Extract readwise highlights into a datasette sqlite DB
 - [iloveitaly/ipython-ctrlr-fzf](https://github.com/iloveitaly/ipython-ctrlr-fzf) - overrides ipython&#39;s backwards search to use fzf
 - [iloveitaly/ics-to-datasette](https://github.com/iloveitaly/ics-to-datasette) - Convert an ICS file to a SQLite database
 - [iloveitaly/todoist-digest](https://github.com/iloveitaly/todoist-digest) - Generate a digest of comments that occured since the last checked in date. Useful for including in an email.
 - [iloveitaly/conventional-notes-summarization](https://github.com/iloveitaly/conventional-notes-summarization) - 
-- [iloveitaly/census-business-data](https://github.com/iloveitaly/census-business-data) - 
 
 #### 🔭 Latest releases I've contributed to
 
 
-- [iloveitaly/ics-to-datasette](https://github.com/iloveitaly/ics-to-datasette) ([v0.3.0](https://github.com/iloveitaly/ics-to-datasette/releases/tag/v0.3.0), 1 day ago) - Convert an ICS file to a SQLite database
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.31.1](https://github.com/dolthub/dolt/releases/tag/v1.31.1), 3 days ago) - Dolt – Git for Data
-- [cli/cli](https://github.com/cli/cli) ([v2.42.0](https://github.com/cli/cli/releases/tag/v2.42.0), 3 days ago) - GitHub’s official command line tool
-- [nodejs/node](https://github.com/nodejs/node) ([v20.11.0](https://github.com/nodejs/node/releases/tag/v20.11.0), 4 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.2](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.2), 5 days ago) - 
+- [iloveitaly/ics-to-datasette](https://github.com/iloveitaly/ics-to-datasette) ([v0.3.0](https://github.com/iloveitaly/ics-to-datasette/releases/tag/v0.3.0), 2 days ago) - Convert an ICS file to a SQLite database
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.31.1](https://github.com/dolthub/dolt/releases/tag/v1.31.1), 4 days ago) - Dolt – Git for Data
+- [cli/cli](https://github.com/cli/cli) ([v2.42.0](https://github.com/cli/cli/releases/tag/v2.42.0), 4 days ago) - GitHub’s official command line tool
+- [nodejs/node](https://github.com/nodejs/node) ([v20.11.0](https://github.com/nodejs/node/releases/tag/v20.11.0), 5 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.2](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.2), 6 days ago) - 
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.1.0](https://github.com/langchain-ai/langchain/releases/tag/v0.1.0), 1 week ago) - ⚡ Building applications with LLMs through composability ⚡
