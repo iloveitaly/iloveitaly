@@ -9,7 +9,7 @@
 #### 📜 My recent blog posts
 
 
-- [Best of 2023](https://mikebian.co/best-of-2023/) (6 days ago)
+- [Best of 2023](https://mikebian.co/best-of-2023/) (1 week ago)
 - [2023 Goal Retrospective](https://mikebian.co/2023-goal-retrospective/) (1 week ago)
 - [Using ChatGPT to Convert LabCorp PDFs into a Google Sheet](https://mikebian.co/using-chatgpt-to-convert-labcorp-pdfs-into-a-google-sheet/) (1 month ago)
 - [What I’ve Learned Searching for a New Startup Idea, Part 2](https://mikebian.co/what-ive-learned-searching-for-a-new-startup-idea-part-2/) (1 month ago)
@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.1.1](https://github.com/langchain-ai/langchain/releases/tag/v0.1.1), 1 day ago) - ⚡ Building applications with LLMs through composability ⚡
-- [cli/cli](https://github.com/cli/cli) ([v2.42.1](https://github.com/cli/cli/releases/tag/v2.42.1), 1 day ago) - GitHub’s official command line tool
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.3](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.3), 2 days ago) - 
-- [nodejs/node](https://github.com/nodejs/node) ([v21.6.0](https://github.com/nodejs/node/releases/tag/v21.6.0), 2 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
-- [iloveitaly/ics-to-datasette](https://github.com/iloveitaly/ics-to-datasette) ([v0.3.0](https://github.com/iloveitaly/ics-to-datasette/releases/tag/v0.3.0), 4 days ago) - Convert an ICS file to a SQLite database
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.31.1](https://github.com/dolthub/dolt/releases/tag/v1.31.1), 6 days ago) - Dolt – Git for Data
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.4](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.4), 1 day ago) - 
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.31.3](https://github.com/dolthub/dolt/releases/tag/v1.31.3), 1 day ago) - Dolt – Git for Data
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.1.1](https://github.com/langchain-ai/langchain/releases/tag/v0.1.1), 3 days ago) - ⚡ Building applications with LLMs through composability ⚡
+- [cli/cli](https://github.com/cli/cli) ([v2.42.1](https://github.com/cli/cli/releases/tag/v2.42.1), 3 days ago) - GitHub’s official command line tool
+- [nodejs/node](https://github.com/nodejs/node) ([v21.6.0](https://github.com/nodejs/node/releases/tag/v21.6.0), 4 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
+- [iloveitaly/ics-to-datasette](https://github.com/iloveitaly/ics-to-datasette) ([v0.3.0](https://github.com/iloveitaly/ics-to-datasette/releases/tag/v0.3.0), 6 days ago) - Convert an ICS file to a SQLite database
