@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.4](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.4), 1 day ago) - 
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.31.3](https://github.com/dolthub/dolt/releases/tag/v1.31.3), 1 day ago) - Dolt – Git for Data
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.1.1](https://github.com/langchain-ai/langchain/releases/tag/v0.1.1), 3 days ago) - ⚡ Building applications with LLMs through composability ⚡
-- [cli/cli](https://github.com/cli/cli) ([v2.42.1](https://github.com/cli/cli/releases/tag/v2.42.1), 3 days ago) - GitHub’s official command line tool
-- [nodejs/node](https://github.com/nodejs/node) ([v21.6.0](https://github.com/nodejs/node/releases/tag/v21.6.0), 4 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
-- [iloveitaly/ics-to-datasette](https://github.com/iloveitaly/ics-to-datasette) ([v0.3.0](https://github.com/iloveitaly/ics-to-datasette/releases/tag/v0.3.0), 6 days ago) - Convert an ICS file to a SQLite database
+- [estuary/flow](https://github.com/estuary/flow) ([v0.3.12](https://github.com/estuary/flow/releases/tag/v0.3.12), 1 day ago) - 🌊 Continuously synchronize the systems where your data lives, to the systems where you _want_ it to live, with Estuary Flow. 🌊 
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.32.0](https://github.com/dolthub/dolt/releases/tag/v1.32.0), 1 day ago) - Dolt – Git for Data
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.4](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.4), 2 days ago) - 
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.1.1](https://github.com/langchain-ai/langchain/releases/tag/v0.1.1), 4 days ago) - ⚡ Building applications with LLMs through composability ⚡
+- [cli/cli](https://github.com/cli/cli) ([v2.42.1](https://github.com/cli/cli/releases/tag/v2.42.1), 4 days ago) - GitHub’s official command line tool
+- [nodejs/node](https://github.com/nodejs/node) ([v21.6.0](https://github.com/nodejs/node/releases/tag/v21.6.0), 5 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
