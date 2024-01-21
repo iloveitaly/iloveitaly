@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [estuary/flow](https://github.com/estuary/flow) ([v0.3.12](https://github.com/estuary/flow/releases/tag/v0.3.12), 1 day ago) - 🌊 Continuously synchronize the systems where your data lives, to the systems where you _want_ it to live, with Estuary Flow. 🌊 
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.32.0](https://github.com/dolthub/dolt/releases/tag/v1.32.0), 1 day ago) - Dolt – Git for Data
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.4](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.4), 2 days ago) - 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.1.1](https://github.com/langchain-ai/langchain/releases/tag/v0.1.1), 4 days ago) - ⚡ Building applications with LLMs through composability ⚡
-- [cli/cli](https://github.com/cli/cli) ([v2.42.1](https://github.com/cli/cli/releases/tag/v2.42.1), 4 days ago) - GitHub’s official command line tool
-- [nodejs/node](https://github.com/nodejs/node) ([v21.6.0](https://github.com/nodejs/node/releases/tag/v21.6.0), 5 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
+- [iloveitaly/sql-ai-prompt-generator](https://github.com/iloveitaly/sql-ai-prompt-generator) ([v0.2.0](https://github.com/iloveitaly/sql-ai-prompt-generator/releases/tag/v0.2.0), 1 day ago) - Utility to generate ChatGPT prompts for SQL writing, offering table structure snapshots and sample row data from Postgres and sqlite databases.
+- [estuary/flow](https://github.com/estuary/flow) ([v0.3.12](https://github.com/estuary/flow/releases/tag/v0.3.12), 2 days ago) - 🌊 Continuously synchronize the systems where your data lives, to the systems where you _want_ it to live, with Estuary Flow. 🌊 
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.32.0](https://github.com/dolthub/dolt/releases/tag/v1.32.0), 2 days ago) - Dolt – Git for Data
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.4](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.4), 3 days ago) - 
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.1.1](https://github.com/langchain-ai/langchain/releases/tag/v0.1.1), 5 days ago) - ⚡ Building applications with LLMs through composability ⚡
+- [cli/cli](https://github.com/cli/cli) ([v2.42.1](https://github.com/cli/cli/releases/tag/v2.42.1), 5 days ago) - GitHub’s official command line tool
