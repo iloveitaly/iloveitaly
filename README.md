@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [iloveitaly/sql-ai-prompt-generator](https://github.com/iloveitaly/sql-ai-prompt-generator) ([v0.2.0](https://github.com/iloveitaly/sql-ai-prompt-generator/releases/tag/v0.2.0), 1 day ago) - Utility to generate ChatGPT prompts for SQL writing, offering table structure snapshots and sample row data from Postgres and sqlite databases.
-- [estuary/flow](https://github.com/estuary/flow) ([v0.3.12](https://github.com/estuary/flow/releases/tag/v0.3.12), 2 days ago) - 🌊 Continuously synchronize the systems where your data lives, to the systems where you _want_ it to live, with Estuary Flow. 🌊 
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.32.0](https://github.com/dolthub/dolt/releases/tag/v1.32.0), 2 days ago) - Dolt – Git for Data
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.4](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.4), 3 days ago) - 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.1.1](https://github.com/langchain-ai/langchain/releases/tag/v0.1.1), 5 days ago) - ⚡ Building applications with LLMs through composability ⚡
-- [cli/cli](https://github.com/cli/cli) ([v2.42.1](https://github.com/cli/cli/releases/tag/v2.42.1), 5 days ago) - GitHub’s official command line tool
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.5](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.5), 1 day ago) - 
+- [iloveitaly/sql-ai-prompt-generator](https://github.com/iloveitaly/sql-ai-prompt-generator) ([v0.2.0](https://github.com/iloveitaly/sql-ai-prompt-generator/releases/tag/v0.2.0), 2 days ago) - Utility to generate ChatGPT prompts for SQL writing, offering table structure snapshots and sample row data from Postgres and sqlite databases.
+- [estuary/flow](https://github.com/estuary/flow) ([v0.3.12](https://github.com/estuary/flow/releases/tag/v0.3.12), 3 days ago) - 🌊 Continuously synchronize the systems where your data lives, to the systems where you _want_ it to live, with Estuary Flow. 🌊 
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.32.0](https://github.com/dolthub/dolt/releases/tag/v1.32.0), 3 days ago) - Dolt – Git for Data
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.1.1](https://github.com/langchain-ai/langchain/releases/tag/v0.1.1), 6 days ago) - ⚡ Building applications with LLMs through composability ⚡
+- [cli/cli](https://github.com/cli/cli) ([v2.42.1](https://github.com/cli/cli/releases/tag/v2.42.1), 6 days ago) - GitHub’s official command line tool
