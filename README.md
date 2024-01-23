@@ -10,7 +10,7 @@
 
 
 - [Best of 2023](https://mikebian.co/best-of-2023/) (1 week ago)
-- [2023 Goal Retrospective](https://mikebian.co/2023-goal-retrospective/) (1 week ago)
+- [2023 Goal Retrospective](https://mikebian.co/2023-goal-retrospective/) (2 weeks ago)
 - [Using ChatGPT to Convert LabCorp PDFs into a Google Sheet](https://mikebian.co/using-chatgpt-to-convert-labcorp-pdfs-into-a-google-sheet/) (1 month ago)
 - [What I’ve Learned Searching for a New Startup Idea, Part 2](https://mikebian.co/what-ive-learned-searching-for-a-new-startup-idea-part-2/) (1 month ago)
 - [What I’ve Learned Searching for a New Startup Idea, Part I](https://mikebian.co/what-ive-learned-searching-for-a-new-startup-idea-part-i/) (1 month ago)
@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.5](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.5), 1 day ago) - 
-- [iloveitaly/sql-ai-prompt-generator](https://github.com/iloveitaly/sql-ai-prompt-generator) ([v0.2.0](https://github.com/iloveitaly/sql-ai-prompt-generator/releases/tag/v0.2.0), 2 days ago) - Utility to generate ChatGPT prompts for SQL writing, offering table structure snapshots and sample row data from Postgres and sqlite databases.
-- [estuary/flow](https://github.com/estuary/flow) ([v0.3.12](https://github.com/estuary/flow/releases/tag/v0.3.12), 3 days ago) - 🌊 Continuously synchronize the systems where your data lives, to the systems where you _want_ it to live, with Estuary Flow. 🌊 
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.32.0](https://github.com/dolthub/dolt/releases/tag/v1.32.0), 3 days ago) - Dolt – Git for Data
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.1.1](https://github.com/langchain-ai/langchain/releases/tag/v0.1.1), 6 days ago) - ⚡ Building applications with LLMs through composability ⚡
-- [cli/cli](https://github.com/cli/cli) ([v2.42.1](https://github.com/cli/cli/releases/tag/v2.42.1), 6 days ago) - GitHub’s official command line tool
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.32.1](https://github.com/dolthub/dolt/releases/tag/v1.32.1), 1 day ago) - Dolt – Git for Data
+- [nodejs/node](https://github.com/nodejs/node) ([v21.6.1](https://github.com/nodejs/node/releases/tag/v21.6.1), 1 day ago) - Node.js JavaScript runtime ✨🐢🚀✨
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.1.2](https://github.com/langchain-ai/langchain/releases/tag/v0.1.2), 1 day ago) - ⚡ Building applications with LLMs through composability ⚡
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.5](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.5), 2 days ago) - 
+- [iloveitaly/sql-ai-prompt-generator](https://github.com/iloveitaly/sql-ai-prompt-generator) ([v0.2.0](https://github.com/iloveitaly/sql-ai-prompt-generator/releases/tag/v0.2.0), 3 days ago) - Utility to generate ChatGPT prompts for SQL writing, offering table structure snapshots and sample row data from Postgres and sqlite databases.
+- [estuary/flow](https://github.com/estuary/flow) ([v0.3.12](https://github.com/estuary/flow/releases/tag/v0.3.12), 4 days ago) - 🌊 Continuously synchronize the systems where your data lives, to the systems where you _want_ it to live, with Estuary Flow. 🌊 
