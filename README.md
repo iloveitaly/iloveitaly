@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.32.1](https://github.com/dolthub/dolt/releases/tag/v1.32.1), 1 day ago) - Dolt – Git for Data
-- [nodejs/node](https://github.com/nodejs/node) ([v21.6.1](https://github.com/nodejs/node/releases/tag/v21.6.1), 1 day ago) - Node.js JavaScript runtime ✨🐢🚀✨
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.1.2](https://github.com/langchain-ai/langchain/releases/tag/v0.1.2), 1 day ago) - ⚡ Building applications with LLMs through composability ⚡
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.5](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.5), 2 days ago) - 
-- [iloveitaly/sql-ai-prompt-generator](https://github.com/iloveitaly/sql-ai-prompt-generator) ([v0.2.0](https://github.com/iloveitaly/sql-ai-prompt-generator/releases/tag/v0.2.0), 3 days ago) - Utility to generate ChatGPT prompts for SQL writing, offering table structure snapshots and sample row data from Postgres and sqlite databases.
-- [estuary/flow](https://github.com/estuary/flow) ([v0.3.12](https://github.com/estuary/flow/releases/tag/v0.3.12), 4 days ago) - 🌊 Continuously synchronize the systems where your data lives, to the systems where you _want_ it to live, with Estuary Flow. 🌊 
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.32.2](https://github.com/dolthub/dolt/releases/tag/v1.32.2), 1 day ago) - Dolt – Git for Data
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.1.3](https://github.com/langchain-ai/langchain/releases/tag/v0.1.3), 1 day ago) - ⚡ Building applications with LLMs through composability ⚡
+- [iloveitaly/ipython-ctrlr-fzf](https://github.com/iloveitaly/ipython-ctrlr-fzf) ([v0.2.1](https://github.com/iloveitaly/ipython-ctrlr-fzf/releases/tag/v0.2.1), 1 day ago) - overrides ipython&#39;s backwards search to use fzf
+- [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) ([v1.21.0](https://github.com/railwayapp/nixpacks/releases/tag/v1.21.0), 1 day ago) - App source &#43; Nix packages &#43; Docker = Image
+- [nodejs/node](https://github.com/nodejs/node) ([v21.6.1](https://github.com/nodejs/node/releases/tag/v21.6.1), 2 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.5](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.5), 3 days ago) - 
