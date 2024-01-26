@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [jacobsvante/netsuite](https://github.com/jacobsvante/netsuite) ([v0.10.1](https://github.com/jacobsvante/netsuite/releases/tag/v0.10.1), 1 day ago) - Make async requests to NetSuite SuiteTalk SOAP/REST Web Services and Restlets
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.6](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.6), 1 day ago) - 
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.32.2](https://github.com/dolthub/dolt/releases/tag/v1.32.2), 2 days ago) - Dolt – Git for Data
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.1.3](https://github.com/langchain-ai/langchain/releases/tag/v0.1.3), 2 days ago) - ⚡ Building applications with LLMs through composability ⚡
-- [iloveitaly/ipython-ctrlr-fzf](https://github.com/iloveitaly/ipython-ctrlr-fzf) ([v0.2.1](https://github.com/iloveitaly/ipython-ctrlr-fzf/releases/tag/v0.2.1), 2 days ago) - overrides ipython&#39;s backwards search to use fzf
-- [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) ([v1.21.0](https://github.com/railwayapp/nixpacks/releases/tag/v1.21.0), 2 days ago) - App source &#43; Nix packages &#43; Docker = Image
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.1.4](https://github.com/langchain-ai/langchain/releases/tag/v0.1.4), 1 day ago) - ⚡ Building applications with LLMs through composability ⚡
+- [jacobsvante/netsuite](https://github.com/jacobsvante/netsuite) ([v0.11.0](https://github.com/jacobsvante/netsuite/releases/tag/v0.11.0), 1 day ago) - Make async requests to NetSuite SuiteTalk SOAP/REST Web Services and Restlets
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.7](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.7), 1 day ago) - 
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.32.3](https://github.com/dolthub/dolt/releases/tag/v1.32.3), 1 day ago) - Dolt – Git for Data
+- [iloveitaly/ipython-ctrlr-fzf](https://github.com/iloveitaly/ipython-ctrlr-fzf) ([v0.2.1](https://github.com/iloveitaly/ipython-ctrlr-fzf/releases/tag/v0.2.1), 3 days ago) - overrides ipython&#39;s backwards search to use fzf
+- [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) ([v1.21.0](https://github.com/railwayapp/nixpacks/releases/tag/v1.21.0), 3 days ago) - App source &#43; Nix packages &#43; Docker = Image
