@@ -12,7 +12,7 @@
 - [Best of 2023](https://mikebian.co/best-of-2023/) (2 weeks ago)
 - [2023 Goal Retrospective](https://mikebian.co/2023-goal-retrospective/) (2 weeks ago)
 - [Using ChatGPT to Convert LabCorp PDFs into a Google Sheet](https://mikebian.co/using-chatgpt-to-convert-labcorp-pdfs-into-a-google-sheet/) (1 month ago)
-- [What I’ve Learned Searching for a New Startup Idea, Part 2](https://mikebian.co/what-ive-learned-searching-for-a-new-startup-idea-part-2/) (1 month ago)
+- [What I’ve Learned Searching for a New Startup Idea, Part 2](https://mikebian.co/what-ive-learned-searching-for-a-new-startup-idea-part-2/) (2 months ago)
 - [What I’ve Learned Searching for a New Startup Idea, Part I](https://mikebian.co/what-ive-learned-searching-for-a-new-startup-idea-part-i/) (2 months ago)
 - [Downloading Fidelity Charitable &amp; Cigna Health Records](https://mikebian.co/downloading-fidelity-charitable-cigna-health-records/) (2 months ago)
 
@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.9](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.9), 1 day ago) - 
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.32.4](https://github.com/dolthub/dolt/releases/tag/v1.32.4), 1 day ago) - Dolt – Git for Data
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.1.4](https://github.com/langchain-ai/langchain/releases/tag/v0.1.4), 3 days ago) - ⚡ Building applications with LLMs through composability ⚡
-- [jacobsvante/netsuite](https://github.com/jacobsvante/netsuite) ([v0.11.0](https://github.com/jacobsvante/netsuite/releases/tag/v0.11.0), 3 days ago) - Make async requests to NetSuite SuiteTalk SOAP/REST Web Services and Restlets
-- [iloveitaly/ipython-ctrlr-fzf](https://github.com/iloveitaly/ipython-ctrlr-fzf) ([v0.2.1](https://github.com/iloveitaly/ipython-ctrlr-fzf/releases/tag/v0.2.1), 5 days ago) - overrides ipython&#39;s backwards search to use fzf
-- [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) ([v1.21.0](https://github.com/railwayapp/nixpacks/releases/tag/v1.21.0), 5 days ago) - App source &#43; Nix packages &#43; Docker = Image
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.9](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.9), 2 days ago) - 
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.32.4](https://github.com/dolthub/dolt/releases/tag/v1.32.4), 2 days ago) - Dolt – Git for Data
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.1.4](https://github.com/langchain-ai/langchain/releases/tag/v0.1.4), 4 days ago) - ⚡ Building applications with LLMs through composability ⚡
+- [jacobsvante/netsuite](https://github.com/jacobsvante/netsuite) ([v0.11.0](https://github.com/jacobsvante/netsuite/releases/tag/v0.11.0), 4 days ago) - Make async requests to NetSuite SuiteTalk SOAP/REST Web Services and Restlets
+- [iloveitaly/ipython-ctrlr-fzf](https://github.com/iloveitaly/ipython-ctrlr-fzf) ([v0.2.1](https://github.com/iloveitaly/ipython-ctrlr-fzf/releases/tag/v0.2.1), 6 days ago) - overrides ipython&#39;s backwards search to use fzf
+- [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) ([v1.21.0](https://github.com/railwayapp/nixpacks/releases/tag/v1.21.0), 6 days ago) - App source &#43; Nix packages &#43; Docker = Image
