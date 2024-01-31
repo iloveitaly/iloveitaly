@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [brimdata/zed](https://github.com/brimdata/zed) ([v1.13.0](https://github.com/brimdata/zed/releases/tag/v1.13.0), 1 day ago) - A novel data lake based on super-structured data
-- [iloveitaly/funcy-pipe](https://github.com/iloveitaly/funcy-pipe) ([v0.6.0](https://github.com/iloveitaly/funcy-pipe/releases/tag/v0.6.0), 1 day ago) - If Funcy and Pipe had a baby. Decorates all Funcy methods with Pipe superpowers.
-- [gliderlabs/herokuish](https://github.com/gliderlabs/herokuish) ([v0.7.3](https://github.com/gliderlabs/herokuish/releases/tag/v0.7.3), 1 day ago) - Utility for emulating Heroku build and runtime tasks in containers
-- [nearform-actions/github-action-notify-twitter](https://github.com/nearform-actions/github-action-notify-twitter) ([v1.1.7](https://github.com/nearform-actions/github-action-notify-twitter/releases/tag/v1.1.7), 1 day ago) - GitHub action that can send a custom message to a Twitter account
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.9](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.9), 3 days ago) - 
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.32.4](https://github.com/dolthub/dolt/releases/tag/v1.32.4), 3 days ago) - Dolt – Git for Data
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.10](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.10), 1 day ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [brimdata/zed](https://github.com/brimdata/zed) ([v1.13.0](https://github.com/brimdata/zed/releases/tag/v1.13.0), 2 days ago) - A novel data lake based on super-structured data
+- [iloveitaly/funcy-pipe](https://github.com/iloveitaly/funcy-pipe) ([v0.6.0](https://github.com/iloveitaly/funcy-pipe/releases/tag/v0.6.0), 2 days ago) - If Funcy and Pipe had a baby. Decorates all Funcy methods with Pipe superpowers.
+- [gliderlabs/herokuish](https://github.com/gliderlabs/herokuish) ([v0.7.3](https://github.com/gliderlabs/herokuish/releases/tag/v0.7.3), 2 days ago) - Utility for emulating Heroku build and runtime tasks in containers
+- [nearform-actions/github-action-notify-twitter](https://github.com/nearform-actions/github-action-notify-twitter) ([v1.1.7](https://github.com/nearform-actions/github-action-notify-twitter/releases/tag/v1.1.7), 2 days ago) - GitHub action that can send a custom message to a Twitter account
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.32.4](https://github.com/dolthub/dolt/releases/tag/v1.32.4), 4 days ago) - Dolt – Git for Data
