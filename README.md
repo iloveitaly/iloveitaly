@@ -9,7 +9,7 @@
 #### 📜 My recent blog posts
 
 
-- [Best of 2023](https://mikebian.co/best-of-2023/) (2 weeks ago)
+- [Best of 2023](https://mikebian.co/best-of-2023/) (3 weeks ago)
 - [2023 Goal Retrospective](https://mikebian.co/2023-goal-retrospective/) (3 weeks ago)
 - [Using ChatGPT to Convert LabCorp PDFs into a Google Sheet](https://mikebian.co/using-chatgpt-to-convert-labcorp-pdfs-into-a-google-sheet/) (1 month ago)
 - [What I’ve Learned Searching for a New Startup Idea, Part 2](https://mikebian.co/what-ive-learned-searching-for-a-new-startup-idea-part-2/) (2 months ago)
@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.10](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.10), 1 day ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
-- [brimdata/zed](https://github.com/brimdata/zed) ([v1.13.0](https://github.com/brimdata/zed/releases/tag/v1.13.0), 2 days ago) - A novel data lake based on super-structured data
-- [iloveitaly/funcy-pipe](https://github.com/iloveitaly/funcy-pipe) ([v0.6.0](https://github.com/iloveitaly/funcy-pipe/releases/tag/v0.6.0), 2 days ago) - If Funcy and Pipe had a baby. Decorates all Funcy methods with Pipe superpowers.
-- [gliderlabs/herokuish](https://github.com/gliderlabs/herokuish) ([v0.7.3](https://github.com/gliderlabs/herokuish/releases/tag/v0.7.3), 2 days ago) - Utility for emulating Heroku build and runtime tasks in containers
-- [nearform-actions/github-action-notify-twitter](https://github.com/nearform-actions/github-action-notify-twitter) ([v1.1.7](https://github.com/nearform-actions/github-action-notify-twitter/releases/tag/v1.1.7), 2 days ago) - GitHub action that can send a custom message to a Twitter account
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.32.4](https://github.com/dolthub/dolt/releases/tag/v1.32.4), 4 days ago) - Dolt – Git for Data
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.32.5](https://github.com/dolthub/dolt/releases/tag/v1.32.5), 1 day ago) - Dolt – Git for Data
+- [cli/cli](https://github.com/cli/cli) ([v2.43.1](https://github.com/cli/cli/releases/tag/v2.43.1), 1 day ago) - GitHub’s official command line tool
+- [iloveitaly/todoist-digest](https://github.com/iloveitaly/todoist-digest) ([v0.4.2](https://github.com/iloveitaly/todoist-digest/releases/tag/v0.4.2), 1 day ago) - Generate a digest of comments that occured since the last checked in date. Useful for including in an email.
+- [iloveitaly/sql-ai-prompt-generator](https://github.com/iloveitaly/sql-ai-prompt-generator) ([v0.3.0](https://github.com/iloveitaly/sql-ai-prompt-generator/releases/tag/v0.3.0), 1 day ago) - Utility to generate ChatGPT prompts for SQL writing, offering table structure snapshots and sample row data from Postgres and sqlite databases.
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.11](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.11), 1 day ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [brimdata/zed](https://github.com/brimdata/zed) ([v1.13.0](https://github.com/brimdata/zed/releases/tag/v1.13.0), 3 days ago) - A novel data lake based on super-structured data
