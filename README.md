@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.32.5](https://github.com/dolthub/dolt/releases/tag/v1.32.5), 1 day ago) - Dolt – Git for Data
-- [cli/cli](https://github.com/cli/cli) ([v2.43.1](https://github.com/cli/cli/releases/tag/v2.43.1), 1 day ago) - GitHub’s official command line tool
-- [iloveitaly/todoist-digest](https://github.com/iloveitaly/todoist-digest) ([v0.4.2](https://github.com/iloveitaly/todoist-digest/releases/tag/v0.4.2), 1 day ago) - Generate a digest of comments that occured since the last checked in date. Useful for including in an email.
-- [iloveitaly/sql-ai-prompt-generator](https://github.com/iloveitaly/sql-ai-prompt-generator) ([v0.3.0](https://github.com/iloveitaly/sql-ai-prompt-generator/releases/tag/v0.3.0), 1 day ago) - Utility to generate ChatGPT prompts for SQL writing, offering table structure snapshots and sample row data from Postgres and sqlite databases.
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.11](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.11), 1 day ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
-- [brimdata/zed](https://github.com/brimdata/zed) ([v1.13.0](https://github.com/brimdata/zed/releases/tag/v1.13.0), 3 days ago) - A novel data lake based on super-structured data
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.12](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.12), 1 day ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [iloveitaly/todoist-digest](https://github.com/iloveitaly/todoist-digest) ([v0.4.4](https://github.com/iloveitaly/todoist-digest/releases/tag/v0.4.4), 1 day ago) - Generate a digest of comments that occured since the last checked in date. Useful for including in an email.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.1.5](https://github.com/langchain-ai/langchain/releases/tag/v0.1.5), 1 day ago) - ⚡ Building applications with LLMs through composability ⚡
+- [wfxr/forgit](https://github.com/wfxr/forgit) ([24.02.0](https://github.com/wfxr/forgit/releases/tag/24.02.0), 1 day ago) - :zzz: A utility tool powered by fzf for using git interactively.
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.32.5](https://github.com/dolthub/dolt/releases/tag/v1.32.5), 2 days ago) - Dolt – Git for Data
+- [cli/cli](https://github.com/cli/cli) ([v2.43.1](https://github.com/cli/cli/releases/tag/v2.43.1), 2 days ago) - GitHub’s official command line tool
