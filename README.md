@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.32.6](https://github.com/dolthub/dolt/releases/tag/v1.32.6), 1 day ago) - Dolt – Git for Data
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.12](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.12), 2 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
-- [iloveitaly/todoist-digest](https://github.com/iloveitaly/todoist-digest) ([v0.4.4](https://github.com/iloveitaly/todoist-digest/releases/tag/v0.4.4), 2 days ago) - Generate a digest of comments that occured since the last checked in date. Useful for including in an email.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.1.5](https://github.com/langchain-ai/langchain/releases/tag/v0.1.5), 2 days ago) - ⚡ Building applications with LLMs through composability ⚡
-- [wfxr/forgit](https://github.com/wfxr/forgit) ([24.02.0](https://github.com/wfxr/forgit/releases/tag/24.02.0), 2 days ago) - :zzz: A utility tool powered by fzf for using git interactively.
-- [cli/cli](https://github.com/cli/cli) ([v2.43.1](https://github.com/cli/cli/releases/tag/v2.43.1), 3 days ago) - GitHub’s official command line tool
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.32.6](https://github.com/dolthub/dolt/releases/tag/v1.32.6), 2 days ago) - Dolt – Git for Data
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.12](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.12), 3 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [iloveitaly/todoist-digest](https://github.com/iloveitaly/todoist-digest) ([v0.4.4](https://github.com/iloveitaly/todoist-digest/releases/tag/v0.4.4), 3 days ago) - Generate a digest of comments that occured since the last checked in date. Useful for including in an email.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.1.5](https://github.com/langchain-ai/langchain/releases/tag/v0.1.5), 3 days ago) - 🦜🔗 Build context-aware reasoning applications
+- [wfxr/forgit](https://github.com/wfxr/forgit) ([24.02.0](https://github.com/wfxr/forgit/releases/tag/24.02.0), 3 days ago) - :zzz: A utility tool powered by fzf for using git interactively.
+- [cli/cli](https://github.com/cli/cli) ([v2.43.1](https://github.com/cli/cli/releases/tag/v2.43.1), 4 days ago) - GitHub’s official command line tool
