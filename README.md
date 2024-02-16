@@ -9,12 +9,12 @@
 #### 📜 My recent blog posts
 
 
-- [Pi Hole, TailScale, and Docker on an Orange Pi](https://mikebian.co/pi-hole-tailscale-and-docker-on-an-orange-pi/) (2 days ago)
+- [Setting up eMMC on an Orange Pi](https://mikebian.co/setting-up-emmc-on-an-orange-pi/) (1 day ago)
+- [Pi Hole, TailScale, and Docker on an Orange Pi](https://mikebian.co/pi-hole-tailscale-and-docker-on-an-orange-pi/) (3 days ago)
 - [How to Throttle Your Internet Connection](https://mikebian.co/how-to-throttle-your-internet-connection/) (1 week ago)
 - [Best of 2023](https://mikebian.co/best-of-2023/) (1 month ago)
 - [2023 Goal Retrospective](https://mikebian.co/2023-goal-retrospective/) (1 month ago)
 - [Using ChatGPT to Convert LabCorp PDFs into a Google Sheet](https://mikebian.co/using-chatgpt-to-convert-labcorp-pdfs-into-a-google-sheet/) (2 months ago)
-- [What I’ve Learned Searching for a New Startup Idea, Part 2](https://mikebian.co/what-ive-learned-searching-for-a-new-startup-idea-part-2/) (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [nodejs/node](https://github.com/nodejs/node) ([v21.6.2](https://github.com/nodejs/node/releases/tag/v21.6.2), 1 day ago) - Node.js JavaScript runtime ✨🐢🚀✨
-- [dawidd6/action-homebrew-bump-formula](https://github.com/dawidd6/action-homebrew-bump-formula) ([v3.11.0](https://github.com/dawidd6/action-homebrew-bump-formula/releases/tag/v3.11.0), 1 day ago) - :gear: A GitHub Action to easily bump Homebrew formula on new release
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.18](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.18), 2 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.1.7](https://github.com/langchain-ai/langchain/releases/tag/v0.1.7), 2 days ago) - 🦜🔗 Build context-aware reasoning applications
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.34.0](https://github.com/dolthub/dolt/releases/tag/v1.34.0), 5 days ago) - Dolt – Git for Data
-- [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) ([v1.21.1](https://github.com/railwayapp/nixpacks/releases/tag/v1.21.1), 6 days ago) - App source &#43; Nix packages &#43; Docker = Image
+- [brimdata/zed](https://github.com/brimdata/zed) ([v1.14.0](https://github.com/brimdata/zed/releases/tag/v1.14.0), 1 day ago) - A novel data lake based on super-structured data
+- [cli/cli](https://github.com/cli/cli) ([v2.44.0](https://github.com/cli/cli/releases/tag/v2.44.0), 1 day ago) - GitHub’s official command line tool
+- [nodejs/node](https://github.com/nodejs/node) ([v21.6.2](https://github.com/nodejs/node/releases/tag/v21.6.2), 2 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
+- [dawidd6/action-homebrew-bump-formula](https://github.com/dawidd6/action-homebrew-bump-formula) ([v3.11.0](https://github.com/dawidd6/action-homebrew-bump-formula/releases/tag/v3.11.0), 2 days ago) - :gear: A GitHub Action to easily bump Homebrew formula on new release
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.18](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.18), 3 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.1.7](https://github.com/langchain-ai/langchain/releases/tag/v0.1.7), 3 days ago) - 🦜🔗 Build context-aware reasoning applications
