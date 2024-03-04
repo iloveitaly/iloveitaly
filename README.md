@@ -9,8 +9,8 @@
 #### 📜 My recent blog posts
 
 
-- [AppleScript Tips: Inspecting Objects, Modal Dialogs, and More](https://mikebian.co/applescript-tips-inspecting-objects-modal-dialogs-and-more/) (3 days ago)
-- [Financial Directives for a New Graduate](https://mikebian.co/financial-directives-for-a-new-graduate/) (5 days ago)
+- [AppleScript Tips: Inspecting Objects, Modal Dialogs, and More](https://mikebian.co/applescript-tips-inspecting-objects-modal-dialogs-and-more/) (4 days ago)
+- [Financial Directives for a New Graduate](https://mikebian.co/financial-directives-for-a-new-graduate/) (6 days ago)
 - [Learning Docker Compose by Self-hosting Monica](https://mikebian.co/learning-docker-compose-by-self-hosting-monica/) (1 week ago)
 - [Categorizing Personal Email Contacts with AI](https://mikebian.co/categorizing-personal-email-contacts-with-ai/) (1 week ago)
 - [Setting up eMMC on an Orange Pi](https://mikebian.co/setting-up-emmc-on-an-orange-pi/) (2 weeks ago)
@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [python-poetry/poetry](https://github.com/python-poetry/poetry) ([1.8.2](https://github.com/python-poetry/poetry/releases/tag/1.8.2), 1 day ago) - Python packaging and dependency management made easy
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.1.10](https://github.com/langchain-ai/langchain/releases/tag/v0.1.10), 1 day ago) - 🦜🔗 Build context-aware reasoning applications
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.25](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.25), 2 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
-- [wfxr/forgit](https://github.com/wfxr/forgit) ([24.03.0](https://github.com/wfxr/forgit/releases/tag/24.03.0), 2 days ago) - :zzz: A utility tool powered by fzf for using git interactively.
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.35.0](https://github.com/dolthub/dolt/releases/tag/v1.35.0), 4 days ago) - Dolt – Git for Data
-- [iloveitaly/funcy-pipe](https://github.com/iloveitaly/funcy-pipe) ([v0.8.0](https://github.com/iloveitaly/funcy-pipe/releases/tag/v0.8.0), 1 week ago) - If Funcy and Pipe had a baby. Decorates all Funcy methods with Pipe superpowers.
+- [iloveitaly/funcy-pipe](https://github.com/iloveitaly/funcy-pipe) ([v0.9.0](https://github.com/iloveitaly/funcy-pipe/releases/tag/v0.9.0), 1 day ago) - If Funcy and Pipe had a baby. Decorates all Funcy methods with Pipe superpowers.
+- [python-poetry/poetry](https://github.com/python-poetry/poetry) ([1.8.2](https://github.com/python-poetry/poetry/releases/tag/1.8.2), 2 days ago) - Python packaging and dependency management made easy
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.1.10](https://github.com/langchain-ai/langchain/releases/tag/v0.1.10), 2 days ago) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.25](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.25), 3 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [wfxr/forgit](https://github.com/wfxr/forgit) ([24.03.0](https://github.com/wfxr/forgit/releases/tag/24.03.0), 3 days ago) - :zzz: A utility tool powered by fzf for using git interactively.
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.35.0](https://github.com/dolthub/dolt/releases/tag/v1.35.0), 5 days ago) - Dolt – Git for Data
