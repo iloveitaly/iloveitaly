@@ -9,29 +9,29 @@
 #### 📜 My recent blog posts
 
 
-- [AppleScript Tips: Inspecting Objects, Modal Dialogs, and More](https://mikebian.co/applescript-tips-inspecting-objects-modal-dialogs-and-more/) (5 days ago)
+- [AppleScript Tips: Inspecting Objects, Modal Dialogs, and More](https://mikebian.co/applescript-tips-inspecting-objects-modal-dialogs-and-more/) (6 days ago)
 - [Financial Directives for a New Graduate](https://mikebian.co/financial-directives-for-a-new-graduate/) (1 week ago)
 - [Learning Docker Compose by Self-hosting Monica](https://mikebian.co/learning-docker-compose-by-self-hosting-monica/) (1 week ago)
-- [Categorizing Personal Email Contacts with AI](https://mikebian.co/categorizing-personal-email-contacts-with-ai/) (1 week ago)
+- [Categorizing Personal Email Contacts with AI](https://mikebian.co/categorizing-personal-email-contacts-with-ai/) (2 weeks ago)
 - [Setting up eMMC on an Orange Pi](https://mikebian.co/setting-up-emmc-on-an-orange-pi/) (2 weeks ago)
 - [Pi Hole, TailScale, and Docker on an Orange Pi](https://mikebian.co/pi-hole-tailscale-and-docker-on-an-orange-pi/) (3 weeks ago)
 
 #### 🌱 My latest projects
 
 
+- [iloveitaly/markdown-to-google-docs](https://github.com/iloveitaly/markdown-to-google-docs) - 
 - [iloveitaly/datasette-enrichments-shell](https://github.com/iloveitaly/datasette-enrichments-shell) - Enrich data using datasette and arbitrary commands on your local machine
 - [iloveitaly/readwise-to-datasette](https://github.com/iloveitaly/readwise-to-datasette) - Extract readwise highlights into a datasette sqlite DB
 - [iloveitaly/ipython-ctrlr-fzf](https://github.com/iloveitaly/ipython-ctrlr-fzf) - overrides ipython&#39;s backwards search to use fzf
 - [iloveitaly/ics-to-datasette](https://github.com/iloveitaly/ics-to-datasette) - Convert an ICS file to a SQLite database
 - [iloveitaly/todoist-digest](https://github.com/iloveitaly/todoist-digest) - Generate a digest of comments that occured since the last checked in date. Useful for including in an email.
-- [iloveitaly/conventional-notes-summarization](https://github.com/iloveitaly/conventional-notes-summarization) - 
 
 #### 🔭 Latest releases I've contributed to
 
 
-- [cli/cli](https://github.com/cli/cli) ([v2.45.0](https://github.com/cli/cli/releases/tag/v2.45.0), 1 day ago) - GitHub’s official command line tool
-- [jacobsvante/netsuite](https://github.com/jacobsvante/netsuite) ([v0.12.0](https://github.com/jacobsvante/netsuite/releases/tag/v0.12.0), 1 day ago) - Make async requests to NetSuite SuiteTalk SOAP/REST Web Services and Restlets
-- [iloveitaly/funcy-pipe](https://github.com/iloveitaly/funcy-pipe) ([v0.9.0](https://github.com/iloveitaly/funcy-pipe/releases/tag/v0.9.0), 2 days ago) - If Funcy and Pipe had a baby. Decorates all Funcy methods with Pipe superpowers.
-- [python-poetry/poetry](https://github.com/python-poetry/poetry) ([1.8.2](https://github.com/python-poetry/poetry/releases/tag/1.8.2), 3 days ago) - Python packaging and dependency management made easy
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.1.10](https://github.com/langchain-ai/langchain/releases/tag/v0.1.10), 3 days ago) - 🦜🔗 Build context-aware reasoning applications
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.25](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.25), 4 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.1.11](https://github.com/langchain-ai/langchain/releases/tag/v0.1.11), 1 day ago) - 🦜🔗 Build context-aware reasoning applications
+- [cli/cli](https://github.com/cli/cli) ([v2.45.0](https://github.com/cli/cli/releases/tag/v2.45.0), 2 days ago) - GitHub’s official command line tool
+- [jacobsvante/netsuite](https://github.com/jacobsvante/netsuite) ([v0.12.0](https://github.com/jacobsvante/netsuite/releases/tag/v0.12.0), 2 days ago) - Make async requests to NetSuite SuiteTalk SOAP/REST Web Services and Restlets
+- [iloveitaly/funcy-pipe](https://github.com/iloveitaly/funcy-pipe) ([v0.9.0](https://github.com/iloveitaly/funcy-pipe/releases/tag/v0.9.0), 3 days ago) - If Funcy and Pipe had a baby. Decorates all Funcy methods with Pipe superpowers.
+- [python-poetry/poetry](https://github.com/python-poetry/poetry) ([1.8.2](https://github.com/python-poetry/poetry/releases/tag/1.8.2), 4 days ago) - Python packaging and dependency management made easy
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.25](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.25), 5 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
