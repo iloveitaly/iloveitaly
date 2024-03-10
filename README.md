@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [nodejs/node](https://github.com/nodejs/node) ([v21.7.1](https://github.com/nodejs/node/releases/tag/v21.7.1), 1 day ago) - Node.js JavaScript runtime ✨🐢🚀✨
-- [softprops/action-gh-release](https://github.com/softprops/action-gh-release) ([v2.0.1](https://github.com/softprops/action-gh-release/releases/tag/v2.0.1), 1 day ago) - 📦 :octocat: GitHub Action for creating GitHub Releases
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.35.1](https://github.com/dolthub/dolt/releases/tag/v1.35.1), 3 days ago) - Dolt – Git for Data
-- [wfxr/forgit](https://github.com/wfxr/forgit) ([24.03.1](https://github.com/wfxr/forgit/releases/tag/24.03.1), 3 days ago) - :zzz: A utility tool powered by fzf for using git interactively.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.1.11](https://github.com/langchain-ai/langchain/releases/tag/v0.1.11), 4 days ago) - 🦜🔗 Build context-aware reasoning applications
-- [cli/cli](https://github.com/cli/cli) ([v2.45.0](https://github.com/cli/cli/releases/tag/v2.45.0), 5 days ago) - GitHub’s official command line tool
+- [nodejs/node](https://github.com/nodejs/node) ([v21.7.1](https://github.com/nodejs/node/releases/tag/v21.7.1), 2 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
+- [softprops/action-gh-release](https://github.com/softprops/action-gh-release) ([v2.0.1](https://github.com/softprops/action-gh-release/releases/tag/v2.0.1), 2 days ago) - 📦 :octocat: GitHub Action for creating GitHub Releases
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.35.1](https://github.com/dolthub/dolt/releases/tag/v1.35.1), 4 days ago) - Dolt – Git for Data
+- [wfxr/forgit](https://github.com/wfxr/forgit) ([24.03.1](https://github.com/wfxr/forgit/releases/tag/24.03.1), 4 days ago) - :zzz: A utility tool powered by fzf for using git interactively.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.1.11](https://github.com/langchain-ai/langchain/releases/tag/v0.1.11), 5 days ago) - 🦜🔗 Build context-aware reasoning applications
+- [cli/cli](https://github.com/cli/cli) ([v2.45.0](https://github.com/cli/cli/releases/tag/v2.45.0), 6 days ago) - GitHub’s official command line tool
