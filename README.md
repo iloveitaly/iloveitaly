@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [dokku/ansible-dokku](https://github.com/dokku/ansible-dokku) ([v2023.11.6](https://github.com/dokku/ansible-dokku/releases/tag/v2023.11.6), 1 day ago) - Ansible modules for installing and configuring Dokku
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.27](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.27), 1 day ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.1.12](https://github.com/langchain-ai/langchain/releases/tag/v0.1.12), 1 day ago) - 🦜🔗 Build context-aware reasoning applications
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.35.3](https://github.com/dolthub/dolt/releases/tag/v1.35.3), 2 days ago) - Dolt – Git for Data
-- [iloveitaly/todoist-digest](https://github.com/iloveitaly/todoist-digest) ([v0.6.0](https://github.com/iloveitaly/todoist-digest/releases/tag/v0.6.0), 2 days ago) - Generate a digest of comments that occured since the last checked in date. Useful for including in an email.
-- [softprops/action-gh-release](https://github.com/softprops/action-gh-release) ([v2.0.4](https://github.com/softprops/action-gh-release/releases/tag/v2.0.4), 2 days ago) - 📦 :octocat: GitHub Action for creating GitHub Releases
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.28](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.28), today) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [dokku/ansible-dokku](https://github.com/dokku/ansible-dokku) ([v2023.11.6](https://github.com/dokku/ansible-dokku/releases/tag/v2023.11.6), 2 days ago) - Ansible modules for installing and configuring Dokku
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.1.12](https://github.com/langchain-ai/langchain/releases/tag/v0.1.12), 2 days ago) - 🦜🔗 Build context-aware reasoning applications
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.35.3](https://github.com/dolthub/dolt/releases/tag/v1.35.3), 3 days ago) - Dolt – Git for Data
+- [iloveitaly/todoist-digest](https://github.com/iloveitaly/todoist-digest) ([v0.6.0](https://github.com/iloveitaly/todoist-digest/releases/tag/v0.6.0), 3 days ago) - Generate a digest of comments that occured since the last checked in date. Useful for including in an email.
+- [softprops/action-gh-release](https://github.com/softprops/action-gh-release) ([v2.0.4](https://github.com/softprops/action-gh-release/releases/tag/v2.0.4), 3 days ago) - 📦 :octocat: GitHub Action for creating GitHub Releases
