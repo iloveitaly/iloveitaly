@@ -13,7 +13,7 @@
 - [Financial Directives for a New Graduate](https://mikebian.co/financial-directives-for-a-new-graduate/) (2 weeks ago)
 - [Learning Docker Compose by Self-hosting Monica](https://mikebian.co/learning-docker-compose-by-self-hosting-monica/) (3 weeks ago)
 - [Categorizing Personal Email Contacts with AI](https://mikebian.co/categorizing-personal-email-contacts-with-ai/) (3 weeks ago)
-- [Setting up eMMC on an Orange Pi](https://mikebian.co/setting-up-emmc-on-an-orange-pi/) (4 weeks ago)
+- [Setting up eMMC on an Orange Pi](https://mikebian.co/setting-up-emmc-on-an-orange-pi/) (1 month ago)
 - [Pi Hole, TailScale, and Docker on an Orange Pi](https://mikebian.co/pi-hole-tailscale-and-docker-on-an-orange-pi/) (1 month ago)
 
 #### 🌱 My latest projects
@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.28](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.28), today) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
-- [dokku/ansible-dokku](https://github.com/dokku/ansible-dokku) ([v2023.11.6](https://github.com/dokku/ansible-dokku/releases/tag/v2023.11.6), 2 days ago) - Ansible modules for installing and configuring Dokku
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.1.12](https://github.com/langchain-ai/langchain/releases/tag/v0.1.12), 2 days ago) - 🦜🔗 Build context-aware reasoning applications
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.35.3](https://github.com/dolthub/dolt/releases/tag/v1.35.3), 3 days ago) - Dolt – Git for Data
-- [iloveitaly/todoist-digest](https://github.com/iloveitaly/todoist-digest) ([v0.6.0](https://github.com/iloveitaly/todoist-digest/releases/tag/v0.6.0), 3 days ago) - Generate a digest of comments that occured since the last checked in date. Useful for including in an email.
-- [softprops/action-gh-release](https://github.com/softprops/action-gh-release) ([v2.0.4](https://github.com/softprops/action-gh-release/releases/tag/v2.0.4), 3 days ago) - 📦 :octocat: GitHub Action for creating GitHub Releases
+- [wfxr/forgit](https://github.com/wfxr/forgit) ([24.03.2](https://github.com/wfxr/forgit/releases/tag/24.03.2), 1 day ago) - :zzz: A utility tool powered by fzf for using git interactively.
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.35.4](https://github.com/dolthub/dolt/releases/tag/v1.35.4), 1 day ago) - Dolt – Git for Data
+- [iloveitaly/todoist-digest](https://github.com/iloveitaly/todoist-digest) ([v0.6.1](https://github.com/iloveitaly/todoist-digest/releases/tag/v0.6.1), 1 day ago) - Generate a digest of comments that occured since the last checked in date. Useful for including in an email.
+- [iloveitaly/clean-browser](https://github.com/iloveitaly/clean-browser) ([v0.6.3](https://github.com/iloveitaly/clean-browser/releases/tag/v0.6.3), 1 day ago) - Collect all browser URLs, output to terminal, and archive to todoist. Useful for cleaning up your workspace at the end of the day, without loosing important urls.
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.28](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.28), 1 day ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [dokku/ansible-dokku](https://github.com/dokku/ansible-dokku) ([v2023.11.6](https://github.com/dokku/ansible-dokku/releases/tag/v2023.11.6), 3 days ago) - Ansible modules for installing and configuring Dokku
