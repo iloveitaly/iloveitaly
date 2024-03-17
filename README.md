@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [wfxr/forgit](https://github.com/wfxr/forgit) ([24.03.2](https://github.com/wfxr/forgit/releases/tag/24.03.2), 1 day ago) - :zzz: A utility tool powered by fzf for using git interactively.
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.35.4](https://github.com/dolthub/dolt/releases/tag/v1.35.4), 1 day ago) - Dolt – Git for Data
-- [iloveitaly/todoist-digest](https://github.com/iloveitaly/todoist-digest) ([v0.6.1](https://github.com/iloveitaly/todoist-digest/releases/tag/v0.6.1), 1 day ago) - Generate a digest of comments that occured since the last checked in date. Useful for including in an email.
-- [iloveitaly/clean-browser](https://github.com/iloveitaly/clean-browser) ([v0.6.3](https://github.com/iloveitaly/clean-browser/releases/tag/v0.6.3), 1 day ago) - Collect all browser URLs, output to terminal, and archive to todoist. Useful for cleaning up your workspace at the end of the day, without loosing important urls.
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.28](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.28), 1 day ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
-- [dokku/ansible-dokku](https://github.com/dokku/ansible-dokku) ([v2023.11.6](https://github.com/dokku/ansible-dokku/releases/tag/v2023.11.6), 3 days ago) - Ansible modules for installing and configuring Dokku
+- [iloveitaly/todoist-digest](https://github.com/iloveitaly/todoist-digest) ([v0.7.0](https://github.com/iloveitaly/todoist-digest/releases/tag/v0.7.0), 1 day ago) - Generate a digest of comments that occured since the last checked in date. Useful for including in an email.
+- [wfxr/forgit](https://github.com/wfxr/forgit) ([24.03.2](https://github.com/wfxr/forgit/releases/tag/24.03.2), 2 days ago) - :zzz: A utility tool powered by fzf for using git interactively.
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.35.4](https://github.com/dolthub/dolt/releases/tag/v1.35.4), 2 days ago) - Dolt – Git for Data
+- [iloveitaly/clean-browser](https://github.com/iloveitaly/clean-browser) ([v0.6.3](https://github.com/iloveitaly/clean-browser/releases/tag/v0.6.3), 2 days ago) - Collect all browser URLs, output to terminal, and archive to todoist. Useful for cleaning up your workspace at the end of the day, without loosing important urls.
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.28](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.28), 2 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [dokku/ansible-dokku](https://github.com/dokku/ansible-dokku) ([v2023.11.6](https://github.com/dokku/ansible-dokku/releases/tag/v2023.11.6), 4 days ago) - Ansible modules for installing and configuring Dokku
