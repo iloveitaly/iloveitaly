@@ -9,8 +9,8 @@
 #### 📜 My recent blog posts
 
 
-- [AppleScript Tips: Inspecting Objects, Modal Dialogs, and More](https://mikebian.co/applescript-tips-inspecting-objects-modal-dialogs-and-more/) (3 weeks ago)
-- [Financial Directives for a New Graduate](https://mikebian.co/financial-directives-for-a-new-graduate/) (4 weeks ago)
+- [AppleScript Tips: Inspecting Objects, Modal Dialogs, and More](https://mikebian.co/applescript-tips-inspecting-objects-modal-dialogs-and-more/) (4 weeks ago)
+- [Financial Directives for a New Graduate](https://mikebian.co/financial-directives-for-a-new-graduate/) (1 month ago)
 - [Learning Docker Compose by Self-hosting Monica](https://mikebian.co/learning-docker-compose-by-self-hosting-monica/) (1 month ago)
 - [Categorizing Personal Email Contacts with AI](https://mikebian.co/categorizing-personal-email-contacts-with-ai/) (1 month ago)
 - [Setting up eMMC on an Orange Pi](https://mikebian.co/setting-up-emmc-on-an-orange-pi/) (1 month ago)
@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [iloveitaly/funcy-pipe](https://github.com/iloveitaly/funcy-pipe) ([v0.11.0](https://github.com/iloveitaly/funcy-pipe/releases/tag/v0.11.0), 1 day ago) - If Funcy and Pipe had a baby. Decorates all Funcy methods with Pipe superpowers.
-- [nodejs/node](https://github.com/nodejs/node) ([v20.12.0](https://github.com/nodejs/node/releases/tag/v20.12.0), 1 day ago) - Node.js JavaScript runtime ✨🐢🚀✨
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.30](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.30), 1 day ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
-- [iloveitaly/todoist-digest](https://github.com/iloveitaly/todoist-digest) ([v0.8.0](https://github.com/iloveitaly/todoist-digest/releases/tag/v0.8.0), 4 days ago) - Generate a digest of comments that occured since the last checked in date. Useful for including in an email.
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.35.5](https://github.com/dolthub/dolt/releases/tag/v1.35.5), 1 day ago) - Dolt – Git for Data
+- [iloveitaly/funcy-pipe](https://github.com/iloveitaly/funcy-pipe) ([v0.11.0](https://github.com/iloveitaly/funcy-pipe/releases/tag/v0.11.0), 2 days ago) - If Funcy and Pipe had a baby. Decorates all Funcy methods with Pipe superpowers.
+- [nodejs/node](https://github.com/nodejs/node) ([v20.12.0](https://github.com/nodejs/node/releases/tag/v20.12.0), 2 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.30](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.30), 2 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [iloveitaly/todoist-digest](https://github.com/iloveitaly/todoist-digest) ([v0.8.0](https://github.com/iloveitaly/todoist-digest/releases/tag/v0.8.0), 5 days ago) - Generate a digest of comments that occured since the last checked in date. Useful for including in an email.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.1.13](https://github.com/langchain-ai/langchain/releases/tag/v0.1.13), 1 week ago) - 🦜🔗 Build context-aware reasoning applications
-- [cli/cli](https://github.com/cli/cli) ([v2.46.0](https://github.com/cli/cli/releases/tag/v2.46.0), 1 week ago) - GitHub’s official command line tool
