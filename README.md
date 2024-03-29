@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.35.5](https://github.com/dolthub/dolt/releases/tag/v1.35.5), 1 day ago) - Dolt – Git for Data
-- [iloveitaly/funcy-pipe](https://github.com/iloveitaly/funcy-pipe) ([v0.11.0](https://github.com/iloveitaly/funcy-pipe/releases/tag/v0.11.0), 2 days ago) - If Funcy and Pipe had a baby. Decorates all Funcy methods with Pipe superpowers.
-- [nodejs/node](https://github.com/nodejs/node) ([v20.12.0](https://github.com/nodejs/node/releases/tag/v20.12.0), 2 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.30](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.30), 2 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
-- [iloveitaly/todoist-digest](https://github.com/iloveitaly/todoist-digest) ([v0.8.0](https://github.com/iloveitaly/todoist-digest/releases/tag/v0.8.0), 5 days ago) - Generate a digest of comments that occured since the last checked in date. Useful for including in an email.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.1.13](https://github.com/langchain-ai/langchain/releases/tag/v0.1.13), 1 week ago) - 🦜🔗 Build context-aware reasoning applications
+- [gliderlabs/herokuish](https://github.com/gliderlabs/herokuish) ([v0.8.0](https://github.com/gliderlabs/herokuish/releases/tag/v0.8.0), 1 day ago) - Utility for emulating Heroku build and runtime tasks in containers
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.35.6](https://github.com/dolthub/dolt/releases/tag/v1.35.6), 1 day ago) - Dolt – Git for Data
+- [iloveitaly/funcy-pipe](https://github.com/iloveitaly/funcy-pipe) ([v0.11.0](https://github.com/iloveitaly/funcy-pipe/releases/tag/v0.11.0), 3 days ago) - If Funcy and Pipe had a baby. Decorates all Funcy methods with Pipe superpowers.
+- [nodejs/node](https://github.com/nodejs/node) ([v20.12.0](https://github.com/nodejs/node/releases/tag/v20.12.0), 3 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.30](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.30), 3 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [iloveitaly/todoist-digest](https://github.com/iloveitaly/todoist-digest) ([v0.8.0](https://github.com/iloveitaly/todoist-digest/releases/tag/v0.8.0), 6 days ago) - Generate a digest of comments that occured since the last checked in date. Useful for including in an email.
