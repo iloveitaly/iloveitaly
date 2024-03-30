@@ -9,7 +9,7 @@
 #### 📜 My recent blog posts
 
 
-- [AppleScript Tips: Inspecting Objects, Modal Dialogs, and More](https://mikebian.co/applescript-tips-inspecting-objects-modal-dialogs-and-more/) (4 weeks ago)
+- [AppleScript Tips: Inspecting Objects, Modal Dialogs, and More](https://mikebian.co/applescript-tips-inspecting-objects-modal-dialogs-and-more/) (1 month ago)
 - [Financial Directives for a New Graduate](https://mikebian.co/financial-directives-for-a-new-graduate/) (1 month ago)
 - [Learning Docker Compose by Self-hosting Monica](https://mikebian.co/learning-docker-compose-by-self-hosting-monica/) (1 month ago)
 - [Categorizing Personal Email Contacts with AI](https://mikebian.co/categorizing-personal-email-contacts-with-ai/) (1 month ago)
@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [gliderlabs/herokuish](https://github.com/gliderlabs/herokuish) ([v0.8.0](https://github.com/gliderlabs/herokuish/releases/tag/v0.8.0), 1 day ago) - Utility for emulating Heroku build and runtime tasks in containers
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.35.6](https://github.com/dolthub/dolt/releases/tag/v1.35.6), 1 day ago) - Dolt – Git for Data
-- [iloveitaly/funcy-pipe](https://github.com/iloveitaly/funcy-pipe) ([v0.11.0](https://github.com/iloveitaly/funcy-pipe/releases/tag/v0.11.0), 3 days ago) - If Funcy and Pipe had a baby. Decorates all Funcy methods with Pipe superpowers.
-- [nodejs/node](https://github.com/nodejs/node) ([v20.12.0](https://github.com/nodejs/node/releases/tag/v20.12.0), 3 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.30](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.30), 3 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
-- [iloveitaly/todoist-digest](https://github.com/iloveitaly/todoist-digest) ([v0.8.0](https://github.com/iloveitaly/todoist-digest/releases/tag/v0.8.0), 6 days ago) - Generate a digest of comments that occured since the last checked in date. Useful for including in an email.
+- [brimdata/zed](https://github.com/brimdata/zed) ([v1.15.0](https://github.com/brimdata/zed/releases/tag/v1.15.0), 1 day ago) - A novel data lake based on super-structured data
+- [dokku/dokku](https://github.com/dokku/dokku) ([v0.34.1](https://github.com/dokku/dokku/releases/tag/v0.34.1), 1 day ago) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
+- [gliderlabs/herokuish](https://github.com/gliderlabs/herokuish) ([v0.8.0](https://github.com/gliderlabs/herokuish/releases/tag/v0.8.0), 2 days ago) - Utility for emulating Heroku build and runtime tasks in containers
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.35.6](https://github.com/dolthub/dolt/releases/tag/v1.35.6), 2 days ago) - Dolt – Git for Data
+- [iloveitaly/funcy-pipe](https://github.com/iloveitaly/funcy-pipe) ([v0.11.0](https://github.com/iloveitaly/funcy-pipe/releases/tag/v0.11.0), 4 days ago) - If Funcy and Pipe had a baby. Decorates all Funcy methods with Pipe superpowers.
+- [nodejs/node](https://github.com/nodejs/node) ([v20.12.0](https://github.com/nodejs/node/releases/tag/v20.12.0), 4 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
