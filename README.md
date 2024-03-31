@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [brimdata/zed](https://github.com/brimdata/zed) ([v1.15.0](https://github.com/brimdata/zed/releases/tag/v1.15.0), 1 day ago) - A novel data lake based on super-structured data
-- [dokku/dokku](https://github.com/dokku/dokku) ([v0.34.1](https://github.com/dokku/dokku/releases/tag/v0.34.1), 1 day ago) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
-- [gliderlabs/herokuish](https://github.com/gliderlabs/herokuish) ([v0.8.0](https://github.com/gliderlabs/herokuish/releases/tag/v0.8.0), 2 days ago) - Utility for emulating Heroku build and runtime tasks in containers
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.35.6](https://github.com/dolthub/dolt/releases/tag/v1.35.6), 2 days ago) - Dolt – Git for Data
-- [iloveitaly/funcy-pipe](https://github.com/iloveitaly/funcy-pipe) ([v0.11.0](https://github.com/iloveitaly/funcy-pipe/releases/tag/v0.11.0), 4 days ago) - If Funcy and Pipe had a baby. Decorates all Funcy methods with Pipe superpowers.
-- [nodejs/node](https://github.com/nodejs/node) ([v20.12.0](https://github.com/nodejs/node/releases/tag/v20.12.0), 4 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
+- [brimdata/zed](https://github.com/brimdata/zed) ([v1.15.0](https://github.com/brimdata/zed/releases/tag/v1.15.0), 2 days ago) - A novel data lake based on super-structured data
+- [dokku/dokku](https://github.com/dokku/dokku) ([v0.34.1](https://github.com/dokku/dokku/releases/tag/v0.34.1), 2 days ago) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
+- [gliderlabs/herokuish](https://github.com/gliderlabs/herokuish) ([v0.8.0](https://github.com/gliderlabs/herokuish/releases/tag/v0.8.0), 3 days ago) - Utility for emulating Heroku build and runtime tasks in containers
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.35.6](https://github.com/dolthub/dolt/releases/tag/v1.35.6), 3 days ago) - Dolt – Git for Data
+- [iloveitaly/funcy-pipe](https://github.com/iloveitaly/funcy-pipe) ([v0.11.0](https://github.com/iloveitaly/funcy-pipe/releases/tag/v0.11.0), 5 days ago) - If Funcy and Pipe had a baby. Decorates all Funcy methods with Pipe superpowers.
+- [nodejs/node](https://github.com/nodejs/node) ([v20.12.0](https://github.com/nodejs/node/releases/tag/v20.12.0), 5 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
