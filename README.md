@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [gliderlabs/herokuish](https://github.com/gliderlabs/herokuish) ([v0.9.0](https://github.com/gliderlabs/herokuish/releases/tag/v0.9.0), 1 day ago) - Utility for emulating Heroku build and runtime tasks in containers
-- [brimdata/zed](https://github.com/brimdata/zed) ([v1.15.0](https://github.com/brimdata/zed/releases/tag/v1.15.0), 3 days ago) - A novel data lake based on super-structured data
-- [dokku/dokku](https://github.com/dokku/dokku) ([v0.34.1](https://github.com/dokku/dokku/releases/tag/v0.34.1), 3 days ago) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.35.6](https://github.com/dolthub/dolt/releases/tag/v1.35.6), 4 days ago) - Dolt – Git for Data
-- [iloveitaly/funcy-pipe](https://github.com/iloveitaly/funcy-pipe) ([v0.11.0](https://github.com/iloveitaly/funcy-pipe/releases/tag/v0.11.0), 6 days ago) - If Funcy and Pipe had a baby. Decorates all Funcy methods with Pipe superpowers.
-- [nodejs/node](https://github.com/nodejs/node) ([v20.12.0](https://github.com/nodejs/node/releases/tag/v20.12.0), 6 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
+- [gliderlabs/herokuish](https://github.com/gliderlabs/herokuish) ([v0.9.1](https://github.com/gliderlabs/herokuish/releases/tag/v0.9.1), 1 day ago) - Utility for emulating Heroku build and runtime tasks in containers
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.1.14](https://github.com/langchain-ai/langchain/releases/tag/v0.1.14), 1 day ago) - 🦜🔗 Build context-aware reasoning applications
+- [wfxr/forgit](https://github.com/wfxr/forgit) ([24.04.0](https://github.com/wfxr/forgit/releases/tag/24.04.0), 1 day ago) - :zzz: A utility tool powered by fzf for using git interactively.
+- [brimdata/zed](https://github.com/brimdata/zed) ([v1.15.0](https://github.com/brimdata/zed/releases/tag/v1.15.0), 4 days ago) - A novel data lake based on super-structured data
+- [dokku/dokku](https://github.com/dokku/dokku) ([v0.34.1](https://github.com/dokku/dokku/releases/tag/v0.34.1), 4 days ago) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.35.6](https://github.com/dolthub/dolt/releases/tag/v1.35.6), 5 days ago) - Dolt – Git for Data
