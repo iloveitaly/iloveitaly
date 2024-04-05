@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.35.7](https://github.com/dolthub/dolt/releases/tag/v1.35.7), 1 day ago) - Dolt – Git for Data
-- [gliderlabs/herokuish](https://github.com/gliderlabs/herokuish) ([v0.9.1](https://github.com/gliderlabs/herokuish/releases/tag/v0.9.1), 2 days ago) - Utility for emulating Heroku build and runtime tasks in containers
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.1.14](https://github.com/langchain-ai/langchain/releases/tag/v0.1.14), 2 days ago) - 🦜🔗 Build context-aware reasoning applications
-- [wfxr/forgit](https://github.com/wfxr/forgit) ([24.04.0](https://github.com/wfxr/forgit/releases/tag/24.04.0), 2 days ago) - :zzz: A utility tool powered by fzf for using git interactively.
-- [brimdata/zed](https://github.com/brimdata/zed) ([v1.15.0](https://github.com/brimdata/zed/releases/tag/v1.15.0), 5 days ago) - A novel data lake based on super-structured data
-- [dokku/dokku](https://github.com/dokku/dokku) ([v0.34.1](https://github.com/dokku/dokku/releases/tag/v0.34.1), 5 days ago) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.31](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.31), 1 day ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [dokku/dokku](https://github.com/dokku/dokku) ([v0.34.3](https://github.com/dokku/dokku/releases/tag/v0.34.3), 1 day ago) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
+- [cli/cli](https://github.com/cli/cli) ([v2.47.0](https://github.com/cli/cli/releases/tag/v2.47.0), 2 days ago) - GitHub’s official command line tool
+- [nodejs/node](https://github.com/nodejs/node) ([v18.20.1](https://github.com/nodejs/node/releases/tag/v18.20.1), 2 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.35.7](https://github.com/dolthub/dolt/releases/tag/v1.35.7), 3 days ago) - Dolt – Git for Data
+- [gliderlabs/herokuish](https://github.com/gliderlabs/herokuish) ([v0.9.1](https://github.com/gliderlabs/herokuish/releases/tag/v0.9.1), 4 days ago) - Utility for emulating Heroku build and runtime tasks in containers
