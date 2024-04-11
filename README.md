@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.1.15](https://github.com/langchain-ai/langchain/releases/tag/v0.1.15), 1 day ago) - 🦜🔗 Build context-aware reasoning applications
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.32](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.32), 1 day ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
-- [iloveitaly/todoist-digest](https://github.com/iloveitaly/todoist-digest) ([v0.8.2](https://github.com/iloveitaly/todoist-digest/releases/tag/v0.8.2), 2 days ago) - Generate a digest of comments that occured since the last checked in date. Useful for including in an email.
-- [dokku/dokku](https://github.com/dokku/dokku) ([v0.34.4](https://github.com/dokku/dokku/releases/tag/v0.34.4), 2 days ago) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.35.8](https://github.com/dolthub/dolt/releases/tag/v1.35.8), 5 days ago) - Dolt – Git for Data
-- [cli/cli](https://github.com/cli/cli) ([v2.47.0](https://github.com/cli/cli/releases/tag/v2.47.0), 1 week ago) - GitHub’s official command line tool
+- [nodejs/node](https://github.com/nodejs/node) ([v18.20.2](https://github.com/nodejs/node/releases/tag/v18.20.2), 1 day ago) - Node.js JavaScript runtime ✨🐢🚀✨
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.1.15](https://github.com/langchain-ai/langchain/releases/tag/v0.1.15), 2 days ago) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.32](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.32), 2 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [iloveitaly/todoist-digest](https://github.com/iloveitaly/todoist-digest) ([v0.8.2](https://github.com/iloveitaly/todoist-digest/releases/tag/v0.8.2), 3 days ago) - Generate a digest of comments that occured since the last checked in date. Useful for including in an email.
+- [dokku/dokku](https://github.com/dokku/dokku) ([v0.34.4](https://github.com/dokku/dokku/releases/tag/v0.34.4), 3 days ago) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.35.8](https://github.com/dolthub/dolt/releases/tag/v1.35.8), 6 days ago) - Dolt – Git for Data
