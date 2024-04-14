@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.35.9](https://github.com/dolthub/dolt/releases/tag/v1.35.9), 2 days ago) - Dolt – Git for Data
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.1.16](https://github.com/langchain-ai/langchain/releases/tag/v0.1.16), 2 days ago) - 🦜🔗 Build context-aware reasoning applications
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.33](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.33), 2 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
-- [nodejs/node](https://github.com/nodejs/node) ([v18.20.2](https://github.com/nodejs/node/releases/tag/v18.20.2), 3 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
-- [iloveitaly/todoist-digest](https://github.com/iloveitaly/todoist-digest) ([v0.8.2](https://github.com/iloveitaly/todoist-digest/releases/tag/v0.8.2), 5 days ago) - Generate a digest of comments that occured since the last checked in date. Useful for including in an email.
-- [dokku/dokku](https://github.com/dokku/dokku) ([v0.34.4](https://github.com/dokku/dokku/releases/tag/v0.34.4), 5 days ago) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.35.9](https://github.com/dolthub/dolt/releases/tag/v1.35.9), 3 days ago) - Dolt – Git for Data
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.1.16](https://github.com/langchain-ai/langchain/releases/tag/v0.1.16), 3 days ago) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.33](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.33), 3 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [nodejs/node](https://github.com/nodejs/node) ([v18.20.2](https://github.com/nodejs/node/releases/tag/v18.20.2), 4 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
+- [iloveitaly/todoist-digest](https://github.com/iloveitaly/todoist-digest) ([v0.8.2](https://github.com/iloveitaly/todoist-digest/releases/tag/v0.8.2), 6 days ago) - Generate a digest of comments that occured since the last checked in date. Useful for including in an email.
+- [dokku/dokku](https://github.com/dokku/dokku) ([v0.34.4](https://github.com/dokku/dokku/releases/tag/v0.34.4), 6 days ago) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
