@@ -13,7 +13,7 @@
 - [Financial Directives for a New Graduate](https://mikebian.co/financial-directives-for-a-new-graduate/) (1 month ago)
 - [Learning Docker Compose by Self-hosting Monica](https://mikebian.co/learning-docker-compose-by-self-hosting-monica/) (1 month ago)
 - [Categorizing Personal Email Contacts with AI](https://mikebian.co/categorizing-personal-email-contacts-with-ai/) (1 month ago)
-- [Setting up eMMC on an Orange Pi](https://mikebian.co/setting-up-emmc-on-an-orange-pi/) (1 month ago)
+- [Setting up eMMC on an Orange Pi](https://mikebian.co/setting-up-emmc-on-an-orange-pi/) (2 months ago)
 - [Pi Hole, TailScale, and Docker on an Orange Pi](https://mikebian.co/pi-hole-tailscale-and-docker-on-an-orange-pi/) (2 months ago)
 
 #### 🌱 My latest projects
@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.35.9](https://github.com/dolthub/dolt/releases/tag/v1.35.9), 3 days ago) - Dolt – Git for Data
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.1.16](https://github.com/langchain-ai/langchain/releases/tag/v0.1.16), 3 days ago) - 🦜🔗 Build context-aware reasoning applications
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.33](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.33), 3 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
-- [nodejs/node](https://github.com/nodejs/node) ([v18.20.2](https://github.com/nodejs/node/releases/tag/v18.20.2), 4 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
-- [iloveitaly/todoist-digest](https://github.com/iloveitaly/todoist-digest) ([v0.8.2](https://github.com/iloveitaly/todoist-digest/releases/tag/v0.8.2), 6 days ago) - Generate a digest of comments that occured since the last checked in date. Useful for including in an email.
-- [dokku/dokku](https://github.com/dokku/dokku) ([v0.34.4](https://github.com/dokku/dokku/releases/tag/v0.34.4), 6 days ago) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.35.9](https://github.com/dolthub/dolt/releases/tag/v1.35.9), 4 days ago) - Dolt – Git for Data
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.1.16](https://github.com/langchain-ai/langchain/releases/tag/v0.1.16), 4 days ago) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.33](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.33), 4 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [nodejs/node](https://github.com/nodejs/node) ([v18.20.2](https://github.com/nodejs/node/releases/tag/v18.20.2), 5 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
+- [iloveitaly/todoist-digest](https://github.com/iloveitaly/todoist-digest) ([v0.8.2](https://github.com/iloveitaly/todoist-digest/releases/tag/v0.8.2), 1 week ago) - Generate a digest of comments that occured since the last checked in date. Useful for including in an email.
+- [dokku/dokku](https://github.com/dokku/dokku) ([v0.34.4](https://github.com/dokku/dokku/releases/tag/v0.34.4), 1 week ago) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
