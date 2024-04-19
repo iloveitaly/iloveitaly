@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [cli/cli](https://github.com/cli/cli) ([v2.48.0](https://github.com/cli/cli/releases/tag/v2.48.0), 1 day ago) - GitHub’s official command line tool
-- [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) ([v1.21.3](https://github.com/railwayapp/nixpacks/releases/tag/v1.21.3), 3 days ago) - App source &#43; Nix packages &#43; Docker = Image
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.34](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.34), 1 day ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [cli/cli](https://github.com/cli/cli) ([v2.48.0](https://github.com/cli/cli/releases/tag/v2.48.0), 2 days ago) - GitHub’s official command line tool
+- [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) ([v1.21.3](https://github.com/railwayapp/nixpacks/releases/tag/v1.21.3), 4 days ago) - App source &#43; Nix packages &#43; Docker = Image
 - [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.35.9](https://github.com/dolthub/dolt/releases/tag/v1.35.9), 1 week ago) - Dolt – Git for Data
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.1.16](https://github.com/langchain-ai/langchain/releases/tag/v0.1.16), 1 week ago) - 🦜🔗 Build context-aware reasoning applications
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.33](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.33), 1 week ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [nodejs/node](https://github.com/nodejs/node) ([v18.20.2](https://github.com/nodejs/node/releases/tag/v18.20.2), 1 week ago) - Node.js JavaScript runtime ✨🐢🚀✨
