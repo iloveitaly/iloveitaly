@@ -11,7 +11,7 @@
 
 - [AppleScript Tips: Inspecting Objects, Modal Dialogs, and More](https://mikebian.co/applescript-tips-inspecting-objects-modal-dialogs-and-more/) (1 month ago)
 - [Financial Directives for a New Graduate](https://mikebian.co/financial-directives-for-a-new-graduate/) (1 month ago)
-- [Learning Docker Compose by Self-hosting Monica](https://mikebian.co/learning-docker-compose-by-self-hosting-monica/) (1 month ago)
+- [Learning Docker Compose by Self-hosting Monica](https://mikebian.co/learning-docker-compose-by-self-hosting-monica/) (2 months ago)
 - [Categorizing Personal Email Contacts with AI](https://mikebian.co/categorizing-personal-email-contacts-with-ai/) (2 months ago)
 - [Setting up eMMC on an Orange Pi](https://mikebian.co/setting-up-emmc-on-an-orange-pi/) (2 months ago)
 - [Pi Hole, TailScale, and Docker on an Orange Pi](https://mikebian.co/pi-hole-tailscale-and-docker-on-an-orange-pi/) (2 months ago)
@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.35.10](https://github.com/dolthub/dolt/releases/tag/v1.35.10), 2 days ago) - Dolt – Git for Data
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.34](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.34), 3 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
-- [cli/cli](https://github.com/cli/cli) ([v2.48.0](https://github.com/cli/cli/releases/tag/v2.48.0), 4 days ago) - GitHub’s official command line tool
-- [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) ([v1.21.3](https://github.com/railwayapp/nixpacks/releases/tag/v1.21.3), 6 days ago) - App source &#43; Nix packages &#43; Docker = Image
+- [noborus/ov](https://github.com/noborus/ov) ([v0.34.0](https://github.com/noborus/ov/releases/tag/v0.34.0), 1 day ago) - 🎑Feature-rich terminal-based text viewer.  It is a so-called terminal pager.
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.35.10](https://github.com/dolthub/dolt/releases/tag/v1.35.10), 3 days ago) - Dolt – Git for Data
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.34](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.34), 4 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [cli/cli](https://github.com/cli/cli) ([v2.48.0](https://github.com/cli/cli/releases/tag/v2.48.0), 5 days ago) - GitHub’s official command line tool
+- [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) ([v1.21.3](https://github.com/railwayapp/nixpacks/releases/tag/v1.21.3), 1 week ago) - App source &#43; Nix packages &#43; Docker = Image
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.1.16](https://github.com/langchain-ai/langchain/releases/tag/v0.1.16), 1 week ago) - 🦜🔗 Build context-aware reasoning applications
-- [nodejs/node](https://github.com/nodejs/node) ([v18.20.2](https://github.com/nodejs/node/releases/tag/v18.20.2), 1 week ago) - Node.js JavaScript runtime ✨🐢🚀✨
