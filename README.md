@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.35](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.35), 1 day ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
-- [noborus/ov](https://github.com/noborus/ov) ([v0.34.0](https://github.com/noborus/ov/releases/tag/v0.34.0), 2 days ago) - 🎑Feature-rich terminal-based text viewer.  It is a so-called terminal pager.
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.35.10](https://github.com/dolthub/dolt/releases/tag/v1.35.10), 4 days ago) - Dolt – Git for Data
-- [cli/cli](https://github.com/cli/cli) ([v2.48.0](https://github.com/cli/cli/releases/tag/v2.48.0), 6 days ago) - GitHub’s official command line tool
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.35](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.35), 2 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [noborus/ov](https://github.com/noborus/ov) ([v0.34.0](https://github.com/noborus/ov/releases/tag/v0.34.0), 3 days ago) - 🎑Feature-rich terminal-based text viewer.  It is a so-called terminal pager.
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.35.10](https://github.com/dolthub/dolt/releases/tag/v1.35.10), 5 days ago) - Dolt – Git for Data
+- [cli/cli](https://github.com/cli/cli) ([v2.48.0](https://github.com/cli/cli/releases/tag/v2.48.0), 1 week ago) - GitHub’s official command line tool
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) ([v1.21.3](https://github.com/railwayapp/nixpacks/releases/tag/v1.21.3), 1 week ago) - App source &#43; Nix packages &#43; Docker = Image
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.1.16](https://github.com/langchain-ai/langchain/releases/tag/v0.1.16), 1 week ago) - 🦜🔗 Build context-aware reasoning applications
