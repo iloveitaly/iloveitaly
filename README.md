@@ -10,7 +10,7 @@
 
 
 - [AppleScript Tips: Inspecting Objects, Modal Dialogs, and More](https://mikebian.co/applescript-tips-inspecting-objects-modal-dialogs-and-more/) (1 month ago)
-- [Financial Directives for a New Graduate](https://mikebian.co/financial-directives-for-a-new-graduate/) (1 month ago)
+- [Financial Directives for a New Graduate](https://mikebian.co/financial-directives-for-a-new-graduate/) (2 months ago)
 - [Learning Docker Compose by Self-hosting Monica](https://mikebian.co/learning-docker-compose-by-self-hosting-monica/) (2 months ago)
 - [Categorizing Personal Email Contacts with AI](https://mikebian.co/categorizing-personal-email-contacts-with-ai/) (2 months ago)
 - [Setting up eMMC on an Orange Pi](https://mikebian.co/setting-up-emmc-on-an-orange-pi/) (2 months ago)
@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.35.11](https://github.com/dolthub/dolt/releases/tag/v1.35.11), 1 day ago) - Dolt – Git for Data
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.36](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.36), 2 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
-- [nodejs/node](https://github.com/nodejs/node) ([v22.0.0](https://github.com/nodejs/node/releases/tag/v22.0.0), 2 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
-- [iloveitaly/gmail-draft-creator](https://github.com/iloveitaly/gmail-draft-creator) ([v1.2.2](https://github.com/iloveitaly/gmail-draft-creator/releases/tag/v1.2.2), 2 days ago) - Simple tool to take a CSV and a template and create drafts in your Gmail. Can be used as a command line tool, or as a library.
-- [noborus/ov](https://github.com/noborus/ov) ([v0.34.0](https://github.com/noborus/ov/releases/tag/v0.34.0), 5 days ago) - 🎑Feature-rich terminal-based text viewer.  It is a so-called terminal pager.
-- [cli/cli](https://github.com/cli/cli) ([v2.48.0](https://github.com/cli/cli/releases/tag/v2.48.0), 1 week ago) - GitHub’s official command line tool
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([v0.1.17rc1](https://github.com/langchain-ai/langchain/releases/tag/v0.1.17rc1), 1 day ago) - 🦜🔗 Build context-aware reasoning applications
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.35.11](https://github.com/dolthub/dolt/releases/tag/v1.35.11), 2 days ago) - Dolt – Git for Data
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.36](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.36), 3 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [nodejs/node](https://github.com/nodejs/node) ([v22.0.0](https://github.com/nodejs/node/releases/tag/v22.0.0), 3 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
+- [iloveitaly/gmail-draft-creator](https://github.com/iloveitaly/gmail-draft-creator) ([v1.2.2](https://github.com/iloveitaly/gmail-draft-creator/releases/tag/v1.2.2), 3 days ago) - Simple tool to take a CSV and a template and create drafts in your Gmail. Can be used as a command line tool, or as a library.
+- [noborus/ov](https://github.com/noborus/ov) ([v0.34.0](https://github.com/noborus/ov/releases/tag/v0.34.0), 6 days ago) - 🎑Feature-rich terminal-based text viewer.  It is a so-called terminal pager.
