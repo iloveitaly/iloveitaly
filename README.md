@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-openai==0.1.5](https://github.com/langchain-ai/langchain/releases/tag/langchain-openai%3D%3D0.1.5), 1 day ago) - 🦜🔗 Build context-aware reasoning applications
-- [wfxr/forgit](https://github.com/wfxr/forgit) ([24.05.0](https://github.com/wfxr/forgit/releases/tag/24.05.0), 1 day ago) - :zzz: A utility tool powered by fzf for using git interactively.
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.35.12](https://github.com/dolthub/dolt/releases/tag/v1.35.12), 2 days ago) - Dolt – Git for Data
-- [cli/cli](https://github.com/cli/cli) ([v2.49.0](https://github.com/cli/cli/releases/tag/v2.49.0), 2 days ago) - GitHub’s official command line tool
-- [noborus/ov](https://github.com/noborus/ov) ([v0.34.1](https://github.com/noborus/ov/releases/tag/v0.34.1), 4 days ago) - 🎑Feature-rich terminal-based text viewer.  It is a so-called terminal pager.
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.36](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.36), 1 week ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-core==0.1.50](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D0.1.50), 1 day ago) - 🦜🔗 Build context-aware reasoning applications
+- [nodejs/node](https://github.com/nodejs/node) ([v22.1.0](https://github.com/nodejs/node/releases/tag/v22.1.0), 1 day ago) - Node.js JavaScript runtime ✨🐢🚀✨
+- [wfxr/forgit](https://github.com/wfxr/forgit) ([24.05.0](https://github.com/wfxr/forgit/releases/tag/24.05.0), 2 days ago) - :zzz: A utility tool powered by fzf for using git interactively.
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.35.12](https://github.com/dolthub/dolt/releases/tag/v1.35.12), 3 days ago) - Dolt – Git for Data
+- [cli/cli](https://github.com/cli/cli) ([v2.49.0](https://github.com/cli/cli/releases/tag/v2.49.0), 3 days ago) - GitHub’s official command line tool
+- [noborus/ov](https://github.com/noborus/ov) ([v0.34.1](https://github.com/noborus/ov/releases/tag/v0.34.1), 5 days ago) - 🎑Feature-rich terminal-based text viewer.  It is a so-called terminal pager.
