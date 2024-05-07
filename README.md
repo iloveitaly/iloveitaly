@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.35.13](https://github.com/dolthub/dolt/releases/tag/v1.35.13), 3 days ago) - Dolt – Git for Data
-- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) ([1.5.2](https://github.com/nginx-proxy/nginx-proxy/releases/tag/1.5.2), 3 days ago) - Automated nginx proxy for Docker containers using docker-gen
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-openai==0.1.6](https://github.com/langchain-ai/langchain/releases/tag/langchain-openai%3D%3D0.1.6), 3 days ago) - 🦜🔗 Build context-aware reasoning applications
-- [nodejs/node](https://github.com/nodejs/node) ([v22.1.0](https://github.com/nodejs/node/releases/tag/v22.1.0), 4 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
-- [wfxr/forgit](https://github.com/wfxr/forgit) ([24.05.0](https://github.com/wfxr/forgit/releases/tag/24.05.0), 5 days ago) - :zzz: A utility tool powered by fzf for using git interactively.
-- [cli/cli](https://github.com/cli/cli) ([v2.49.0](https://github.com/cli/cli/releases/tag/v2.49.0), 6 days ago) - GitHub’s official command line tool
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-core==0.1.52](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D0.1.52), 1 day ago) - 🦜🔗 Build context-aware reasoning applications
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.35.13](https://github.com/dolthub/dolt/releases/tag/v1.35.13), 4 days ago) - Dolt – Git for Data
+- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) ([1.5.2](https://github.com/nginx-proxy/nginx-proxy/releases/tag/1.5.2), 4 days ago) - Automated nginx proxy for Docker containers using docker-gen
+- [nodejs/node](https://github.com/nodejs/node) ([v22.1.0](https://github.com/nodejs/node/releases/tag/v22.1.0), 5 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
+- [wfxr/forgit](https://github.com/wfxr/forgit) ([24.05.0](https://github.com/wfxr/forgit/releases/tag/24.05.0), 6 days ago) - :zzz: A utility tool powered by fzf for using git interactively.
+- [cli/cli](https://github.com/cli/cli) ([v2.49.0](https://github.com/cli/cli/releases/tag/v2.49.0), 1 week ago) - GitHub’s official command line tool
