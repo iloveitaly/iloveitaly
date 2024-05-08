@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-core==0.1.52](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D0.1.52), 1 day ago) - 🦜🔗 Build context-aware reasoning applications
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.35.13](https://github.com/dolthub/dolt/releases/tag/v1.35.13), 4 days ago) - Dolt – Git for Data
-- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) ([1.5.2](https://github.com/nginx-proxy/nginx-proxy/releases/tag/1.5.2), 4 days ago) - Automated nginx proxy for Docker containers using docker-gen
-- [nodejs/node](https://github.com/nodejs/node) ([v22.1.0](https://github.com/nodejs/node/releases/tag/v22.1.0), 5 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
-- [wfxr/forgit](https://github.com/wfxr/forgit) ([24.05.0](https://github.com/wfxr/forgit/releases/tag/24.05.0), 6 days ago) - :zzz: A utility tool powered by fzf for using git interactively.
-- [cli/cli](https://github.com/cli/cli) ([v2.49.0](https://github.com/cli/cli/releases/tag/v2.49.0), 1 week ago) - GitHub’s official command line tool
+- [nodejs/node](https://github.com/nodejs/node) ([v20.13.0](https://github.com/nodejs/node/releases/tag/v20.13.0), 1 day ago) - Node.js JavaScript runtime ✨🐢🚀✨
+- [Doist/todoist-api-python](https://github.com/Doist/todoist-api-python) ([v2.1.4](https://github.com/Doist/todoist-api-python/releases/tag/v2.1.4), 1 day ago) - A python wrapper for the Todoist REST API.
+- [softprops/action-gh-release](https://github.com/softprops/action-gh-release) ([v2.0.5](https://github.com/softprops/action-gh-release/releases/tag/v2.0.5), 1 day ago) - 📦 :octocat: GitHub Action for creating GitHub Releases
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-together==0.1.1](https://github.com/langchain-ai/langchain/releases/tag/langchain-together%3D%3D0.1.1), 1 day ago) - 🦜🔗 Build context-aware reasoning applications
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.35.13](https://github.com/dolthub/dolt/releases/tag/v1.35.13), 5 days ago) - Dolt – Git for Data
+- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) ([1.5.2](https://github.com/nginx-proxy/nginx-proxy/releases/tag/1.5.2), 5 days ago) - Automated nginx proxy for Docker containers using docker-gen
