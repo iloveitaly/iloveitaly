@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [nodejs/node](https://github.com/nodejs/node) ([v20.13.0](https://github.com/nodejs/node/releases/tag/v20.13.0), 1 day ago) - Node.js JavaScript runtime ✨🐢🚀✨
-- [Doist/todoist-api-python](https://github.com/Doist/todoist-api-python) ([v2.1.4](https://github.com/Doist/todoist-api-python/releases/tag/v2.1.4), 1 day ago) - A python wrapper for the Todoist REST API.
-- [softprops/action-gh-release](https://github.com/softprops/action-gh-release) ([v2.0.5](https://github.com/softprops/action-gh-release/releases/tag/v2.0.5), 1 day ago) - 📦 :octocat: GitHub Action for creating GitHub Releases
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-together==0.1.1](https://github.com/langchain-ai/langchain/releases/tag/langchain-together%3D%3D0.1.1), 1 day ago) - 🦜🔗 Build context-aware reasoning applications
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.35.13](https://github.com/dolthub/dolt/releases/tag/v1.35.13), 5 days ago) - Dolt – Git for Data
-- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) ([1.5.2](https://github.com/nginx-proxy/nginx-proxy/releases/tag/1.5.2), 5 days ago) - Automated nginx proxy for Docker containers using docker-gen
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.37.0](https://github.com/dolthub/dolt/releases/tag/v1.37.0), 1 day ago) - Dolt – Git for Data
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain==0.1.19](https://github.com/langchain-ai/langchain/releases/tag/langchain%3D%3D0.1.19), 1 day ago) - 🦜🔗 Build context-aware reasoning applications
+- [cli/cli](https://github.com/cli/cli) ([v2.49.1](https://github.com/cli/cli/releases/tag/v2.49.1), 1 day ago) - GitHub’s official command line tool
+- [python-poetry/poetry](https://github.com/python-poetry/poetry) ([1.8.3](https://github.com/python-poetry/poetry/releases/tag/1.8.3), 1 day ago) - Python packaging and dependency management made easy
+- [nodejs/node](https://github.com/nodejs/node) ([v20.13.0](https://github.com/nodejs/node/releases/tag/v20.13.0), 2 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
+- [Doist/todoist-api-python](https://github.com/Doist/todoist-api-python) ([v2.1.4](https://github.com/Doist/todoist-api-python/releases/tag/v2.1.4), 2 days ago) - A python wrapper for the Todoist REST API.
