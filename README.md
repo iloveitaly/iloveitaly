@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.38.0](https://github.com/dolthub/dolt/releases/tag/v1.38.0), 1 day ago) - Dolt – Git for Data
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain==0.1.20](https://github.com/langchain-ai/langchain/releases/tag/langchain%3D%3D0.1.20), 1 day ago) - 🦜🔗 Build context-aware reasoning applications
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.37](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.37), 1 day ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
-- [iloveitaly/gmail-draft-creator](https://github.com/iloveitaly/gmail-draft-creator) ([v1.3.1](https://github.com/iloveitaly/gmail-draft-creator/releases/tag/v1.3.1), 2 days ago) - Simple tool to take a CSV and a template and create drafts in your Gmail. Can be used as a command line tool, or as a library.
-- [nodejs/node](https://github.com/nodejs/node) ([v20.13.1](https://github.com/nodejs/node/releases/tag/v20.13.1), 2 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
-- [cli/cli](https://github.com/cli/cli) ([v2.49.1](https://github.com/cli/cli/releases/tag/v2.49.1), 3 days ago) - GitHub’s official command line tool
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-prompty==0.0.1](https://github.com/langchain-ai/langchain/releases/tag/langchain-prompty%3D%3D0.0.1), 1 day ago) - 🦜🔗 Build context-aware reasoning applications
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.38.0](https://github.com/dolthub/dolt/releases/tag/v1.38.0), 2 days ago) - Dolt – Git for Data
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.37](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.37), 2 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [iloveitaly/gmail-draft-creator](https://github.com/iloveitaly/gmail-draft-creator) ([v1.3.1](https://github.com/iloveitaly/gmail-draft-creator/releases/tag/v1.3.1), 3 days ago) - Simple tool to take a CSV and a template and create drafts in your Gmail. Can be used as a command line tool, or as a library.
+- [nodejs/node](https://github.com/nodejs/node) ([v20.13.1](https://github.com/nodejs/node/releases/tag/v20.13.1), 3 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
+- [cli/cli](https://github.com/cli/cli) ([v2.49.1](https://github.com/cli/cli/releases/tag/v2.49.1), 4 days ago) - GitHub’s official command line tool
