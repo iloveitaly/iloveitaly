@@ -14,7 +14,7 @@
 - [Learning Docker Compose by Self-hosting Monica](https://mikebian.co/learning-docker-compose-by-self-hosting-monica/) (2 months ago)
 - [Categorizing Personal Email Contacts with AI](https://mikebian.co/categorizing-personal-email-contacts-with-ai/) (2 months ago)
 - [Setting up eMMC on an Orange Pi](https://mikebian.co/setting-up-emmc-on-an-orange-pi/) (2 months ago)
-- [Pi Hole, TailScale, and Docker on an Orange Pi](https://mikebian.co/pi-hole-tailscale-and-docker-on-an-orange-pi/) (2 months ago)
+- [Pi Hole, TailScale, and Docker on an Orange Pi](https://mikebian.co/pi-hole-tailscale-and-docker-on-an-orange-pi/) (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-prompty==0.0.1](https://github.com/langchain-ai/langchain/releases/tag/langchain-prompty%3D%3D0.0.1), 1 day ago) - 🦜🔗 Build context-aware reasoning applications
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.38.0](https://github.com/dolthub/dolt/releases/tag/v1.38.0), 2 days ago) - Dolt – Git for Data
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.37](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.37), 2 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
-- [iloveitaly/gmail-draft-creator](https://github.com/iloveitaly/gmail-draft-creator) ([v1.3.1](https://github.com/iloveitaly/gmail-draft-creator/releases/tag/v1.3.1), 3 days ago) - Simple tool to take a CSV and a template and create drafts in your Gmail. Can be used as a command line tool, or as a library.
-- [nodejs/node](https://github.com/nodejs/node) ([v20.13.1](https://github.com/nodejs/node/releases/tag/v20.13.1), 3 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
-- [cli/cli](https://github.com/cli/cli) ([v2.49.1](https://github.com/cli/cli/releases/tag/v2.49.1), 4 days ago) - GitHub’s official command line tool
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-prompty==0.0.1](https://github.com/langchain-ai/langchain/releases/tag/langchain-prompty%3D%3D0.0.1), 2 days ago) - 🦜🔗 Build context-aware reasoning applications
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.38.0](https://github.com/dolthub/dolt/releases/tag/v1.38.0), 3 days ago) - Dolt – Git for Data
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.37](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.37), 3 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [iloveitaly/gmail-draft-creator](https://github.com/iloveitaly/gmail-draft-creator) ([v1.3.1](https://github.com/iloveitaly/gmail-draft-creator/releases/tag/v1.3.1), 4 days ago) - Simple tool to take a CSV and a template and create drafts in your Gmail. Can be used as a command line tool, or as a library.
+- [nodejs/node](https://github.com/nodejs/node) ([v20.13.1](https://github.com/nodejs/node/releases/tag/v20.13.1), 4 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
+- [cli/cli](https://github.com/cli/cli) ([v2.49.1](https://github.com/cli/cli/releases/tag/v2.49.1), 5 days ago) - GitHub’s official command line tool
