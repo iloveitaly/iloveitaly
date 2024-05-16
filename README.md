@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-mongodb==0.1.4](https://github.com/langchain-ai/langchain/releases/tag/langchain-mongodb%3D%3D0.1.4), 1 day ago) - 🦜🔗 Build context-aware reasoning applications
-- [cli/cli](https://github.com/cli/cli) ([v2.49.2](https://github.com/cli/cli/releases/tag/v2.49.2), 2 days ago) - GitHub’s official command line tool
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.38.0](https://github.com/dolthub/dolt/releases/tag/v1.38.0), 5 days ago) - Dolt – Git for Data
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.37](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.37), 5 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
-- [iloveitaly/gmail-draft-creator](https://github.com/iloveitaly/gmail-draft-creator) ([v1.3.1](https://github.com/iloveitaly/gmail-draft-creator/releases/tag/v1.3.1), 6 days ago) - Simple tool to take a CSV and a template and create drafts in your Gmail. Can be used as a command line tool, or as a library.
-- [nodejs/node](https://github.com/nodejs/node) ([v20.13.1](https://github.com/nodejs/node/releases/tag/v20.13.1), 6 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-mongodb==0.1.5](https://github.com/langchain-ai/langchain/releases/tag/langchain-mongodb%3D%3D0.1.5), 1 day ago) - 🦜🔗 Build context-aware reasoning applications
+- [nodejs/node](https://github.com/nodejs/node) ([v22.2.0](https://github.com/nodejs/node/releases/tag/v22.2.0), 1 day ago) - Node.js JavaScript runtime ✨🐢🚀✨
+- [cli/cli](https://github.com/cli/cli) ([v2.49.2](https://github.com/cli/cli/releases/tag/v2.49.2), 3 days ago) - GitHub’s official command line tool
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.38.0](https://github.com/dolthub/dolt/releases/tag/v1.38.0), 6 days ago) - Dolt – Git for Data
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.37](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.37), 6 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [iloveitaly/gmail-draft-creator](https://github.com/iloveitaly/gmail-draft-creator) ([v1.3.1](https://github.com/iloveitaly/gmail-draft-creator/releases/tag/v1.3.1), 1 week ago) - Simple tool to take a CSV and a template and create drafts in your Gmail. Can be used as a command line tool, or as a library.
