@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-anthropic==0.1.13](https://github.com/langchain-ai/langchain/releases/tag/langchain-anthropic%3D%3D0.1.13), 1 day ago) - 🦜🔗 Build context-aware reasoning applications
-- [nodejs/node](https://github.com/nodejs/node) ([v22.2.0](https://github.com/nodejs/node/releases/tag/v22.2.0), 2 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
-- [cli/cli](https://github.com/cli/cli) ([v2.49.2](https://github.com/cli/cli/releases/tag/v2.49.2), 4 days ago) - GitHub’s official command line tool
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.38.0](https://github.com/dolthub/dolt/releases/tag/v1.38.0), 1 week ago) - Dolt – Git for Data
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.37](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.37), 1 week ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.38.1](https://github.com/dolthub/dolt/releases/tag/v1.38.1), 1 day ago) - Dolt – Git for Data
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-experimental==0.0.59](https://github.com/langchain-ai/langchain/releases/tag/langchain-experimental%3D%3D0.0.59), 1 day ago) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.0@next](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.0%40next), 1 day ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [nodejs/node](https://github.com/nodejs/node) ([v22.2.0](https://github.com/nodejs/node/releases/tag/v22.2.0), 3 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
+- [cli/cli](https://github.com/cli/cli) ([v2.49.2](https://github.com/cli/cli/releases/tag/v2.49.2), 5 days ago) - GitHub’s official command line tool
 - [iloveitaly/gmail-draft-creator](https://github.com/iloveitaly/gmail-draft-creator) ([v1.3.1](https://github.com/iloveitaly/gmail-draft-creator/releases/tag/v1.3.1), 1 week ago) - Simple tool to take a CSV and a template and create drafts in your Gmail. Can be used as a command line tool, or as a library.
