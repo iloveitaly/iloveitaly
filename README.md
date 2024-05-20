@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) ([v1.23.0](https://github.com/railwayapp/nixpacks/releases/tag/v1.23.0), 1 day ago) - App source &#43; Nix packages &#43; Docker = Image
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.38.1](https://github.com/dolthub/dolt/releases/tag/v1.38.1), 2 days ago) - Dolt – Git for Data
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-experimental==0.0.59](https://github.com/langchain-ai/langchain/releases/tag/langchain-experimental%3D%3D0.0.59), 2 days ago) - 🦜🔗 Build context-aware reasoning applications
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.0@next](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.0%40next), 2 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
-- [nodejs/node](https://github.com/nodejs/node) ([v22.2.0](https://github.com/nodejs/node/releases/tag/v22.2.0), 4 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
-- [cli/cli](https://github.com/cli/cli) ([v2.49.2](https://github.com/cli/cli/releases/tag/v2.49.2), 6 days ago) - GitHub’s official command line tool
+- [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) ([v1.23.0](https://github.com/railwayapp/nixpacks/releases/tag/v1.23.0), 2 days ago) - App source &#43; Nix packages &#43; Docker = Image
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.38.1](https://github.com/dolthub/dolt/releases/tag/v1.38.1), 3 days ago) - Dolt – Git for Data
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-experimental==0.0.59](https://github.com/langchain-ai/langchain/releases/tag/langchain-experimental%3D%3D0.0.59), 3 days ago) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.0@next](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.0%40next), 3 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [nodejs/node](https://github.com/nodejs/node) ([v22.2.0](https://github.com/nodejs/node/releases/tag/v22.2.0), 5 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
+- [cli/cli](https://github.com/cli/cli) ([v2.49.2](https://github.com/cli/cli/releases/tag/v2.49.2), 1 week ago) - GitHub’s official command line tool
