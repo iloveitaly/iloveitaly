@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.1](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.1), 1 day ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-robocorp==0.0.8](https://github.com/langchain-ai/langchain/releases/tag/langchain-robocorp%3D%3D0.0.8), 1 day ago) - 🦜🔗 Build context-aware reasoning applications
-- [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) ([v1.24.0](https://github.com/railwayapp/nixpacks/releases/tag/v1.24.0), 1 day ago) - App source &#43; Nix packages &#43; Docker = Image
-- [nodejs/node](https://github.com/nodejs/node) ([v18.20.3](https://github.com/nodejs/node/releases/tag/v18.20.3), 2 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
-- [TriPSs/conventional-changelog-action](https://github.com/TriPSs/conventional-changelog-action) ([v5.3.0](https://github.com/TriPSs/conventional-changelog-action/releases/tag/v5.3.0), 2 days ago) - Github Action that generates a changelog with the Conventional Changelog CLI
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.38.2](https://github.com/dolthub/dolt/releases/tag/v1.38.2), 3 days ago) - Dolt – Git for Data
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.2](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.2), 1 day ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.38.3](https://github.com/dolthub/dolt/releases/tag/v1.38.3), 1 day ago) - Dolt – Git for Data
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-cli==0.0.23](https://github.com/langchain-ai/langchain/releases/tag/langchain-cli%3D%3D0.0.23), 1 day ago) - 🦜🔗 Build context-aware reasoning applications
+- [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) ([v1.24.0](https://github.com/railwayapp/nixpacks/releases/tag/v1.24.0), 2 days ago) - App source &#43; Nix packages &#43; Docker = Image
+- [nodejs/node](https://github.com/nodejs/node) ([v18.20.3](https://github.com/nodejs/node/releases/tag/v18.20.3), 3 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
+- [TriPSs/conventional-changelog-action](https://github.com/TriPSs/conventional-changelog-action) ([v5.3.0](https://github.com/TriPSs/conventional-changelog-action/releases/tag/v5.3.0), 3 days ago) - Github Action that generates a changelog with the Conventional Changelog CLI
