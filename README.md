@@ -9,7 +9,7 @@
 #### 📜 My recent blog posts
 
 
-- [AppleScript Tips: Inspecting Objects, Modal Dialogs, and More](https://mikebian.co/applescript-tips-inspecting-objects-modal-dialogs-and-more/) (2 months ago)
+- [AppleScript Tips: Inspecting Objects, Modal Dialogs, and More](https://mikebian.co/applescript-tips-inspecting-objects-modal-dialogs-and-more/) (3 months ago)
 - [Financial Directives for a New Graduate](https://mikebian.co/financial-directives-for-a-new-graduate/) (3 months ago)
 - [Learning Docker Compose by Self-hosting Monica](https://mikebian.co/learning-docker-compose-by-self-hosting-monica/) (3 months ago)
 - [Categorizing Personal Email Contacts with AI](https://mikebian.co/categorizing-personal-email-contacts-with-ai/) (3 months ago)
@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.39.1](https://github.com/dolthub/dolt/releases/tag/v1.39.1), 4 days ago) - Dolt – Git for Data
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-anthropic==0.1.14rc2](https://github.com/langchain-ai/langchain/releases/tag/langchain-anthropic%3D%3D0.1.14rc2), 4 days ago) - 🦜🔗 Build context-aware reasoning applications
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.2](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.2), 5 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
-- [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) ([v1.24.0](https://github.com/railwayapp/nixpacks/releases/tag/v1.24.0), 6 days ago) - App source &#43; Nix packages &#43; Docker = Image
-- [nodejs/node](https://github.com/nodejs/node) ([v18.20.3](https://github.com/nodejs/node/releases/tag/v18.20.3), 1 week ago) - Node.js JavaScript runtime ✨🐢🚀✨
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-milvus==0.1.0](https://github.com/langchain-ai/langchain/releases/tag/langchain-milvus%3D%3D0.1.0), 1 day ago) - 🦜🔗 Build context-aware reasoning applications
+- [nodejs/node](https://github.com/nodejs/node) ([v20.14.0](https://github.com/nodejs/node/releases/tag/v20.14.0), 1 day ago) - Node.js JavaScript runtime ✨🐢🚀✨
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.39.1](https://github.com/dolthub/dolt/releases/tag/v1.39.1), 5 days ago) - Dolt – Git for Data
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.2](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.2), 6 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) ([v1.24.0](https://github.com/railwayapp/nixpacks/releases/tag/v1.24.0), 1 week ago) - App source &#43; Nix packages &#43; Docker = Image
 - [TriPSs/conventional-changelog-action](https://github.com/TriPSs/conventional-changelog-action) ([v5.3.0](https://github.com/TriPSs/conventional-changelog-action/releases/tag/v5.3.0), 1 week ago) - Github Action that generates a changelog with the Conventional Changelog CLI
