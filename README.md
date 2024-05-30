@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-milvus==0.1.0](https://github.com/langchain-ai/langchain/releases/tag/langchain-milvus%3D%3D0.1.0), 1 day ago) - 🦜🔗 Build context-aware reasoning applications
-- [nodejs/node](https://github.com/nodejs/node) ([v20.14.0](https://github.com/nodejs/node/releases/tag/v20.14.0), 1 day ago) - Node.js JavaScript runtime ✨🐢🚀✨
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.39.1](https://github.com/dolthub/dolt/releases/tag/v1.39.1), 5 days ago) - Dolt – Git for Data
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.2](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.2), 6 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
-- [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) ([v1.24.0](https://github.com/railwayapp/nixpacks/releases/tag/v1.24.0), 1 week ago) - App source &#43; Nix packages &#43; Docker = Image
-- [TriPSs/conventional-changelog-action](https://github.com/TriPSs/conventional-changelog-action) ([v5.3.0](https://github.com/TriPSs/conventional-changelog-action/releases/tag/v5.3.0), 1 week ago) - Github Action that generates a changelog with the Conventional Changelog CLI
+- [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) ([v1.24.1](https://github.com/railwayapp/nixpacks/releases/tag/v1.24.1), 1 day ago) - App source &#43; Nix packages &#43; Docker = Image
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-cli==0.0.24](https://github.com/langchain-ai/langchain/releases/tag/langchain-cli%3D%3D0.0.24), 1 day ago) - 🦜🔗 Build context-aware reasoning applications
+- [cli/cli](https://github.com/cli/cli) ([v2.50.0](https://github.com/cli/cli/releases/tag/v2.50.0), 1 day ago) - GitHub’s official command line tool
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.3](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.3), 1 day ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [nodejs/node](https://github.com/nodejs/node) ([v20.14.0](https://github.com/nodejs/node/releases/tag/v20.14.0), 2 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.39.1](https://github.com/dolthub/dolt/releases/tag/v1.39.1), 6 days ago) - Dolt – Git for Data
