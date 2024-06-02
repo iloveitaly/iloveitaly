@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-anthropic==0.1.15](https://github.com/langchain-ai/langchain/releases/tag/langchain-anthropic%3D%3D0.1.15), 1 day ago) - 🦜🔗 Build context-aware reasoning applications
-- [estuary/flow](https://github.com/estuary/flow) ([v0.3.13](https://github.com/estuary/flow/releases/tag/v0.3.13), 1 day ago) - 🌊 Continuously synchronize the systems where your data lives, to the systems where you _want_ it to live, with Estuary Flow. 🌊 
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.4](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.4), 1 day ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.39.2](https://github.com/dolthub/dolt/releases/tag/v1.39.2), 2 days ago) - Dolt – Git for Data
-- [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) ([v1.24.1](https://github.com/railwayapp/nixpacks/releases/tag/v1.24.1), 3 days ago) - App source &#43; Nix packages &#43; Docker = Image
-- [cli/cli](https://github.com/cli/cli) ([v2.50.0](https://github.com/cli/cli/releases/tag/v2.50.0), 3 days ago) - GitHub’s official command line tool
+- [wfxr/forgit](https://github.com/wfxr/forgit) ([24.06.0](https://github.com/wfxr/forgit/releases/tag/24.06.0), 1 day ago) - :zzz: A utility tool powered by fzf for using git interactively.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-anthropic==0.1.15](https://github.com/langchain-ai/langchain/releases/tag/langchain-anthropic%3D%3D0.1.15), 2 days ago) - 🦜🔗 Build context-aware reasoning applications
+- [estuary/flow](https://github.com/estuary/flow) ([v0.3.13](https://github.com/estuary/flow/releases/tag/v0.3.13), 2 days ago) - 🌊 Continuously synchronize the systems where your data lives, to the systems where you _want_ it to live, with Estuary Flow. 🌊 
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.4](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.4), 2 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.39.2](https://github.com/dolthub/dolt/releases/tag/v1.39.2), 3 days ago) - Dolt – Git for Data
+- [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) ([v1.24.1](https://github.com/railwayapp/nixpacks/releases/tag/v1.24.1), 4 days ago) - App source &#43; Nix packages &#43; Docker = Image
