@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [hongquan/CurliPie](https://github.com/hongquan/CurliPie) ([v0.9.0](https://github.com/hongquan/CurliPie/releases/tag/v0.9.0), 1 day ago) - Convert cURL command to HTTPie
-- [wfxr/forgit](https://github.com/wfxr/forgit) ([24.06.0](https://github.com/wfxr/forgit/releases/tag/24.06.0), 3 days ago) - :zzz: A utility tool powered by fzf for using git interactively.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-anthropic==0.1.15](https://github.com/langchain-ai/langchain/releases/tag/langchain-anthropic%3D%3D0.1.15), 4 days ago) - 🦜🔗 Build context-aware reasoning applications
-- [estuary/flow](https://github.com/estuary/flow) ([v0.3.13](https://github.com/estuary/flow/releases/tag/v0.3.13), 4 days ago) - 🌊 Continuously synchronize the systems where your data lives, to the systems where you _want_ it to live, with Estuary Flow. 🌊 
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.4](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.4), 4 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.39.2](https://github.com/dolthub/dolt/releases/tag/v1.39.2), 5 days ago) - Dolt – Git for Data
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.5](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.5), 1 day ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-robocorp==0.0.9.post1](https://github.com/langchain-ai/langchain/releases/tag/langchain-robocorp%3D%3D0.0.9.post1), 1 day ago) - 🦜🔗 Build context-aware reasoning applications
+- [fellowapp/asyncio-connection-pool](https://github.com/fellowapp/asyncio-connection-pool) ([v1.0.0](https://github.com/fellowapp/asyncio-connection-pool/releases/tag/v1.0.0), 1 day ago) - A high-throughput, optionally-burstable pool free of explicit locking.
+- [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) ([v0.13.0](https://github.com/ActivityWatch/activitywatch/releases/tag/v0.13.0), 1 day ago) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
+- [hongquan/CurliPie](https://github.com/hongquan/CurliPie) ([v0.9.0](https://github.com/hongquan/CurliPie/releases/tag/v0.9.0), 2 days ago) - Convert cURL command to HTTPie
+- [wfxr/forgit](https://github.com/wfxr/forgit) ([24.06.0](https://github.com/wfxr/forgit/releases/tag/24.06.0), 4 days ago) - :zzz: A utility tool powered by fzf for using git interactively.
