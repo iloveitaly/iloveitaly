@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain==0.2.3](https://github.com/langchain-ai/langchain/releases/tag/langchain%3D%3D0.2.3), 1 day ago) - 🦜🔗 Build context-aware reasoning applications
-- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) ([1.6.0](https://github.com/nginx-proxy/nginx-proxy/releases/tag/1.6.0), 1 day ago) - Automated nginx proxy for Docker containers using docker-gen
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.39.3](https://github.com/dolthub/dolt/releases/tag/v1.39.3), 2 days ago) - Dolt – Git for Data
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.5](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.5), 3 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
-- [fellowapp/asyncio-connection-pool](https://github.com/fellowapp/asyncio-connection-pool) ([v1.0.0](https://github.com/fellowapp/asyncio-connection-pool/releases/tag/v1.0.0), 3 days ago) - A high-throughput, optionally-burstable pool free of explicit locking.
-- [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) ([v0.13.0](https://github.com/ActivityWatch/activitywatch/releases/tag/v0.13.0), 3 days ago) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-couchbase==0.0.1](https://github.com/langchain-ai/langchain/releases/tag/langchain-couchbase%3D%3D0.0.1), 1 day ago) - 🦜🔗 Build context-aware reasoning applications
+- [iloveitaly/sql-ai-prompt-generator](https://github.com/iloveitaly/sql-ai-prompt-generator) ([v0.5.0](https://github.com/iloveitaly/sql-ai-prompt-generator/releases/tag/v0.5.0), 1 day ago) - Utility to generate ChatGPT prompts for SQL writing, offering table structure snapshots and sample row data from Postgres and sqlite databases.
+- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) ([1.6.0](https://github.com/nginx-proxy/nginx-proxy/releases/tag/1.6.0), 2 days ago) - Automated nginx proxy for Docker containers using docker-gen
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.39.3](https://github.com/dolthub/dolt/releases/tag/v1.39.3), 3 days ago) - Dolt – Git for Data
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.5](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.5), 4 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [fellowapp/asyncio-connection-pool](https://github.com/fellowapp/asyncio-connection-pool) ([v1.0.0](https://github.com/fellowapp/asyncio-connection-pool/releases/tag/v1.0.0), 4 days ago) - A high-throughput, optionally-burstable pool free of explicit locking.
