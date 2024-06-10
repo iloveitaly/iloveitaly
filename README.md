@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [iloveitaly/github-overlord](https://github.com/iloveitaly/github-overlord) ([v0.2.0](https://github.com/iloveitaly/github-overlord/releases/tag/v0.2.0), 1 day ago) - Automatically merge Dependabot PRs in public repositories
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.39.4](https://github.com/dolthub/dolt/releases/tag/v1.39.4), 1 day ago) - Dolt – Git for Data
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-couchbase==0.0.1](https://github.com/langchain-ai/langchain/releases/tag/langchain-couchbase%3D%3D0.0.1), 2 days ago) - 🦜🔗 Build context-aware reasoning applications
-- [iloveitaly/sql-ai-prompt-generator](https://github.com/iloveitaly/sql-ai-prompt-generator) ([v0.5.0](https://github.com/iloveitaly/sql-ai-prompt-generator/releases/tag/v0.5.0), 2 days ago) - Utility to generate ChatGPT prompts for SQL writing, offering table structure snapshots and sample row data from Postgres and sqlite databases.
-- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) ([1.6.0](https://github.com/nginx-proxy/nginx-proxy/releases/tag/1.6.0), 3 days ago) - Automated nginx proxy for Docker containers using docker-gen
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.5](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.5), 5 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [iloveitaly/github-overlord](https://github.com/iloveitaly/github-overlord) ([v0.3.2](https://github.com/iloveitaly/github-overlord/releases/tag/v0.3.2), 1 day ago) - Automatically merge Dependabot PRs in public repositories
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.39.4](https://github.com/dolthub/dolt/releases/tag/v1.39.4), 2 days ago) - Dolt – Git for Data
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-couchbase==0.0.1](https://github.com/langchain-ai/langchain/releases/tag/langchain-couchbase%3D%3D0.0.1), 3 days ago) - 🦜🔗 Build context-aware reasoning applications
+- [iloveitaly/sql-ai-prompt-generator](https://github.com/iloveitaly/sql-ai-prompt-generator) ([v0.5.0](https://github.com/iloveitaly/sql-ai-prompt-generator/releases/tag/v0.5.0), 3 days ago) - Utility to generate ChatGPT prompts for SQL writing, offering table structure snapshots and sample row data from Postgres and sqlite databases.
+- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) ([1.6.0](https://github.com/nginx-proxy/nginx-proxy/releases/tag/1.6.0), 4 days ago) - Automated nginx proxy for Docker containers using docker-gen
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.5](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.5), 6 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
