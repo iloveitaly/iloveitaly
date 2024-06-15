@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-core==0.2.6](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D0.2.6), 1 day ago) - 🦜🔗 Build context-aware reasoning applications
-- [dokku/dokku](https://github.com/dokku/dokku) ([v0.34.5](https://github.com/dokku/dokku/releases/tag/v0.34.5), 1 day ago) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
-- [cli/cli](https://github.com/cli/cli) ([v2.51.0](https://github.com/cli/cli/releases/tag/v2.51.0), 1 day ago) - GitHub’s official command line tool
-- [iloveitaly/github-overlord](https://github.com/iloveitaly/github-overlord) ([v0.3.3](https://github.com/iloveitaly/github-overlord/releases/tag/v0.3.3), 1 day ago) - Automatically merge Dependabot PRs in public repositories
-- [nodejs/node](https://github.com/nodejs/node) ([v22.3.0](https://github.com/nodejs/node/releases/tag/v22.3.0), 3 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
-- [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) ([v0.13.1](https://github.com/ActivityWatch/activitywatch/releases/tag/v0.13.1), 4 days ago) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.40.2](https://github.com/dolthub/dolt/releases/tag/v1.40.2), 1 day ago) - Dolt – Git for Data
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-experimental==0.0.61](https://github.com/langchain-ai/langchain/releases/tag/langchain-experimental%3D%3D0.0.61), 1 day ago) - 🦜🔗 Build context-aware reasoning applications
+- [dokku/dokku](https://github.com/dokku/dokku) ([v0.34.5](https://github.com/dokku/dokku/releases/tag/v0.34.5), 2 days ago) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
+- [cli/cli](https://github.com/cli/cli) ([v2.51.0](https://github.com/cli/cli/releases/tag/v2.51.0), 2 days ago) - GitHub’s official command line tool
+- [iloveitaly/github-overlord](https://github.com/iloveitaly/github-overlord) ([v0.3.3](https://github.com/iloveitaly/github-overlord/releases/tag/v0.3.3), 2 days ago) - Automatically merge Dependabot PRs in public repositories
+- [nodejs/node](https://github.com/nodejs/node) ([v22.3.0](https://github.com/nodejs/node/releases/tag/v22.3.0), 4 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
