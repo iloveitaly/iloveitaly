@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.40.2](https://github.com/dolthub/dolt/releases/tag/v1.40.2), 1 day ago) - Dolt – Git for Data
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-experimental==0.0.61](https://github.com/langchain-ai/langchain/releases/tag/langchain-experimental%3D%3D0.0.61), 1 day ago) - 🦜🔗 Build context-aware reasoning applications
-- [dokku/dokku](https://github.com/dokku/dokku) ([v0.34.5](https://github.com/dokku/dokku/releases/tag/v0.34.5), 2 days ago) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
-- [cli/cli](https://github.com/cli/cli) ([v2.51.0](https://github.com/cli/cli/releases/tag/v2.51.0), 2 days ago) - GitHub’s official command line tool
-- [iloveitaly/github-overlord](https://github.com/iloveitaly/github-overlord) ([v0.3.3](https://github.com/iloveitaly/github-overlord/releases/tag/v0.3.3), 2 days ago) - Automatically merge Dependabot PRs in public repositories
-- [nodejs/node](https://github.com/nodejs/node) ([v22.3.0](https://github.com/nodejs/node/releases/tag/v22.3.0), 4 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.40.2](https://github.com/dolthub/dolt/releases/tag/v1.40.2), 2 days ago) - Dolt – Git for Data
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-experimental==0.0.61](https://github.com/langchain-ai/langchain/releases/tag/langchain-experimental%3D%3D0.0.61), 2 days ago) - 🦜🔗 Build context-aware reasoning applications
+- [dokku/dokku](https://github.com/dokku/dokku) ([v0.34.5](https://github.com/dokku/dokku/releases/tag/v0.34.5), 3 days ago) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
+- [cli/cli](https://github.com/cli/cli) ([v2.51.0](https://github.com/cli/cli/releases/tag/v2.51.0), 3 days ago) - GitHub’s official command line tool
+- [iloveitaly/github-overlord](https://github.com/iloveitaly/github-overlord) ([v0.3.3](https://github.com/iloveitaly/github-overlord/releases/tag/v0.3.3), 3 days ago) - Automatically merge Dependabot PRs in public repositories
+- [nodejs/node](https://github.com/nodejs/node) ([v22.3.0](https://github.com/nodejs/node/releases/tag/v22.3.0), 5 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
