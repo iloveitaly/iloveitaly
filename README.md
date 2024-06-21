@@ -11,7 +11,7 @@
 
 - [AppleScript Tips: Inspecting Objects, Modal Dialogs, and More](https://mikebian.co/applescript-tips-inspecting-objects-modal-dialogs-and-more/) (3 months ago)
 - [Financial Directives for a New Graduate](https://mikebian.co/financial-directives-for-a-new-graduate/) (3 months ago)
-- [Learning Docker Compose by Self-hosting Monica](https://mikebian.co/learning-docker-compose-by-self-hosting-monica/) (3 months ago)
+- [Learning Docker Compose by Self-hosting Monica](https://mikebian.co/learning-docker-compose-by-self-hosting-monica/) (4 months ago)
 - [Categorizing Personal Email Contacts with AI](https://mikebian.co/categorizing-personal-email-contacts-with-ai/) (4 months ago)
 - [Setting up eMMC on an Orange Pi](https://mikebian.co/setting-up-emmc-on-an-orange-pi/) (4 months ago)
 - [Pi Hole, TailScale, and Docker on an Orange Pi](https://mikebian.co/pi-hole-tailscale-and-docker-on-an-orange-pi/) (4 months ago)
@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [softprops/action-gh-release](https://github.com/softprops/action-gh-release) ([v2.0.6](https://github.com/softprops/action-gh-release/releases/tag/v2.0.6), 1 day ago) - 📦 :octocat: GitHub Action for creating GitHub Releases
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-core==0.2.9](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D0.2.9), 2 days ago) - 🦜🔗 Build context-aware reasoning applications
-- [iloveitaly/github-overlord](https://github.com/iloveitaly/github-overlord) ([v0.4.4](https://github.com/iloveitaly/github-overlord/releases/tag/v0.4.4), 4 days ago) - Automatically merge Dependabot PRs in public repositories
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.40.2](https://github.com/dolthub/dolt/releases/tag/v1.40.2), 6 days ago) - Dolt – Git for Data
+- [nodejs/node](https://github.com/nodejs/node) ([v20.15.0](https://github.com/nodejs/node/releases/tag/v20.15.0), 1 day ago) - Node.js JavaScript runtime ✨🐢🚀✨
+- [iloveitaly/github-overlord](https://github.com/iloveitaly/github-overlord) ([v0.6.3](https://github.com/iloveitaly/github-overlord/releases/tag/v0.6.3), 1 day ago) - Automatically merge Dependabot PRs in public repositories
+- [softprops/action-gh-release](https://github.com/softprops/action-gh-release) ([v2.0.6](https://github.com/softprops/action-gh-release/releases/tag/v2.0.6), 2 days ago) - 📦 :octocat: GitHub Action for creating GitHub Releases
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-core==0.2.9](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D0.2.9), 3 days ago) - 🦜🔗 Build context-aware reasoning applications
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.40.2](https://github.com/dolthub/dolt/releases/tag/v1.40.2), 1 week ago) - Dolt – Git for Data
 - [dokku/dokku](https://github.com/dokku/dokku) ([v0.34.5](https://github.com/dokku/dokku/releases/tag/v0.34.5), 1 week ago) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
-- [cli/cli](https://github.com/cli/cli) ([v2.51.0](https://github.com/cli/cli/releases/tag/v2.51.0), 1 week ago) - GitHub’s official command line tool
