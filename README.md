@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [nodejs/node](https://github.com/nodejs/node) ([v20.15.0](https://github.com/nodejs/node/releases/tag/v20.15.0), 1 day ago) - Node.js JavaScript runtime ✨🐢🚀✨
-- [iloveitaly/github-overlord](https://github.com/iloveitaly/github-overlord) ([v0.6.3](https://github.com/iloveitaly/github-overlord/releases/tag/v0.6.3), 1 day ago) - Automatically merge Dependabot PRs in public repositories
-- [softprops/action-gh-release](https://github.com/softprops/action-gh-release) ([v2.0.6](https://github.com/softprops/action-gh-release/releases/tag/v2.0.6), 2 days ago) - 📦 :octocat: GitHub Action for creating GitHub Releases
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-core==0.2.9](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D0.2.9), 3 days ago) - 🦜🔗 Build context-aware reasoning applications
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.40.2](https://github.com/dolthub/dolt/releases/tag/v1.40.2), 1 week ago) - Dolt – Git for Data
-- [dokku/dokku](https://github.com/dokku/dokku) ([v0.34.5](https://github.com/dokku/dokku/releases/tag/v0.34.5), 1 week ago) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.6](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.6), 1 day ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.40.3](https://github.com/dolthub/dolt/releases/tag/v1.40.3), 1 day ago) - Dolt – Git for Data
+- [brimdata/zed](https://github.com/brimdata/zed) ([v1.16.0](https://github.com/brimdata/zed/releases/tag/v1.16.0), 1 day ago) - A novel data lake based on super-structured data
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-openai==0.1.9](https://github.com/langchain-ai/langchain/releases/tag/langchain-openai%3D%3D0.1.9), 1 day ago) - 🦜🔗 Build context-aware reasoning applications
+- [gliderlabs/herokuish](https://github.com/gliderlabs/herokuish) ([v0.9.2](https://github.com/gliderlabs/herokuish/releases/tag/v0.9.2), 1 day ago) - Utility for emulating Heroku build and runtime tasks in containers
+- [nodejs/node](https://github.com/nodejs/node) ([v20.15.0](https://github.com/nodejs/node/releases/tag/v20.15.0), 2 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
