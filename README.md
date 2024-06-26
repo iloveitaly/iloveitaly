@@ -10,7 +10,7 @@
 
 
 - [AppleScript Tips: Inspecting Objects, Modal Dialogs, and More](https://mikebian.co/applescript-tips-inspecting-objects-modal-dialogs-and-more/) (3 months ago)
-- [Financial Directives for a New Graduate](https://mikebian.co/financial-directives-for-a-new-graduate/) (3 months ago)
+- [Financial Directives for a New Graduate](https://mikebian.co/financial-directives-for-a-new-graduate/) (4 months ago)
 - [Learning Docker Compose by Self-hosting Monica](https://mikebian.co/learning-docker-compose-by-self-hosting-monica/) (4 months ago)
 - [Categorizing Personal Email Contacts with AI](https://mikebian.co/categorizing-personal-email-contacts-with-ai/) (4 months ago)
 - [Setting up eMMC on an Orange Pi](https://mikebian.co/setting-up-emmc-on-an-orange-pi/) (4 months ago)
@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.41.0](https://github.com/dolthub/dolt/releases/tag/v1.41.0), 1 day ago) - Dolt – Git for Data
-- [cli/cli](https://github.com/cli/cli) ([v2.52.0](https://github.com/cli/cli/releases/tag/v2.52.0), 1 day ago) - GitHub’s official command line tool
-- [estuary/flow](https://github.com/estuary/flow) ([v0.4.0](https://github.com/estuary/flow/releases/tag/v0.4.0), 1 day ago) - 🌊 Continuously synchronize the systems where your data lives, to the systems where you _want_ it to live, with Estuary Flow. 🌊 
-- [iloveitaly/github-overlord](https://github.com/iloveitaly/github-overlord) ([v0.6.6](https://github.com/iloveitaly/github-overlord/releases/tag/v0.6.6), 1 day ago) - Automatically merge Dependabot PRs in public repositories
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.6](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.6), 4 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
-- [brimdata/zed](https://github.com/brimdata/zed) ([v1.16.0](https://github.com/brimdata/zed/releases/tag/v1.16.0), 4 days ago) - A novel data lake based on super-structured data
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.41.1](https://github.com/dolthub/dolt/releases/tag/v1.41.1), today) - Dolt – Git for Data
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-text-splitters==0.2.2](https://github.com/langchain-ai/langchain/releases/tag/langchain-text-splitters%3D%3D0.2.2), 1 day ago) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.7](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.7), 1 day ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [cli/cli](https://github.com/cli/cli) ([v2.52.0](https://github.com/cli/cli/releases/tag/v2.52.0), 2 days ago) - GitHub’s official command line tool
+- [estuary/flow](https://github.com/estuary/flow) ([v0.4.0](https://github.com/estuary/flow/releases/tag/v0.4.0), 2 days ago) - 🌊 Continuously synchronize the systems where your data lives, to the systems where you _want_ it to live, with Estuary Flow. 🌊 
+- [iloveitaly/github-overlord](https://github.com/iloveitaly/github-overlord) ([v0.6.6](https://github.com/iloveitaly/github-overlord/releases/tag/v0.6.6), 2 days ago) - Automatically merge Dependabot PRs in public repositories
