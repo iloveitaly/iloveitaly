@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.41.1](https://github.com/dolthub/dolt/releases/tag/v1.41.1), today) - Dolt – Git for Data
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-text-splitters==0.2.2](https://github.com/langchain-ai/langchain/releases/tag/langchain-text-splitters%3D%3D0.2.2), 1 day ago) - 🦜🔗 Build context-aware reasoning applications
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.7](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.7), 1 day ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
-- [cli/cli](https://github.com/cli/cli) ([v2.52.0](https://github.com/cli/cli/releases/tag/v2.52.0), 2 days ago) - GitHub’s official command line tool
-- [estuary/flow](https://github.com/estuary/flow) ([v0.4.0](https://github.com/estuary/flow/releases/tag/v0.4.0), 2 days ago) - 🌊 Continuously synchronize the systems where your data lives, to the systems where you _want_ it to live, with Estuary Flow. 🌊 
-- [iloveitaly/github-overlord](https://github.com/iloveitaly/github-overlord) ([v0.6.6](https://github.com/iloveitaly/github-overlord/releases/tag/v0.6.6), 2 days ago) - Automatically merge Dependabot PRs in public repositories
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-anthropic==0.1.16](https://github.com/langchain-ai/langchain/releases/tag/langchain-anthropic%3D%3D0.1.16), 1 day ago) - 🦜🔗 Build context-aware reasoning applications
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.41.1](https://github.com/dolthub/dolt/releases/tag/v1.41.1), 1 day ago) - Dolt – Git for Data
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.7](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.7), 2 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [cli/cli](https://github.com/cli/cli) ([v2.52.0](https://github.com/cli/cli/releases/tag/v2.52.0), 3 days ago) - GitHub’s official command line tool
+- [estuary/flow](https://github.com/estuary/flow) ([v0.4.0](https://github.com/estuary/flow/releases/tag/v0.4.0), 3 days ago) - 🌊 Continuously synchronize the systems where your data lives, to the systems where you _want_ it to live, with Estuary Flow. 🌊 
+- [iloveitaly/github-overlord](https://github.com/iloveitaly/github-overlord) ([v0.6.6](https://github.com/iloveitaly/github-overlord/releases/tag/v0.6.6), 3 days ago) - Automatically merge Dependabot PRs in public repositories
