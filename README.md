@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-openai==0.1.12](https://github.com/langchain-ai/langchain/releases/tag/langchain-openai%3D%3D0.1.12), 1 day ago) - 🦜🔗 Build context-aware reasoning applications
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.8](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.8), 1 day ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
-- [noborus/ov](https://github.com/noborus/ov) ([v0.35.0](https://github.com/noborus/ov/releases/tag/v0.35.0), 2 days ago) - 🎑Feature-rich terminal-based text viewer.  It is a so-called terminal pager.
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.41.1](https://github.com/dolthub/dolt/releases/tag/v1.41.1), 3 days ago) - Dolt – Git for Data
-- [cli/cli](https://github.com/cli/cli) ([v2.52.0](https://github.com/cli/cli/releases/tag/v2.52.0), 5 days ago) - GitHub’s official command line tool
-- [estuary/flow](https://github.com/estuary/flow) ([v0.4.0](https://github.com/estuary/flow/releases/tag/v0.4.0), 5 days ago) - 🌊 Continuously synchronize the systems where your data lives, to the systems where you _want_ it to live, with Estuary Flow. 🌊 
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-groq==0.1.6](https://github.com/langchain-ai/langchain/releases/tag/langchain-groq%3D%3D0.1.6), 1 day ago) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.8](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.8), 2 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [noborus/ov](https://github.com/noborus/ov) ([v0.35.0](https://github.com/noborus/ov/releases/tag/v0.35.0), 3 days ago) - 🎑Feature-rich terminal-based text viewer.  It is a so-called terminal pager.
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.41.1](https://github.com/dolthub/dolt/releases/tag/v1.41.1), 4 days ago) - Dolt – Git for Data
+- [cli/cli](https://github.com/cli/cli) ([v2.52.0](https://github.com/cli/cli/releases/tag/v2.52.0), 6 days ago) - GitHub’s official command line tool
+- [estuary/flow](https://github.com/estuary/flow) ([v0.4.0](https://github.com/estuary/flow/releases/tag/v0.4.0), 6 days ago) - 🌊 Continuously synchronize the systems where your data lives, to the systems where you _want_ it to live, with Estuary Flow. 🌊 
