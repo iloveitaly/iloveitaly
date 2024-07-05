@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.41.2](https://github.com/dolthub/dolt/releases/tag/v1.41.2), 1 day ago) - Dolt – Git for Data
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-openai==0.1.14](https://github.com/langchain-ai/langchain/releases/tag/langchain-openai%3D%3D0.1.14), 2 days ago) - 🦜🔗 Build context-aware reasoning applications
-- [nodejs/node](https://github.com/nodejs/node) ([v22.4.0](https://github.com/nodejs/node/releases/tag/v22.4.0), 2 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.8](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.8), 6 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.41.3](https://github.com/dolthub/dolt/releases/tag/v1.41.3), 1 day ago) - Dolt – Git for Data
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-openai==0.1.14](https://github.com/langchain-ai/langchain/releases/tag/langchain-openai%3D%3D0.1.14), 3 days ago) - 🦜🔗 Build context-aware reasoning applications
+- [nodejs/node](https://github.com/nodejs/node) ([v22.4.0](https://github.com/nodejs/node/releases/tag/v22.4.0), 3 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.8](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.8), 1 week ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [noborus/ov](https://github.com/noborus/ov) ([v0.35.0](https://github.com/noborus/ov/releases/tag/v0.35.0), 1 week ago) - 🎑Feature-rich terminal-based text viewer.  It is a so-called terminal pager.
 - [cli/cli](https://github.com/cli/cli) ([v2.52.0](https://github.com/cli/cli/releases/tag/v2.52.0), 1 week ago) - GitHub’s official command line tool
