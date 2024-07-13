@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-core==0.2.16](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D0.2.16), today) - 🦜🔗 Build context-aware reasoning applications
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.41.4](https://github.com/dolthub/dolt/releases/tag/v1.41.4), 1 day ago) - Dolt – Git for Data
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.9](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.9), 2 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
-- [nodejs/node](https://github.com/nodejs/node) ([v20.15.1](https://github.com/nodejs/node/releases/tag/v20.15.1), 4 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
-- [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) ([v1.24.5](https://github.com/railwayapp/nixpacks/releases/tag/v1.24.5), 4 days ago) - App source &#43; Nix packages &#43; Docker = Image
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-qdrant==0.1.2](https://github.com/langchain-ai/langchain/releases/tag/langchain-qdrant%3D%3D0.1.2), 1 day ago) - 🦜🔗 Build context-aware reasoning applications
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.41.4](https://github.com/dolthub/dolt/releases/tag/v1.41.4), 2 days ago) - Dolt – Git for Data
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.9](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.9), 3 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [nodejs/node](https://github.com/nodejs/node) ([v20.15.1](https://github.com/nodejs/node/releases/tag/v20.15.1), 5 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
+- [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) ([v1.24.5](https://github.com/railwayapp/nixpacks/releases/tag/v1.24.5), 5 days ago) - App source &#43; Nix packages &#43; Docker = Image
 - [noborus/ov](https://github.com/noborus/ov) ([v0.35.0](https://github.com/noborus/ov/releases/tag/v0.35.0), 2 weeks ago) - 🎑Feature-rich terminal-based text viewer.  It is a so-called terminal pager.
