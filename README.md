@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-core==0.2.20](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D0.2.20), 1 day ago) - 🦜🔗 Build context-aware reasoning applications
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.42.0](https://github.com/dolthub/dolt/releases/tag/v1.42.0), 1 day ago) - Dolt – Git for Data
-- [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) ([v1.24.6](https://github.com/railwayapp/nixpacks/releases/tag/v1.24.6), 1 day ago) - App source &#43; Nix packages &#43; Docker = Image
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.10](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.10), 1 day ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
-- [brimdata/zed](https://github.com/brimdata/zed) ([v1.17.0](https://github.com/brimdata/zed/releases/tag/v1.17.0), 2 days ago) - A novel data lake based on super-structured data
-- [nodejs/node](https://github.com/nodejs/node) ([v20.15.1](https://github.com/nodejs/node/releases/tag/v20.15.1), 1 week ago) - Node.js JavaScript runtime ✨🐢🚀✨
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-core==0.2.21](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D0.2.21), 1 day ago) - 🦜🔗 Build context-aware reasoning applications
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.42.1](https://github.com/dolthub/dolt/releases/tag/v1.42.1), 1 day ago) - Dolt – Git for Data
+- [softprops/action-gh-release](https://github.com/softprops/action-gh-release) ([v2.0.7](https://github.com/softprops/action-gh-release/releases/tag/v2.0.7), 1 day ago) - 📦 :octocat: GitHub Action for creating GitHub Releases
+- [nodejs/node](https://github.com/nodejs/node) ([v22.5.0](https://github.com/nodejs/node/releases/tag/v22.5.0), 1 day ago) - Node.js JavaScript runtime ✨🐢🚀✨
+- [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) ([v1.24.6](https://github.com/railwayapp/nixpacks/releases/tag/v1.24.6), 2 days ago) - App source &#43; Nix packages &#43; Docker = Image
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.10](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.10), 2 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
