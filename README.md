@@ -12,7 +12,7 @@
 - [AppleScript Tips: Inspecting Objects, Modal Dialogs, and More](https://mikebian.co/applescript-tips-inspecting-objects-modal-dialogs-and-more/) (4 months ago)
 - [Financial Directives for a New Graduate](https://mikebian.co/financial-directives-for-a-new-graduate/) (4 months ago)
 - [Learning Docker Compose by Self-hosting Monica](https://mikebian.co/learning-docker-compose-by-self-hosting-monica/) (4 months ago)
-- [Categorizing Personal Email Contacts with AI](https://mikebian.co/categorizing-personal-email-contacts-with-ai/) (4 months ago)
+- [Categorizing Personal Email Contacts with AI](https://mikebian.co/categorizing-personal-email-contacts-with-ai/) (5 months ago)
 - [Setting up eMMC on an Orange Pi](https://mikebian.co/setting-up-emmc-on-an-orange-pi/) (5 months ago)
 - [Pi Hole, TailScale, and Docker on an Orange Pi](https://mikebian.co/pi-hole-tailscale-and-docker-on-an-orange-pi/) (5 months ago)
 
@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [softprops/action-gh-release](https://github.com/softprops/action-gh-release) ([v2.0.8](https://github.com/softprops/action-gh-release/releases/tag/v2.0.8), 1 day ago) - 📦 :octocat: GitHub Action for creating GitHub Releases
-- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.42.2](https://github.com/dolthub/dolt/releases/tag/v1.42.2), 1 day ago) - Dolt – Git for Data
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-core==0.2.21](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D0.2.21), 2 days ago) - 🦜🔗 Build context-aware reasoning applications
-- [nodejs/node](https://github.com/nodejs/node) ([v22.5.0](https://github.com/nodejs/node/releases/tag/v22.5.0), 2 days ago) - Node.js JavaScript runtime ✨🐢🚀✨
-- [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) ([v1.24.6](https://github.com/railwayapp/nixpacks/releases/tag/v1.24.6), 3 days ago) - App source &#43; Nix packages &#43; Docker = Image
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.10](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.10), 3 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-community==0.2.9](https://github.com/langchain-ai/langchain/releases/tag/langchain-community%3D%3D0.2.9), 1 day ago) - 🦜🔗 Build context-aware reasoning applications
+- [iloveitaly/github-overlord](https://github.com/iloveitaly/github-overlord) ([v0.6.7](https://github.com/iloveitaly/github-overlord/releases/tag/v0.6.7), 1 day ago) - Automatically merge Dependabot PRs in public repositories
+- [iloveitaly/todoist-digest](https://github.com/iloveitaly/todoist-digest) ([v0.9.0](https://github.com/iloveitaly/todoist-digest/releases/tag/v0.9.0), 1 day ago) - Generate a digest of comments that occured since the last checked in date. Useful for including in an email.
+- [nodejs/node](https://github.com/nodejs/node) ([v22.5.1](https://github.com/nodejs/node/releases/tag/v22.5.1), 1 day ago) - Node.js JavaScript runtime ✨🐢🚀✨
+- [softprops/action-gh-release](https://github.com/softprops/action-gh-release) ([v2.0.8](https://github.com/softprops/action-gh-release/releases/tag/v2.0.8), 2 days ago) - 📦 :octocat: GitHub Action for creating GitHub Releases
+- [dolthub/dolt](https://github.com/dolthub/dolt) ([v1.42.2](https://github.com/dolthub/dolt/releases/tag/v1.42.2), 2 days ago) - Dolt – Git for Data
