@@ -9,8 +9,8 @@
 #### 📜 My recent blog posts
 
 
-- [Vertical SaaS is Dead](https://mikebian.co/vertical-saas-is-dead/) (2 days ago)
-- [Fixing Broken Ethernet on Orange Pi 3B](https://mikebian.co/fixing-broken-ethernet-on-orange-pi-3b/) (4 days ago)
+- [Vertical SaaS is Dead](https://mikebian.co/vertical-saas-is-dead/) (3 days ago)
+- [Fixing Broken Ethernet on Orange Pi 3B](https://mikebian.co/fixing-broken-ethernet-on-orange-pi-3b/) (5 days ago)
 - [AppleScript Tips: Inspecting Objects, Modal Dialogs, and More](https://mikebian.co/applescript-tips-inspecting-objects-modal-dialogs-and-more/) (5 months ago)
 - [Financial Directives for a New Graduate](https://mikebian.co/financial-directives-for-a-new-graduate/) (5 months ago)
 - [Learning Docker Compose by Self-hosting Monica](https://mikebian.co/learning-docker-compose-by-self-hosting-monica/) (5 months ago)
