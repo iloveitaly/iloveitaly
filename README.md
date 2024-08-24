@@ -9,8 +9,8 @@
 #### 📜 My recent blog posts
 
 
-- [What I’ve Learned Searching for a New Startup Idea, part 3](https://mikebian.co/what-ive-learned-searching-for-a-new-startup-idea-part-3/) (1 day ago)
-- [How I Think About Insurance Products](https://mikebian.co/how-i-think-about-insurance-products/) (4 days ago)
+- [What I’ve Learned Searching for a New Startup Idea, part 3](https://mikebian.co/what-ive-learned-searching-for-a-new-startup-idea-part-3/) (2 days ago)
+- [How I Think About Insurance Products](https://mikebian.co/how-i-think-about-insurance-products/) (5 days ago)
 - [Vertical SaaS is Dead](https://mikebian.co/vertical-saas-is-dead/) (1 week ago)
 - [Fixing Broken Ethernet on Orange Pi 3B](https://mikebian.co/fixing-broken-ethernet-on-orange-pi-3b/) (1 week ago)
 - [AppleScript Tips: Inspecting Objects, Modal Dialogs, and More](https://mikebian.co/applescript-tips-inspecting-objects-modal-dialogs-and-more/) (5 months ago)
