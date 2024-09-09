@@ -12,7 +12,7 @@
 - [Automatically Download and Rename Your LabCorp PDFs](https://mikebian.co/automatically-download-and-rename-your-labcorp-pdfs/) (1 week ago)
 - [How to Inject Custom Code on Python Interpreter Startup](https://mikebian.co/python-debugging-made-easy/) (1 week ago)
 - [What I’ve Learned Searching for a New Startup Idea, Part 3](https://mikebian.co/what-ive-learned-searching-for-a-new-startup-idea-part-3/) (2 weeks ago)
-- [How I Think About Insurance Products](https://mikebian.co/how-i-think-about-insurance-products/) (2 weeks ago)
+- [How I Think About Insurance Products](https://mikebian.co/how-i-think-about-insurance-products/) (3 weeks ago)
 - [Vertical SaaS is Dead](https://mikebian.co/vertical-saas-is-dead/) (3 weeks ago)
 - [Fixing Broken Ethernet on Orange Pi 3B](https://mikebian.co/fixing-broken-ethernet-on-orange-pi-3b/) (3 weeks ago)
 
