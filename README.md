@@ -9,8 +9,8 @@
 #### 📜 My recent blog posts
 
 
-- [Inspecting Network Traffic on macOS](https://mikebian.co/inspecting-network-traffic-on-macos/) (2 days ago)
-- [My Ergonomic Desk Setup](https://mikebian.co/my-ergonomic-desk-setup/) (4 days ago)
+- [Inspecting Network Traffic on macOS](https://mikebian.co/inspecting-network-traffic-on-macos/) (3 days ago)
+- [My Ergonomic Desk Setup](https://mikebian.co/my-ergonomic-desk-setup/) (5 days ago)
 - [Automatically Download and Rename Your LabCorp PDFs](https://mikebian.co/automatically-download-and-rename-your-labcorp-pdfs/) (2 weeks ago)
 - [How to Inject Custom Code on Python Interpreter Startup](https://mikebian.co/python-debugging-made-easy/) (2 weeks ago)
 - [What I’ve Learned Searching for a New Startup Idea, Part 3](https://mikebian.co/what-ive-learned-searching-for-a-new-startup-idea-part-3/) (3 weeks ago)
