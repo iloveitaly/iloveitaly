@@ -9,12 +9,12 @@
 #### 📜 My recent blog posts
 
 
-- [Notes on the NetSuite CustomerDeposit Record](https://mikebian.co/notes-on-the-netsuite-customerdeposit-record/) (2 days ago)
+- [Fast, Local, Written-by-you Code Search](https://mikebian.co/fast-local-written-by-you-code-search/) (1 day ago)
+- [Notes on the NetSuite CustomerDeposit Record](https://mikebian.co/notes-on-the-netsuite-customerdeposit-record/) (3 days ago)
 - [Inspecting Network Traffic on macOS](https://mikebian.co/inspecting-network-traffic-on-macos/) (1 week ago)
 - [My Ergonomic Desk Setup](https://mikebian.co/my-ergonomic-desk-setup/) (1 week ago)
 - [Automatically Download and Rename Your LabCorp PDFs](https://mikebian.co/automatically-download-and-rename-your-labcorp-pdfs/) (3 weeks ago)
 - [How to Inject Custom Code on Python Interpreter Startup](https://mikebian.co/python-debugging-made-easy/) (3 weeks ago)
-- [What I’ve Learned Searching for a New Startup Idea, Part 3](https://mikebian.co/what-ive-learned-searching-for-a-new-startup-idea-part-3/) (4 weeks ago)
 
 #### 🌱 My latest projects
 
