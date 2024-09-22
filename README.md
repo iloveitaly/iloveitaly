@@ -9,8 +9,8 @@
 #### 📜 My recent blog posts
 
 
-- [Fast, Local, Written-by-you Code Search](https://mikebian.co/fast-local-written-by-you-code-search/) (2 days ago)
-- [Notes on the NetSuite CustomerDeposit Record](https://mikebian.co/notes-on-the-netsuite-customerdeposit-record/) (4 days ago)
+- [Fast, Local, Written-by-you Code Search](https://mikebian.co/fast-local-written-by-you-code-search/) (3 days ago)
+- [Notes on the NetSuite CustomerDeposit Record](https://mikebian.co/notes-on-the-netsuite-customerdeposit-record/) (5 days ago)
 - [Inspecting Network Traffic on macOS](https://mikebian.co/inspecting-network-traffic-on-macos/) (1 week ago)
 - [My Ergonomic Desk Setup](https://mikebian.co/my-ergonomic-desk-setup/) (1 week ago)
 - [Automatically Download and Rename Your LabCorp PDFs](https://mikebian.co/automatically-download-and-rename-your-labcorp-pdfs/) (3 weeks ago)
@@ -19,11 +19,11 @@
 #### 🌱 My latest projects
 
 
+- [iloveitaly/netsuite-permissions](https://github.com/iloveitaly/netsuite-permissions) - Easily debug permission issues in NetSuite
 - [iloveitaly/gmail-digest](https://github.com/iloveitaly/gmail-digest) - A tool to generate a daily digest of your Gmail inbox. Helpful if you have agents working on your behalf.
 - [iloveitaly/listmonk-newsletter](https://github.com/iloveitaly/listmonk-newsletter) - Generate a newsletter digest from an rss feed and send it to a listmonk instance
 - [iloveitaly/github-overlord](https://github.com/iloveitaly/github-overlord) - Automatically merge Dependabot PRs in public repositories
 - [iloveitaly/github-digest](https://github.com/iloveitaly/github-digest) - Create an email digest of activity tied to your GitHub account.
 - [iloveitaly/github-action-nixpacks](https://github.com/iloveitaly/github-action-nixpacks) - Build and push images with nixpacks
-- [iloveitaly/github-actions-metadata-sync](https://github.com/iloveitaly/github-actions-metadata-sync) - Github Action to sync repo metadata from code to repo
 
 
