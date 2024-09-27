@@ -9,12 +9,12 @@
 #### 📜 My recent blog posts
 
 
-- [Understanding DNS Requests on macOS](https://mikebian.co/understanding-dns-requests-on-macos/) (2 days ago)
+- [Building a High-Performance Local Server](https://mikebian.co/2525-2/) (1 day ago)
+- [Understanding DNS Requests on macOS](https://mikebian.co/understanding-dns-requests-on-macos/) (3 days ago)
 - [Fast, Local, Written-by-you Code Search](https://mikebian.co/fast-local-written-by-you-code-search/) (1 week ago)
 - [Notes on the NetSuite CustomerDeposit Record](https://mikebian.co/notes-on-the-netsuite-customerdeposit-record/) (1 week ago)
 - [Inspecting Network Traffic on macOS](https://mikebian.co/inspecting-network-traffic-on-macos/) (2 weeks ago)
 - [My Ergonomic Desk Setup](https://mikebian.co/my-ergonomic-desk-setup/) (2 weeks ago)
-- [Automatically Download and Rename Your LabCorp PDFs](https://mikebian.co/automatically-download-and-rename-your-labcorp-pdfs/) (4 weeks ago)
 
 #### 🌱 My latest projects
 
