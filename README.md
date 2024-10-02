@@ -9,7 +9,7 @@
 #### 📜 My recent blog posts
 
 
-- [Building a High-Performance Local Server](https://mikebian.co/building-a-high-performance-local-server/) (5 days ago)
+- [Building a High-Performance Local Server](https://mikebian.co/building-a-high-performance-local-server/) (6 days ago)
 - [Understanding DNS Requests on macOS](https://mikebian.co/understanding-dns-requests-on-macos/) (1 week ago)
 - [Fast, Local, Written-by-you Code Search](https://mikebian.co/fast-local-written-by-you-code-search/) (1 week ago)
 - [Notes on the NetSuite CustomerDeposit Record](https://mikebian.co/notes-on-the-netsuite-customerdeposit-record/) (2 weeks ago)
