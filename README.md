@@ -19,11 +19,11 @@
 #### 🌱 My latest projects
 
 
+- [iloveitaly/zsh-ai-completions](https://github.com/iloveitaly/zsh-ai-completions) - Completions are hard. Let&#39;s generate them with AI.
 - [iloveitaly/netsuite-permissions](https://github.com/iloveitaly/netsuite-permissions) - Easily debug permission issues in NetSuite
 - [iloveitaly/gmail-digest](https://github.com/iloveitaly/gmail-digest) - A tool to generate a daily digest of your Gmail inbox. Helpful if you have agents working on your behalf.
 - [iloveitaly/listmonk-newsletter](https://github.com/iloveitaly/listmonk-newsletter) - Generate a newsletter digest from an rss feed and send it to a listmonk instance
 - [iloveitaly/github-overlord](https://github.com/iloveitaly/github-overlord) - Automatically merge Dependabot PRs in public repositories
 - [iloveitaly/github-digest](https://github.com/iloveitaly/github-digest) - Create an email digest of activity tied to your GitHub account.
-- [iloveitaly/github-action-nixpacks](https://github.com/iloveitaly/github-action-nixpacks) - Build and push images with nixpacks
 
 
