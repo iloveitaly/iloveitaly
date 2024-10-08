@@ -10,11 +10,11 @@
 
 
 - [Building a High-Performance Local Server](https://mikebian.co/building-a-high-performance-local-server/) (1 week ago)
-- [Understanding DNS Requests on macOS](https://mikebian.co/understanding-dns-requests-on-macos/) (1 week ago)
+- [Understanding DNS Requests on macOS](https://mikebian.co/understanding-dns-requests-on-macos/) (2 weeks ago)
 - [Fast, Local, Written-by-you Code Search](https://mikebian.co/fast-local-written-by-you-code-search/) (2 weeks ago)
-- [Notes on the NetSuite CustomerDeposit Record](https://mikebian.co/notes-on-the-netsuite-customerdeposit-record/) (2 weeks ago)
+- [Notes on the NetSuite CustomerDeposit Record](https://mikebian.co/notes-on-the-netsuite-customerdeposit-record/) (3 weeks ago)
 - [Inspecting Network Traffic on macOS](https://mikebian.co/inspecting-network-traffic-on-macos/) (3 weeks ago)
-- [My Ergonomic Desk Setup](https://mikebian.co/my-ergonomic-desk-setup/) (3 weeks ago)
+- [My Ergonomic Desk Setup](https://mikebian.co/my-ergonomic-desk-setup/) (4 weeks ago)
 
 #### 🌱 My latest projects
 
