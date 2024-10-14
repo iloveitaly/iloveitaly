@@ -9,7 +9,7 @@
 #### 📜 My recent blog posts
 
 
-- [Supercharged Zsh Command History](https://mikebian.co/supercharged-zsh-command-history/) (5 days ago)
+- [Supercharged Zsh Command History](https://mikebian.co/supercharged-zsh-command-history/) (6 days ago)
 - [Building a High-Performance Local Server](https://mikebian.co/building-a-high-performance-local-server/) (2 weeks ago)
 - [Understanding DNS Requests on macOS](https://mikebian.co/understanding-dns-requests-on-macos/) (2 weeks ago)
 - [Fast, Local, Written-by-you Code Search](https://mikebian.co/fast-local-written-by-you-code-search/) (3 weeks ago)
