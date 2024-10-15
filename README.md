@@ -9,11 +9,11 @@
 #### 📜 My recent blog posts
 
 
-- [Supercharged Zsh Command History](https://mikebian.co/supercharged-zsh-command-history/) (6 days ago)
+- [Supercharged Zsh Command History](https://mikebian.co/supercharged-zsh-command-history/) (1 week ago)
 - [Building a High-Performance Local Server](https://mikebian.co/building-a-high-performance-local-server/) (2 weeks ago)
-- [Understanding DNS Requests on macOS](https://mikebian.co/understanding-dns-requests-on-macos/) (2 weeks ago)
+- [Understanding DNS Requests on macOS](https://mikebian.co/understanding-dns-requests-on-macos/) (3 weeks ago)
 - [Fast, Local, Written-by-you Code Search](https://mikebian.co/fast-local-written-by-you-code-search/) (3 weeks ago)
-- [Notes on the NetSuite CustomerDeposit Record](https://mikebian.co/notes-on-the-netsuite-customerdeposit-record/) (3 weeks ago)
+- [Notes on the NetSuite CustomerDeposit Record](https://mikebian.co/notes-on-the-netsuite-customerdeposit-record/) (4 weeks ago)
 - [Inspecting Network Traffic on macOS](https://mikebian.co/inspecting-network-traffic-on-macos/) (1 month ago)
 
 #### 🌱 My latest projects
