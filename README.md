@@ -9,7 +9,7 @@
 #### 📜 My recent blog posts
 
 
-- [How To Get Things Done](https://mikebian.co/how-to-get-things-done/) (5 days ago)
+- [How To Get Things Done](https://mikebian.co/how-to-get-things-done/) (6 days ago)
 - [Mastering Tmux](https://mikebian.co/mastering-tmux/) (1 week ago)
 - [Supercharged Zsh Command History](https://mikebian.co/supercharged-zsh-command-history/) (2 weeks ago)
 - [Building a High-Performance Local Server](https://mikebian.co/building-a-high-performance-local-server/) (3 weeks ago)
