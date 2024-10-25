@@ -9,12 +9,12 @@
 #### 📜 My recent blog posts
 
 
+- [The Future and AI, Part 1](https://mikebian.co/the-future-and-ai-part-1/) (1 day ago)
 - [How To Get Things Done](https://mikebian.co/how-to-get-things-done/) (1 week ago)
 - [Mastering Tmux](https://mikebian.co/mastering-tmux/) (1 week ago)
 - [Supercharged Zsh Command History](https://mikebian.co/supercharged-zsh-command-history/) (2 weeks ago)
 - [Building a High-Performance Local Server](https://mikebian.co/building-a-high-performance-local-server/) (4 weeks ago)
 - [Understanding DNS Requests on macOS](https://mikebian.co/understanding-dns-requests-on-macos/) (1 month ago)
-- [Fast, Local, Written-by-you Code Search](https://mikebian.co/fast-local-written-by-you-code-search/) (1 month ago)
 
 #### 🌱 My latest projects
 
