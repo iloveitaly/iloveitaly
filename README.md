@@ -9,21 +9,21 @@
 #### 📜 My recent blog posts
 
 
-- [The Future and AI, Part 1](https://mikebian.co/the-future-and-ai-part-1/) (1 day ago)
+- [The Future and AI, Part 1](https://mikebian.co/the-future-and-ai-part-1/) (2 days ago)
 - [How To Get Things Done](https://mikebian.co/how-to-get-things-done/) (1 week ago)
 - [Mastering Tmux](https://mikebian.co/mastering-tmux/) (1 week ago)
 - [Supercharged Zsh Command History](https://mikebian.co/supercharged-zsh-command-history/) (2 weeks ago)
-- [Building a High-Performance Local Server](https://mikebian.co/building-a-high-performance-local-server/) (4 weeks ago)
+- [Building a High-Performance Local Server](https://mikebian.co/building-a-high-performance-local-server/) (1 month ago)
 - [Understanding DNS Requests on macOS](https://mikebian.co/understanding-dns-requests-on-macos/) (1 month ago)
 
 #### 🌱 My latest projects
 
 
+- [iloveitaly/python-starter-template](https://github.com/iloveitaly/python-starter-template) - 
 - [iloveitaly/zsh-ai-completions](https://github.com/iloveitaly/zsh-ai-completions) - Completions are hard. Let&#39;s generate them with AI.
 - [iloveitaly/netsuite-permissions](https://github.com/iloveitaly/netsuite-permissions) - Easily debug permission issues in NetSuite
 - [iloveitaly/gmail-digest](https://github.com/iloveitaly/gmail-digest) - A tool to generate a daily digest of your Gmail inbox. Helpful if you have agents working on your behalf.
 - [iloveitaly/listmonk-newsletter](https://github.com/iloveitaly/listmonk-newsletter) - Generate a newsletter digest from an rss feed and send it to a listmonk instance
 - [iloveitaly/github-overlord](https://github.com/iloveitaly/github-overlord) - Automatically merge Dependabot PRs in public repositories
-- [iloveitaly/github-digest](https://github.com/iloveitaly/github-digest) - Create an email digest of activity tied to your GitHub account.
 
 
