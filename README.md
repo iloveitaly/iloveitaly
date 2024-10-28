@@ -9,7 +9,7 @@
 #### 📜 My recent blog posts
 
 
-- [The Future and AI, Part 1](https://mikebian.co/the-future-and-ai-part-1/) (3 days ago)
+- [The Future and AI, Part 1](https://mikebian.co/the-future-and-ai-part-1/) (4 days ago)
 - [How To Get Things Done](https://mikebian.co/how-to-get-things-done/) (1 week ago)
 - [Mastering Tmux](https://mikebian.co/mastering-tmux/) (1 week ago)
 - [Supercharged Zsh Command History](https://mikebian.co/supercharged-zsh-command-history/) (2 weeks ago)
