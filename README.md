@@ -9,9 +9,9 @@
 #### 📜 My recent blog posts
 
 
-- [Learning Caddy Server](https://mikebian.co/learning-caddy-server/) (1 day ago)
-- [The Future and AI, Part 1](https://mikebian.co/the-future-and-ai-part-1/) (6 days ago)
-- [How To Get Things Done](https://mikebian.co/how-to-get-things-done/) (1 week ago)
+- [Learning Caddy Server](https://mikebian.co/learning-caddy-server/) (2 days ago)
+- [The Future and AI, Part 1](https://mikebian.co/the-future-and-ai-part-1/) (1 week ago)
+- [How To Get Things Done](https://mikebian.co/how-to-get-things-done/) (2 weeks ago)
 - [Mastering Tmux](https://mikebian.co/mastering-tmux/) (2 weeks ago)
 - [Supercharged Zsh Command History](https://mikebian.co/supercharged-zsh-command-history/) (3 weeks ago)
 - [Building a High-Performance Local Server](https://mikebian.co/building-a-high-performance-local-server/) (1 month ago)
