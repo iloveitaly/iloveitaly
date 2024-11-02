@@ -9,8 +9,8 @@
 #### 📜 My recent blog posts
 
 
-- [European Experiment: Cholesterol &amp; HA1C After Two Months of Living In Italy](https://mikebian.co/european-experiment-cholesterol-ha1c-after-two-months-of-living-in-italy/) (1 day ago)
-- [Learning Caddy Server](https://mikebian.co/learning-caddy-server/) (3 days ago)
+- [European Experiment: Cholesterol &amp; HA1C After Two Months of Living In Italy](https://mikebian.co/european-experiment-cholesterol-ha1c-after-two-months-of-living-in-italy/) (2 days ago)
+- [Learning Caddy Server](https://mikebian.co/learning-caddy-server/) (4 days ago)
 - [The Future and AI, Part 1](https://mikebian.co/the-future-and-ai-part-1/) (1 week ago)
 - [How To Get Things Done](https://mikebian.co/how-to-get-things-done/) (2 weeks ago)
 - [Mastering Tmux](https://mikebian.co/mastering-tmux/) (2 weeks ago)
