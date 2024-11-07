@@ -9,17 +9,17 @@
 #### 📜 My recent blog posts
 
 
-- [European Experiment: Cholesterol &amp; HA1C After Two Months of Living In Italy](https://mikebian.co/european-experiment-cholesterol-ha1c-after-two-months-of-living-in-italy/) (1 day ago)
+- [European Experiment: Cholesterol &amp; HA1C After Two Months of Living In Italy](https://mikebian.co/european-experiment-cholesterol-ha1c-after-two-months-of-living-in-italy/) (2 days ago)
 - [Learning Caddy Server](https://mikebian.co/learning-caddy-server/) (1 week ago)
-- [The Future and AI, Part 1](https://mikebian.co/the-future-and-ai-part-1/) (1 week ago)
-- [How To Get Things Done](https://mikebian.co/how-to-get-things-done/) (2 weeks ago)
+- [The Future and AI, Part 1](https://mikebian.co/the-future-and-ai-part-1/) (2 weeks ago)
+- [How To Get Things Done](https://mikebian.co/how-to-get-things-done/) (3 weeks ago)
 - [Mastering Tmux](https://mikebian.co/mastering-tmux/) (3 weeks ago)
-- [Supercharged Zsh Command History](https://mikebian.co/supercharged-zsh-command-history/) (4 weeks ago)
+- [Supercharged Zsh Command History](https://mikebian.co/supercharged-zsh-command-history/) (1 month ago)
 
 #### 🌱 My latest projects
 
 
-- [iloveitaly/python-starter-template](https://github.com/iloveitaly/python-starter-template) - 
+- [iloveitaly/python-starter-template](https://github.com/iloveitaly/python-starter-template) - A starter template for a python backend and SPA frontend using react-router
 - [iloveitaly/zsh-ai-completions](https://github.com/iloveitaly/zsh-ai-completions) - Completions are hard. Let&#39;s generate them with AI.
 - [iloveitaly/netsuite-permissions](https://github.com/iloveitaly/netsuite-permissions) - Easily debug permission issues in NetSuite
 - [iloveitaly/gmail-digest](https://github.com/iloveitaly/gmail-digest) - A tool to generate a daily digest of your Gmail inbox. Helpful if you have agents working on your behalf.
