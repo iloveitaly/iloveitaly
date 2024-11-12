@@ -9,18 +9,18 @@
 #### 📜 My recent blog posts
 
 
-- [European Experiment: Cholesterol &amp; HA1C After Two Months of Living In Italy](https://mikebian.co/european-experiment-cholesterol-ha1c-after-two-months-of-living-in-italy/) (6 days ago)
-- [Learning Caddy Server](https://mikebian.co/learning-caddy-server/) (1 week ago)
+- [European Experiment: Cholesterol &amp; HA1C After Two Months of Living In Italy](https://mikebian.co/european-experiment-cholesterol-ha1c-after-two-months-of-living-in-italy/) (1 week ago)
+- [Learning Caddy Server](https://mikebian.co/learning-caddy-server/) (2 weeks ago)
 - [The Future and AI, Part 1](https://mikebian.co/the-future-and-ai-part-1/) (2 weeks ago)
 - [How To Get Things Done](https://mikebian.co/how-to-get-things-done/) (3 weeks ago)
-- [Mastering Tmux](https://mikebian.co/mastering-tmux/) (3 weeks ago)
+- [Mastering Tmux](https://mikebian.co/mastering-tmux/) (4 weeks ago)
 - [Supercharged Zsh Command History](https://mikebian.co/supercharged-zsh-command-history/) (1 month ago)
 
 #### 🌱 My latest projects
 
 
 - [iloveitaly/activemodel](https://github.com/iloveitaly/activemodel) - 
-- [iloveitaly/python-package-template](https://github.com/iloveitaly/python-package-template) - 
+- [iloveitaly/python-package-template](https://github.com/iloveitaly/python-package-template) - A starter template for building python packages that you intend to distribute as open source repos
 - [iloveitaly/aiautocommit](https://github.com/iloveitaly/aiautocommit) - AI generated commit messages
 - [iloveitaly/python-starter-template](https://github.com/iloveitaly/python-starter-template) - A starter template for a python backend and SPA frontend using react-router
 - [iloveitaly/zsh-ai-completions](https://github.com/iloveitaly/zsh-ai-completions) - Completions are hard. Let&#39;s generate them with AI.
