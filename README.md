@@ -20,7 +20,7 @@
 
 
 - [iloveitaly/shadcn-react-playground](https://github.com/iloveitaly/shadcn-react-playground) - Created with StackBlitz ⚡️
-- [iloveitaly/activemodel](https://github.com/iloveitaly/activemodel) - 
+- [iloveitaly/activemodel](https://github.com/iloveitaly/activemodel) - Make SQLModel more like an a real ORM
 - [iloveitaly/python-package-template](https://github.com/iloveitaly/python-package-template) - A starter template for building python packages that you intend to distribute as open source repos
 - [iloveitaly/aiautocommit](https://github.com/iloveitaly/aiautocommit) - AI generated commit messages
 - [iloveitaly/python-starter-template](https://github.com/iloveitaly/python-starter-template) - A starter template for a python backend and SPA frontend using react-router
