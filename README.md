@@ -19,11 +19,11 @@
 #### 🌱 My latest projects
 
 
+- [iloveitaly/github-action-localias](https://github.com/iloveitaly/github-action-localias) - Setup localias domains on GitHub Actions
+- [iloveitaly/github-action-direnv-load-and-mask](https://github.com/iloveitaly/github-action-direnv-load-and-mask) - Load direnv and mask variables on GitHub Actions
 - [iloveitaly/ai-tax-document-extraction](https://github.com/iloveitaly/ai-tax-document-extraction) - Abandonded startup idea. Extract tax document data for Wulters Kluwer
-- [iloveitaly/shadcn-react-playground](https://github.com/iloveitaly/shadcn-react-playground) - Created with StackBlitz ⚡️
+- [iloveitaly/shadcn-react-playground](https://github.com/iloveitaly/shadcn-react-playground) - Shadcn playground on StackBlitz. Works well when paired with Bolt.new
 - [iloveitaly/activemodel](https://github.com/iloveitaly/activemodel) - Make SQLModel more like an a real ORM
 - [iloveitaly/python-package-template](https://github.com/iloveitaly/python-package-template) - A starter template for building python packages that you intend to distribute as open source repos
-- [iloveitaly/aiautocommit](https://github.com/iloveitaly/aiautocommit) - AI generated commit messages
-- [iloveitaly/python-starter-template](https://github.com/iloveitaly/python-starter-template) - A starter template for a python backend and SPA frontend using react-router
 
 
