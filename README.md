@@ -14,7 +14,7 @@
 - [The Future and AI, Part 1](https://mikebian.co/the-future-and-ai-part-1/) (4 months ago)
 - [How To Get Things Done](https://mikebian.co/how-to-get-things-done/) (4 months ago)
 - [Mastering Tmux](https://mikebian.co/mastering-tmux/) (4 months ago)
-- [Supercharged Zsh Command History](https://mikebian.co/supercharged-zsh-command-history/) (4 months ago)
+- [Supercharged Zsh Command History](https://mikebian.co/supercharged-zsh-command-history/) (5 months ago)
 
 #### 🌱 My latest projects
 
