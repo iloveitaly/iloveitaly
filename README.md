@@ -19,11 +19,11 @@
 #### 🌱 My latest projects
 
 
+- [iloveitaly/structlog_config](https://github.com/iloveitaly/structlog_config) - 
 - [iloveitaly/uv-development-toggle](https://github.com/iloveitaly/uv-development-toggle) - 
 - [iloveitaly/react-router-shadcn-playground](https://github.com/iloveitaly/react-router-shadcn-playground) - 
 - [iloveitaly/github-action-playground](https://github.com/iloveitaly/github-action-playground) - GitHub Actions playground repository for testing and experimenting with workflows and actions
 - [iloveitaly/github-action-localias](https://github.com/iloveitaly/github-action-localias) - Setup localias domains on GitHub Actions
 - [iloveitaly/github-action-direnv-load-and-mask](https://github.com/iloveitaly/github-action-direnv-load-and-mask) - Load direnv and mask variables on GitHub Actions
-- [iloveitaly/ai-tax-document-extraction](https://github.com/iloveitaly/ai-tax-document-extraction) - Abandonded startup idea. Extract tax document data for Wulters Kluwer
 
 
