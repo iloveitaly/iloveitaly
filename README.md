@@ -19,11 +19,11 @@
 #### 🌱 My latest projects
 
 
+- [iloveitaly/pypi-data-to-dolthub](https://github.com/iloveitaly/pypi-data-to-dolthub) - 
 - [iloveitaly/pytest-playwright-visual-snapshot](https://github.com/iloveitaly/pytest-playwright-visual-snapshot) - Easy pytest visual regression testing using playwright
 - [iloveitaly/ipython-playground](https://github.com/iloveitaly/ipython-playground) - Understand what is in your ipython playground.
 - [iloveitaly/ipython_copy](https://github.com/iloveitaly/ipython_copy) - 
 - [iloveitaly/structlog_config](https://github.com/iloveitaly/structlog_config) - 
 - [iloveitaly/uv-development-toggle](https://github.com/iloveitaly/uv-development-toggle) - Easily toggle between development and production packages with uv. Quickly close development packages locally.
-- [iloveitaly/react-router-shadcn-playground](https://github.com/iloveitaly/react-router-shadcn-playground) - 
 
 
