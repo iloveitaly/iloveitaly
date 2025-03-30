@@ -19,7 +19,7 @@
 #### 🌱 My latest projects
 
 
-- [iloveitaly/pypi-data-to-dolthub](https://github.com/iloveitaly/pypi-data-to-dolthub) - 
+- [iloveitaly/pypi-data-to-dolthub](https://github.com/iloveitaly/pypi-data-to-dolthub) - Automatically update a Dolt Database with PyPI data. This enables pypi data to be searched via a simple API.
 - [iloveitaly/pytest-playwright-visual-snapshot](https://github.com/iloveitaly/pytest-playwright-visual-snapshot) - Easy pytest visual regression testing using playwright
 - [iloveitaly/ipython-playground](https://github.com/iloveitaly/ipython-playground) - Understand what is in your ipython playground.
 - [iloveitaly/ipython_copy](https://github.com/iloveitaly/ipython_copy) - 
