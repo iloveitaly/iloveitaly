@@ -19,11 +19,11 @@
 #### 🌱 My latest projects
 
 
+- [iloveitaly/shadcn-registry-template-github-pages](https://github.com/iloveitaly/shadcn-registry-template-github-pages) - 
+- [iloveitaly/celery-healthcheck](https://github.com/iloveitaly/celery-healthcheck) - A lightweight HTTP health check server for Celery workers, designed to work with cloud platforms that only support TCP-based health probes
 - [iloveitaly/pypi-data-to-dolthub](https://github.com/iloveitaly/pypi-data-to-dolthub) - Automatically update a Dolt Database with PyPI data. This enables pypi data to be searched via a simple API.
 - [iloveitaly/pytest-playwright-visual-snapshot](https://github.com/iloveitaly/pytest-playwright-visual-snapshot) - Easy pytest visual regression testing using playwright
 - [iloveitaly/ipython-playground](https://github.com/iloveitaly/ipython-playground) - Understand what is in your ipython playground.
 - [iloveitaly/ipython_copy](https://github.com/iloveitaly/ipython_copy) - 
-- [iloveitaly/structlog_config](https://github.com/iloveitaly/structlog_config) - 
-- [iloveitaly/uv-development-toggle](https://github.com/iloveitaly/uv-development-toggle) - Easily toggle between development and production packages with uv. Quickly close development packages locally.
 
 
