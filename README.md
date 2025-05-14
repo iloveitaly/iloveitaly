@@ -19,11 +19,11 @@
 #### 🌱 My latest projects
 
 
+- [iloveitaly/reddit-community-analysis](https://github.com/iloveitaly/reddit-community-analysis) - 
 - [iloveitaly/llm-ide-prompts](https://github.com/iloveitaly/llm-ide-prompts) - Centralized LLM prompt instructions for Copilot and Cursor, including scripts to convert and sync rules for Python, React, Shell, and TypeScript. Designed for rapid reuse and contribution across projects.
 - [iloveitaly/shadcn-registry-template-github-pages](https://github.com/iloveitaly/shadcn-registry-template-github-pages) - 
 - [iloveitaly/celery-healthcheck](https://github.com/iloveitaly/celery-healthcheck) - A lightweight HTTP health check server for Celery workers, designed to work with cloud platforms that only support TCP-based health probes
 - [iloveitaly/pypi-data-to-dolthub](https://github.com/iloveitaly/pypi-data-to-dolthub) - Automatically update a Dolt Database with PyPI data. This enables pypi data to be searched via a simple API.
 - [iloveitaly/pytest-playwright-visual-snapshot](https://github.com/iloveitaly/pytest-playwright-visual-snapshot) - Easy pytest visual regression testing using playwright
-- [iloveitaly/ipython-playground](https://github.com/iloveitaly/ipython-playground) - Understand what is in your ipython playground.
 
 
