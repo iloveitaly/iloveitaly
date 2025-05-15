@@ -13,17 +13,17 @@
 - [European Experiment: Cholesterol &amp; HA1C After Two Months of Living In Italy](https://mikebian.co/european-experiment-cholesterol-ha1c-after-two-months-of-living-in-italy/) (6 months ago)
 - [Learning Caddy Server](https://mikebian.co/learning-caddy-server/) (6 months ago)
 - [The Future and AI, Part 1](https://mikebian.co/the-future-and-ai-part-1/) (6 months ago)
-- [How To Get Things Done](https://mikebian.co/how-to-get-things-done/) (6 months ago)
+- [How To Get Things Done](https://mikebian.co/how-to-get-things-done/) (7 months ago)
 - [Mastering Tmux](https://mikebian.co/mastering-tmux/) (7 months ago)
 
 #### 🌱 My latest projects
 
 
+- [iloveitaly/vite-plugin-check-env](https://github.com/iloveitaly/vite-plugin-check-env) - 
 - [iloveitaly/reddit-community-analysis](https://github.com/iloveitaly/reddit-community-analysis) - 
 - [iloveitaly/llm-ide-prompts](https://github.com/iloveitaly/llm-ide-prompts) - Centralized LLM prompt instructions for Copilot and Cursor, including scripts to convert and sync rules for Python, React, Shell, and TypeScript. Designed for rapid reuse and contribution across projects.
 - [iloveitaly/shadcn-registry-template-github-pages](https://github.com/iloveitaly/shadcn-registry-template-github-pages) - 
 - [iloveitaly/celery-healthcheck](https://github.com/iloveitaly/celery-healthcheck) - A lightweight HTTP health check server for Celery workers, designed to work with cloud platforms that only support TCP-based health probes
 - [iloveitaly/pypi-data-to-dolthub](https://github.com/iloveitaly/pypi-data-to-dolthub) - Automatically update a Dolt Database with PyPI data. This enables pypi data to be searched via a simple API.
-- [iloveitaly/pytest-playwright-visual-snapshot](https://github.com/iloveitaly/pytest-playwright-visual-snapshot) - Easy pytest visual regression testing using playwright
 
 
