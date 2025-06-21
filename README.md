@@ -12,7 +12,7 @@
 - [Execution Isn’t Everything](https://mikebian.co/execution-isnt-everything/) (1 month ago)
 - [European Experiment: Cholesterol &amp; HA1C After Two Months of Living In Italy](https://mikebian.co/european-experiment-cholesterol-ha1c-after-two-months-of-living-in-italy/) (7 months ago)
 - [Learning Caddy Server](https://mikebian.co/learning-caddy-server/) (7 months ago)
-- [The Future and AI, Part 1](https://mikebian.co/the-future-and-ai-part-1/) (7 months ago)
+- [The Future and AI, Part 1](https://mikebian.co/the-future-and-ai-part-1/) (8 months ago)
 - [How To Get Things Done](https://mikebian.co/how-to-get-things-done/) (8 months ago)
 - [Mastering Tmux](https://mikebian.co/mastering-tmux/) (8 months ago)
 
