@@ -19,7 +19,7 @@
 #### 🌱 My latest projects
 
 
-- [iloveitaly/shadcn-radar-address-autocomplete](https://github.com/iloveitaly/shadcn-radar-address-autocomplete) - 
+- [iloveitaly/shadcn-radar-address-autocomplete](https://github.com/iloveitaly/shadcn-radar-address-autocomplete) - A ShadCN-compatible React component registry featuring Radar&#39;s address autocomplete with beautiful, accessible UI styling integration.
 - [iloveitaly/shadcn-natural-language-datetime-input](https://github.com/iloveitaly/shadcn-natural-language-datetime-input) - A powerful ShadCN/UI component library for natural language datetime input. Parse expressions like &#39;tomorrow at 3pm&#39;, &#39;next Monday&#39;, or &#39;in 2 hours&#39; with built-in calendar and time picker support.
 - [iloveitaly/shadcn-copy-button](https://github.com/iloveitaly/shadcn-copy-button) - A customizable ShadCN/UI copy button component that supports copying text, HTML, and content from referenced elements to the clipboard with automatic markdown conversion.
 - [iloveitaly/todoist-to-markdown](https://github.com/iloveitaly/todoist-to-markdown) - Convert a Todoist task (and its comments) to a clean, readable markdown format from the command line.
