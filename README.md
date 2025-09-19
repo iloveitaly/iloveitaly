@@ -12,7 +12,7 @@
 - [Execution Isn’t Everything](https://mikebian.co/execution-isnt-everything/) (4 months ago)
 - [European Experiment: Cholesterol &amp; HA1C After Two Months of Living In Italy](https://mikebian.co/european-experiment-cholesterol-ha1c-after-two-months-of-living-in-italy/) (10 months ago)
 - [Learning Caddy Server](https://mikebian.co/learning-caddy-server/) (10 months ago)
-- [The Future and AI, Part 1](https://mikebian.co/the-future-and-ai-part-1/) (10 months ago)
+- [The Future and AI, Part 1](https://mikebian.co/the-future-and-ai-part-1/) (11 months ago)
 - [How To Get Things Done](https://mikebian.co/how-to-get-things-done/) (11 months ago)
 - [Mastering Tmux](https://mikebian.co/mastering-tmux/) (11 months ago)
 
@@ -20,7 +20,7 @@
 
 
 - [iloveitaly/sqlalchemy-postgres-point](https://github.com/iloveitaly/sqlalchemy-postgres-point) - 
-- [iloveitaly/react-router-routes](https://github.com/iloveitaly/react-router-routes) - 
+- [iloveitaly/react-router-routes](https://github.com/iloveitaly/react-router-routes) - Generate strongly-typed Python helpers (TypedDict param classes &#43; path/url builders) from a React Router v6&#43; route tree so Python code can build frontend URLs safely.
 - [iloveitaly/terraform-dokku-install](https://github.com/iloveitaly/terraform-dokku-install) - OpenTofu/Terraform Module to install Docker, Dokku, and Dokku plugins on a server with SSH access using the official Dokku bootstrap script
 - [iloveitaly/shadcn-radar-address-autocomplete](https://github.com/iloveitaly/shadcn-radar-address-autocomplete) - A ShadCN-compatible React component registry featuring Radar&#39;s address autocomplete with beautiful, accessible UI styling integration.
 - [iloveitaly/shadcn-natural-language-datetime-input](https://github.com/iloveitaly/shadcn-natural-language-datetime-input) - A powerful ShadCN/UI component library for natural language datetime input. Parse expressions like &#39;tomorrow at 3pm&#39;, &#39;next Monday&#39;, or &#39;in 2 hours&#39; with built-in calendar and time picker support.
