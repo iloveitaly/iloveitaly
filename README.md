@@ -19,7 +19,7 @@
 #### 🌱 My latest projects
 
 
-- [iloveitaly/sqlalchemy-postgres-point](https://github.com/iloveitaly/sqlalchemy-postgres-point) - 
+- [iloveitaly/sqlalchemy-postgres-point](https://github.com/iloveitaly/sqlalchemy-postgres-point) - Lightweight SQLAlchemy custom type for PostgreSQL POINT columns with tuple binding and an earth-distance comparator.
 - [iloveitaly/react-router-routes](https://github.com/iloveitaly/react-router-routes) - Generate strongly-typed Python helpers (TypedDict param classes &#43; path/url builders) from a React Router v6&#43; route tree so Python code can build frontend URLs safely.
 - [iloveitaly/terraform-dokku-install](https://github.com/iloveitaly/terraform-dokku-install) - OpenTofu/Terraform Module to install Docker, Dokku, and Dokku plugins on a server with SSH access using the official Dokku bootstrap script
 - [iloveitaly/shadcn-radar-address-autocomplete](https://github.com/iloveitaly/shadcn-radar-address-autocomplete) - A ShadCN-compatible React component registry featuring Radar&#39;s address autocomplete with beautiful, accessible UI styling integration.
