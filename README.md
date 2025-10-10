@@ -14,7 +14,7 @@
 - [Learning Caddy Server](https://mikebian.co/learning-caddy-server/) (11 months ago)
 - [The Future and AI, Part 1](https://mikebian.co/the-future-and-ai-part-1/) (11 months ago)
 - [How To Get Things Done](https://mikebian.co/how-to-get-things-done/) (11 months ago)
-- [Mastering Tmux](https://mikebian.co/mastering-tmux/) (11 months ago)
+- [Mastering Tmux](https://mikebian.co/mastering-tmux/) (1 year ago)
 
 #### 🌱 My latest projects
 
