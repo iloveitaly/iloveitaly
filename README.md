@@ -19,11 +19,11 @@
 #### 🌱 My latest projects
 
 
+- [iloveitaly/cloudflare-analytics](https://github.com/iloveitaly/cloudflare-analytics) - Cloudflare Analytics GraphQL API client
+- [iloveitaly/fastapi-ipware](https://github.com/iloveitaly/fastapi-ipware) - FastAPI/Starlette-native wrapper for python-ipware to get client IP addresses
+- [iloveitaly/beautiful-traceback](https://github.com/iloveitaly/beautiful-traceback) - Beautiful, readable Python tracebacks with colors and formatting
+- [iloveitaly/git-history-extraction](https://github.com/iloveitaly/git-history-extraction) - Extract and analyze git commit history with support for filtering by trailers, date ranges, and AI-powered summarization for changelogs
 - [iloveitaly/railway-test-project](https://github.com/iloveitaly/railway-test-project) - 
 - [iloveitaly/sqlalchemy-postgres-point](https://github.com/iloveitaly/sqlalchemy-postgres-point) - Lightweight SQLAlchemy custom type for PostgreSQL POINT columns with tuple binding and an earth-distance comparator.
-- [iloveitaly/react-router-routes](https://github.com/iloveitaly/react-router-routes) - Generate strongly-typed Python helpers (TypedDict param classes &#43; path/url builders) from a React Router v6&#43; route tree so Python code can build frontend URLs safely.
-- [iloveitaly/terraform-dokku-install](https://github.com/iloveitaly/terraform-dokku-install) - OpenTofu/Terraform Module to install Docker, Dokku, and Dokku plugins on a server with SSH access using the official Dokku bootstrap script
-- [iloveitaly/shadcn-radar-address-autocomplete](https://github.com/iloveitaly/shadcn-radar-address-autocomplete) - A ShadCN-compatible React component registry featuring Radar&#39;s address autocomplete with beautiful, accessible UI styling integration.
-- [iloveitaly/shadcn-natural-language-datetime-input](https://github.com/iloveitaly/shadcn-natural-language-datetime-input) - A powerful ShadCN/UI component library for natural language datetime input. Parse expressions like &#39;tomorrow at 3pm&#39;, &#39;next Monday&#39;, or &#39;in 2 hours&#39; with built-in calendar and time picker support.
 
 
