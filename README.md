@@ -9,7 +9,7 @@
 #### 📜 My recent blog posts
 
 
-- [Execution Isn’t Everything](https://mikebian.co/execution-isnt-everything/) (5 months ago)
+- [Execution Isn’t Everything](https://mikebian.co/execution-isnt-everything/) (6 months ago)
 - [European Experiment: Cholesterol &amp; HA1C After Two Months of Living In Italy](https://mikebian.co/european-experiment-cholesterol-ha1c-after-two-months-of-living-in-italy/) (1 year ago)
 - [Learning Caddy Server](https://mikebian.co/learning-caddy-server/) (1 year ago)
 - [The Future and AI, Part 1](https://mikebian.co/the-future-and-ai-part-1/) (1 year ago)
@@ -19,11 +19,11 @@
 #### 🌱 My latest projects
 
 
+- [iloveitaly/docker-hosts](https://github.com/iloveitaly/docker-hosts) - Automatically manage Docker container hostnames in /etc/hosts for local development and CI
 - [iloveitaly/cloudflare-analytics](https://github.com/iloveitaly/cloudflare-analytics) - Cloudflare Analytics GraphQL API client
 - [iloveitaly/fastapi-ipware](https://github.com/iloveitaly/fastapi-ipware) - FastAPI/Starlette-native wrapper for python-ipware to get client IP addresses
 - [iloveitaly/beautiful-traceback](https://github.com/iloveitaly/beautiful-traceback) - Beautiful, readable Python tracebacks with colors and formatting
 - [iloveitaly/git-history-extraction](https://github.com/iloveitaly/git-history-extraction) - Extract and analyze git commit history with support for filtering by trailers, date ranges, and AI-powered summarization for changelogs
 - [iloveitaly/railway-test-project](https://github.com/iloveitaly/railway-test-project) - 
-- [iloveitaly/sqlalchemy-postgres-point](https://github.com/iloveitaly/sqlalchemy-postgres-point) - Lightweight SQLAlchemy custom type for PostgreSQL POINT columns with tuple binding and an earth-distance comparator.
 
 
