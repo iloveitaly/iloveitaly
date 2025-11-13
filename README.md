@@ -19,11 +19,11 @@
 #### 🌱 My latest projects
 
 
+- [iloveitaly/docker-image-cleanup](https://github.com/iloveitaly/docker-image-cleanup) - Clean up old Docker images from local storage with retention controls
 - [iloveitaly/tinacms-docker](https://github.com/iloveitaly/tinacms-docker) - 
 - [iloveitaly/github-action-railpack](https://github.com/iloveitaly/github-action-railpack) - 
 - [iloveitaly/radar-mapping-api](https://github.com/iloveitaly/radar-mapping-api) - A Python client for the Radar.io geocoding, mapping, and geolocation API
 - [iloveitaly/docker-hosts](https://github.com/iloveitaly/docker-hosts) - Automatically manage Docker container hostnames in /etc/hosts for local development and CI
 - [iloveitaly/cloudflare-analytics](https://github.com/iloveitaly/cloudflare-analytics) - Cloudflare Analytics GraphQL API client
-- [iloveitaly/fastapi-ipware](https://github.com/iloveitaly/fastapi-ipware) - FastAPI/Starlette-native wrapper for python-ipware to get client IP addresses
 
 
