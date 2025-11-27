@@ -9,20 +9,20 @@
 #### 📜 My recent blog posts
 
 
+- [Using Git Worktrees for Parallel AI Agent Development](https://mikebian.co/using-git-worktrees-for-parallel-ai-agent-development/) (1 day ago)
 - [Execution Isn’t Everything](https://mikebian.co/execution-isnt-everything/) (6 months ago)
 - [European Experiment: Cholesterol &amp; HA1C After Two Months of Living In Italy](https://mikebian.co/european-experiment-cholesterol-ha1c-after-two-months-of-living-in-italy/) (1 year ago)
 - [Learning Caddy Server](https://mikebian.co/learning-caddy-server/) (1 year ago)
 - [The Future and AI, Part 1](https://mikebian.co/the-future-and-ai-part-1/) (1 year ago)
 - [How To Get Things Done](https://mikebian.co/how-to-get-things-done/) (1 year ago)
-- [Mastering Tmux](https://mikebian.co/mastering-tmux/) (1 year ago)
 
 #### 🌱 My latest projects
 
 
-- [iloveitaly/pytest-celery-utils](https://github.com/iloveitaly/pytest-celery-utils) - 
+- [iloveitaly/pytest-celery-utils](https://github.com/iloveitaly/pytest-celery-utils) - Pytest plugin for inspecting Celery task queues in Redis during tests
 - [iloveitaly/pytest-playwright-artifacts](https://github.com/iloveitaly/pytest-playwright-artifacts) - 
 - [iloveitaly/determine-github-owner](https://github.com/iloveitaly/determine-github-owner) - 
-- [iloveitaly/analytics-plugin-rewardful](https://github.com/iloveitaly/analytics-plugin-rewardful) - 
+- [iloveitaly/analytics-plugin-rewardful](https://github.com/iloveitaly/analytics-plugin-rewardful) - Rewardful plugin for Analytics
 - [iloveitaly/docker-image-cleanup](https://github.com/iloveitaly/docker-image-cleanup) - Clean up old Docker images from local storage with retention controls
 - [iloveitaly/tinacms-docker](https://github.com/iloveitaly/tinacms-docker) - 
 
