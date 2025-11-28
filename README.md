@@ -9,7 +9,7 @@
 #### 📜 My recent blog posts
 
 
-- [Using Git Worktrees for Parallel AI Agent Development](https://mikebian.co/using-git-worktrees-for-parallel-ai-agent-development/) (1 day ago)
+- [Using Git Worktrees for Parallel AI Agent Development](https://mikebian.co/using-git-worktrees-for-parallel-ai-agent-development/) (2 days ago)
 - [Execution Isn’t Everything](https://mikebian.co/execution-isnt-everything/) (6 months ago)
 - [European Experiment: Cholesterol &amp; HA1C After Two Months of Living In Italy](https://mikebian.co/european-experiment-cholesterol-ha1c-after-two-months-of-living-in-italy/) (1 year ago)
 - [Learning Caddy Server](https://mikebian.co/learning-caddy-server/) (1 year ago)
@@ -19,11 +19,11 @@
 #### 🌱 My latest projects
 
 
+- [iloveitaly/typescript-package-prompts](https://github.com/iloveitaly/typescript-package-prompts) - 
+- [iloveitaly/typescript-package-template](https://github.com/iloveitaly/typescript-package-template) - 
 - [iloveitaly/pytest-celery-utils](https://github.com/iloveitaly/pytest-celery-utils) - Pytest plugin for inspecting Celery task queues in Redis during tests
-- [iloveitaly/pytest-playwright-artifacts](https://github.com/iloveitaly/pytest-playwright-artifacts) - 
+- [iloveitaly/pytest-playwright-artifacts](https://github.com/iloveitaly/pytest-playwright-artifacts) - Pytest plugin to capture Playwright console logs and create failure artifacts (HTML, screenshots, logs)
 - [iloveitaly/determine-github-owner](https://github.com/iloveitaly/determine-github-owner) - 
 - [iloveitaly/analytics-plugin-rewardful](https://github.com/iloveitaly/analytics-plugin-rewardful) - Rewardful plugin for Analytics
-- [iloveitaly/docker-image-cleanup](https://github.com/iloveitaly/docker-image-cleanup) - Clean up old Docker images from local storage with retention controls
-- [iloveitaly/tinacms-docker](https://github.com/iloveitaly/tinacms-docker) - 
 
 
