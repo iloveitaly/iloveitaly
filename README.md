@@ -9,7 +9,7 @@
 #### 📜 My recent blog posts
 
 
-- [Using Git Worktrees for Parallel AI Agent Development](https://mikebian.co/using-git-worktrees-for-parallel-ai-agent-development/) (2 days ago)
+- [Using Git Worktrees for Parallel AI Agent Development](https://mikebian.co/using-git-worktrees-for-parallel-ai-agent-development/) (3 days ago)
 - [Execution Isn’t Everything](https://mikebian.co/execution-isnt-everything/) (6 months ago)
 - [European Experiment: Cholesterol &amp; HA1C After Two Months of Living In Italy](https://mikebian.co/european-experiment-cholesterol-ha1c-after-two-months-of-living-in-italy/) (1 year ago)
 - [Learning Caddy Server](https://mikebian.co/learning-caddy-server/) (1 year ago)
