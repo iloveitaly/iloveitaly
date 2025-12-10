@@ -10,7 +10,7 @@
 
 
 - [The Future and AI, Part 2](https://mikebian.co/the-future-and-ai-part-2/) (1 week ago)
-- [Using Git Worktrees for Parallel AI Agent Development](https://mikebian.co/using-git-worktrees-for-parallel-ai-agent-development/) (1 week ago)
+- [Using Git Worktrees for Parallel AI Agent Development](https://mikebian.co/using-git-worktrees-for-parallel-ai-agent-development/) (2 weeks ago)
 - [Execution Isn’t Everything](https://mikebian.co/execution-isnt-everything/) (7 months ago)
 - [European Experiment: Cholesterol &amp; HA1C After Two Months of Living In Italy](https://mikebian.co/european-experiment-cholesterol-ha1c-after-two-months-of-living-in-italy/) (1 year ago)
 - [Learning Caddy Server](https://mikebian.co/learning-caddy-server/) (1 year ago)
