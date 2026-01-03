@@ -19,8 +19,8 @@
 #### 🌱 My latest projects
 
 
-- [iloveitaly/typescript-package-prompts](https://github.com/iloveitaly/typescript-package-prompts) - 
-- [iloveitaly/typescript-package-template](https://github.com/iloveitaly/typescript-package-template) - 
+- [iloveitaly/typescript-package-prompts](https://github.com/iloveitaly/typescript-package-prompts) - AI prompts and rules for a typescript package
+- [iloveitaly/typescript-package-template](https://github.com/iloveitaly/typescript-package-template) - TypeScript NPM package template
 - [iloveitaly/pytest-celery-utils](https://github.com/iloveitaly/pytest-celery-utils) - Pytest plugin for inspecting Celery task queues in Redis during tests
 - [iloveitaly/pytest-playwright-artifacts](https://github.com/iloveitaly/pytest-playwright-artifacts) - Pytest plugin to capture Playwright console logs and create failure artifacts (HTML, screenshots, logs)
 - [iloveitaly/determine-github-owner](https://github.com/iloveitaly/determine-github-owner) - 
