@@ -19,11 +19,11 @@
 #### 🌱 My latest projects
 
 
+- [iloveitaly/detect-shadowed-modules](https://github.com/iloveitaly/detect-shadowed-modules) - Detect conflicting directory names across Python&#39;s sys.path that shadow installed packages
+- [iloveitaly/ai-skills](https://github.com/iloveitaly/ai-skills) - 
+- [iloveitaly/python-package-prompts](https://github.com/iloveitaly/python-package-prompts) - 
 - [iloveitaly/typescript-package-prompts](https://github.com/iloveitaly/typescript-package-prompts) - AI prompts and rules for a typescript package
 - [iloveitaly/typescript-package-template](https://github.com/iloveitaly/typescript-package-template) - TypeScript NPM package template
 - [iloveitaly/pytest-celery-utils](https://github.com/iloveitaly/pytest-celery-utils) - Pytest plugin for inspecting Celery task queues in Redis during tests
-- [iloveitaly/pytest-playwright-artifacts](https://github.com/iloveitaly/pytest-playwright-artifacts) - Pytest plugin to capture Playwright console logs and create failure artifacts (HTML, screenshots, logs)
-- [iloveitaly/determine-github-owner](https://github.com/iloveitaly/determine-github-owner) - 
-- [iloveitaly/analytics-plugin-rewardful](https://github.com/iloveitaly/analytics-plugin-rewardful) - Rewardful plugin for Analytics
 
 
