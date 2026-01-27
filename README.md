@@ -19,11 +19,11 @@
 #### 🌱 My latest projects
 
 
+- [iloveitaly/atom-client-unofficial](https://github.com/iloveitaly/atom-client-unofficial) - 
 - [iloveitaly/detect-shadowed-modules](https://github.com/iloveitaly/detect-shadowed-modules) - Detect conflicting directory names across Python&#39;s sys.path that shadow installed packages
 - [iloveitaly/ai-skills](https://github.com/iloveitaly/ai-skills) - 
 - [iloveitaly/python-package-prompts](https://github.com/iloveitaly/python-package-prompts) - 
 - [iloveitaly/typescript-package-prompts](https://github.com/iloveitaly/typescript-package-prompts) - AI prompts and rules for a typescript package
 - [iloveitaly/typescript-package-template](https://github.com/iloveitaly/typescript-package-template) - TypeScript NPM package template
-- [iloveitaly/pytest-celery-utils](https://github.com/iloveitaly/pytest-celery-utils) - Pytest plugin for inspecting Celery task queues in Redis during tests
 
 
