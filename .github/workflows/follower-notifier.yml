@@ -17,7 +17,7 @@ jobs:
           myToken: ${{ secrets.GH_PERSONAL_TOKEN }}
           notifyUnFollowEvent: true
       - name: Email Me
-        uses: dawidd6/action-send-mail@v4
+        uses: dawidd6/action-send-mail@v8
         if: steps.followersChange.outputs.shouldNotify == 'true'
         with:
           server_address: ${{ secrets.MAIL_HOST }}
