@@ -19,11 +19,11 @@
 #### 🌱 My latest projects
 
 
+- [iloveitaly/pytest-line-runner](https://github.com/iloveitaly/pytest-line-runner) - Run pytest tests by line number instead of exact test name
 - [iloveitaly/generate-fastapi-typed-routes](https://github.com/iloveitaly/generate-fastapi-typed-routes) - Generate typed url_path_for functions for FastAPI applications.
 - [iloveitaly/atom-client-unofficial](https://github.com/iloveitaly/atom-client-unofficial) - 
 - [iloveitaly/detect-shadowed-modules](https://github.com/iloveitaly/detect-shadowed-modules) - Detect conflicting directory names across Python&#39;s sys.path that shadow installed packages
 - [iloveitaly/ai-skills](https://github.com/iloveitaly/ai-skills) - 
 - [iloveitaly/python-package-prompts](https://github.com/iloveitaly/python-package-prompts) - 
-- [iloveitaly/typescript-package-prompts](https://github.com/iloveitaly/typescript-package-prompts) - AI prompts and rules for a typescript package
 
 
