@@ -9,7 +9,7 @@
 #### 📜 My recent blog posts
 
 
-- [How to Increase the macOS Terminal Device Limit](https://mikebian.co/how-to-increase-the-macos-terminal-device-limit/) (1 day ago)
+- [How to Increase the macOS Terminal Device Limit](https://mikebian.co/how-to-increase-the-macos-terminal-device-limit/) (2 days ago)
 - [Why NetSuite and SalesForce Win](https://mikebian.co/why-netsuite-and-salesforce-win/) (3 weeks ago)
 - [The Future and AI, Part 2](https://mikebian.co/the-future-and-ai-part-2/) (2 months ago)
 - [Using Git Worktrees for Parallel AI Agent Development](https://mikebian.co/using-git-worktrees-for-parallel-ai-agent-development/) (2 months ago)
@@ -19,11 +19,11 @@
 #### 🌱 My latest projects
 
 
+- [iloveitaly/gohighlevel-api](https://github.com/iloveitaly/gohighlevel-api) - A modern Python client for the GoHighLevel API, focusing on contacts and custom fields.
 - [iloveitaly/playwright-trace-analyzer](https://github.com/iloveitaly/playwright-trace-analyzer) - CLI tool for analyzing Playwright trace files without the browser-based viewer
 - [iloveitaly/pytest-plugin-utils](https://github.com/iloveitaly/pytest-plugin-utils) - Reusable configuration and artifact utilities for building pytest plugins
 - [iloveitaly/pytest-line-runner](https://github.com/iloveitaly/pytest-line-runner) - Run pytest tests by line number instead of exact test name
 - [iloveitaly/generate-fastapi-typed-routes](https://github.com/iloveitaly/generate-fastapi-typed-routes) - Generate typed url_path_for functions for FastAPI applications.
 - [iloveitaly/atom-client-unofficial](https://github.com/iloveitaly/atom-client-unofficial) - A client library for accessing atom tickets api
-- [iloveitaly/detect-shadowed-modules](https://github.com/iloveitaly/detect-shadowed-modules) - Detect conflicting directory names across Python&#39;s sys.path that shadow installed packages
 
 
