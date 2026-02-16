@@ -9,7 +9,7 @@
 #### 📜 My recent blog posts
 
 
-- [How to Increase the macOS Terminal Device Limit](https://mikebian.co/how-to-increase-the-macos-terminal-device-limit/) (5 days ago)
+- [How to Increase the macOS Terminal Device Limit](https://mikebian.co/how-to-increase-the-macos-terminal-device-limit/) (6 days ago)
 - [Why NetSuite and SalesForce Win](https://mikebian.co/why-netsuite-and-salesforce-win/) (1 month ago)
 - [The Future and AI, Part 2](https://mikebian.co/the-future-and-ai-part-2/) (2 months ago)
 - [Using Git Worktrees for Parallel AI Agent Development](https://mikebian.co/using-git-worktrees-for-parallel-ai-agent-development/) (2 months ago)
