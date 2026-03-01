@@ -19,11 +19,11 @@
 #### 🌱 My latest projects
 
 
+- [iloveitaly/richclip](https://github.com/iloveitaly/richclip) - Inspect and manipulate macOS clipboard UTIs with granular control.
 - [iloveitaly/dash-just-docset](https://github.com/iloveitaly/dash-just-docset) - 
 - [iloveitaly/dash-docset-template](https://github.com/iloveitaly/dash-docset-template) - 
 - [iloveitaly/gh-clean-artifacts](https://github.com/iloveitaly/gh-clean-artifacts) - Prune GitHub Actions artifacts by age and total size to manage storage costs.
 - [iloveitaly/lunchmoney-venmo-track](https://github.com/iloveitaly/lunchmoney-venmo-track) - Automatically cash out Venmo balance and sync transaction details to Lunch Money
 - [iloveitaly/gohighlevel-api](https://github.com/iloveitaly/gohighlevel-api) - A modern Python client for the GoHighLevel API, focusing on contacts and custom fields.
-- [iloveitaly/playwright-trace-analyzer](https://github.com/iloveitaly/playwright-trace-analyzer) - CLI tool for analyzing Playwright trace files without the browser-based viewer
 
 
