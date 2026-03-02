@@ -11,9 +11,9 @@
 
 - [How to Increase the macOS Terminal Device Limit](https://mikebian.co/how-to-increase-the-macos-terminal-device-limit/) (2 weeks ago)
 - [Why NetSuite and SalesForce Win](https://mikebian.co/why-netsuite-and-salesforce-win/) (1 month ago)
-- [The Future and AI, Part 2](https://mikebian.co/the-future-and-ai-part-2/) (2 months ago)
+- [The Future and AI, Part 2](https://mikebian.co/the-future-and-ai-part-2/) (3 months ago)
 - [Using Git Worktrees for Parallel AI Agent Development](https://mikebian.co/using-git-worktrees-for-parallel-ai-agent-development/) (3 months ago)
-- [Execution Isn’t Everything](https://mikebian.co/execution-isnt-everything/) (9 months ago)
+- [Execution Isn’t Everything](https://mikebian.co/execution-isnt-everything/) (10 months ago)
 - [European Experiment: Cholesterol &amp; HA1C After Two Months of Living In Italy](https://mikebian.co/european-experiment-cholesterol-ha1c-after-two-months-of-living-in-italy/) (1 year ago)
 
 #### 🌱 My latest projects
