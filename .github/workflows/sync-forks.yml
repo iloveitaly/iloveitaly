@@ -1,0 +1,31 @@
+---
+# This workflow synchronizes all public forks associated with the provided
+# Personal Access Token (PAT). It is triggered manually or runs daily.
+# Note: The PAT requires the 'repo' scope (classic PAT) to function correctly.
+# By piping the list of repositories into a loop, the workflow logs each
+# synced repository and emits a warning if a synchronization fails,
+# without aborting the entire job.
+name: Sync Forks
+
+"on":
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Sync all public forks
+        env:
+          # A classic Personal Access Token with the 'repo' scope is required
+          GH_TOKEN: ${{ secrets.PAT }}
+        run: |
+          gh repo list --fork --public --limit 999 \
+            --json nameWithOwner -q '.[].nameWithOwner' | \
+          while read -r repo; do
+            if [ -n "$repo" ]; then
+              echo "Syncing $repo..."
+              gh repo sync "$repo" || echo "::warning::Failed to sync $repo"
+            fi
+          done
