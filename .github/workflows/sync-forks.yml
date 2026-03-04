@@ -19,7 +19,7 @@ jobs:
       - name: Sync all public forks
         env:
           # A classic Personal Access Token with the 'repo' scope is required
-          GH_TOKEN: ${{ secrets.PAT }}
+          GH_TOKEN: ${{ secrets.GH_PERSONAL_TOKEN }}
         run: |
           gh repo list --fork --public --limit 999 \
             --json nameWithOwner -q '.[].nameWithOwner' | \
