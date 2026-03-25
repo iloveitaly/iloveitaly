@@ -19,11 +19,11 @@
 #### 🌱 My latest projects
 
 
+- [iloveitaly/gh-url](https://github.com/iloveitaly/gh-url) - Generate a GitHub URL for any git ref — branch, tag, or commit.
+- [iloveitaly/gh-ai-pr](https://github.com/iloveitaly/gh-ai-pr) - Generate structured LLM prompts for pull request descriptions using git history and templates.
 - [iloveitaly/slack-to-markdown](https://github.com/iloveitaly/slack-to-markdown) - Converts Slack HTML to Markdown
 - [iloveitaly/swift-project-template](https://github.com/iloveitaly/swift-project-template) - 
 - [iloveitaly/richclip](https://github.com/iloveitaly/richclip) - Inspect and manipulate macOS clipboard UTIs with granular control.
 - [iloveitaly/dash-just-docset](https://github.com/iloveitaly/dash-just-docset) - 
-- [iloveitaly/dash-docset-template](https://github.com/iloveitaly/dash-docset-template) - 
-- [iloveitaly/gh-clean-artifacts](https://github.com/iloveitaly/gh-clean-artifacts) - Prune GitHub Actions artifacts by age and total size to manage storage costs.
 
 
