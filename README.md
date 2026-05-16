@@ -10,7 +10,7 @@
 
 
 - [How to Increase the macOS Terminal Device Limit](https://mikebian.co/how-to-increase-the-macos-terminal-device-limit/) (3 months ago)
-- [Why NetSuite and SalesForce Win](https://mikebian.co/why-netsuite-and-salesforce-win/) (3 months ago)
+- [Why NetSuite and SalesForce Win](https://mikebian.co/why-netsuite-and-salesforce-win/) (4 months ago)
 - [The Future and AI, Part 2](https://mikebian.co/the-future-and-ai-part-2/) (5 months ago)
 - [Using Git Worktrees for Parallel AI Agent Development](https://mikebian.co/using-git-worktrees-for-parallel-ai-agent-development/) (5 months ago)
 - [Execution Isn’t Everything](https://mikebian.co/execution-isnt-everything/) (1 year ago)
@@ -19,11 +19,11 @@
 #### 🌱 My latest projects
 
 
+- [iloveitaly/python-apple-maps-api](https://github.com/iloveitaly/python-apple-maps-api) - 
 - [iloveitaly/alembic-squawk](https://github.com/iloveitaly/alembic-squawk) - Extracts raw SQL from Alembic, splits it by revision, and saves each file individually for SQL linters like Squawk.
-- [iloveitaly/ephemeral-agent-database](https://github.com/iloveitaly/ephemeral-agent-database) - 
+- [iloveitaly/ephemeral-agent-database](https://github.com/iloveitaly/ephemeral-agent-database) - A FastAPI service that provisions short-lived PostgreSQL databases for preview environments, with automatic cleanup.
 - [iloveitaly/gh-url](https://github.com/iloveitaly/gh-url) - Generate a GitHub URL for any git ref — branch, tag, or commit.
 - [iloveitaly/gh-ai-pr](https://github.com/iloveitaly/gh-ai-pr) - Generate structured LLM prompts for pull request descriptions using git history and templates.
 - [iloveitaly/slack-to-markdown](https://github.com/iloveitaly/slack-to-markdown) - Converts Slack HTML to Markdown
-- [iloveitaly/swift-project-template](https://github.com/iloveitaly/swift-project-template) - 
 
 
