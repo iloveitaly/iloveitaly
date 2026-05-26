@@ -19,11 +19,11 @@
 #### 🌱 My latest projects
 
 
+- [iloveitaly/lunchmoney-transaction-enhancer](https://github.com/iloveitaly/lunchmoney-transaction-enhancer) - Enrich Lunch Money transactions using regex extraction rules
 - [iloveitaly/python-apple-maps-api](https://github.com/iloveitaly/python-apple-maps-api) - 
 - [iloveitaly/alembic-squawk](https://github.com/iloveitaly/alembic-squawk) - Extracts raw SQL from Alembic, splits it by revision, and saves each file individually for SQL linters like Squawk.
 - [iloveitaly/ephemeral-agent-database](https://github.com/iloveitaly/ephemeral-agent-database) - A FastAPI service that provisions short-lived PostgreSQL databases for preview environments, with automatic cleanup.
 - [iloveitaly/gh-url](https://github.com/iloveitaly/gh-url) - Generate a GitHub URL for any git ref — branch, tag, or commit.
 - [iloveitaly/gh-ai-pr](https://github.com/iloveitaly/gh-ai-pr) - Generate structured LLM prompts for pull request descriptions using git history and templates.
-- [iloveitaly/slack-to-markdown](https://github.com/iloveitaly/slack-to-markdown) - Converts Slack HTML to Markdown
 
 
