@@ -12,18 +12,18 @@
 - [How to Increase the macOS Terminal Device Limit](https://mikebian.co/how-to-increase-the-macos-terminal-device-limit/) (5 months ago)
 - [Why NetSuite and SalesForce Win](https://mikebian.co/why-netsuite-and-salesforce-win/) (6 months ago)
 - [The Future and AI, Part 2](https://mikebian.co/the-future-and-ai-part-2/) (7 months ago)
-- [Using Git Worktrees for Parallel AI Agent Development](https://mikebian.co/using-git-worktrees-for-parallel-ai-agent-development/) (7 months ago)
+- [Using Git Worktrees for Parallel AI Agent Development](https://mikebian.co/using-git-worktrees-for-parallel-ai-agent-development/) (8 months ago)
 - [Execution Isn’t Everything](https://mikebian.co/execution-isnt-everything/) (1 year ago)
 - [European Experiment: Cholesterol &amp; HA1C After Two Months of Living In Italy](https://mikebian.co/european-experiment-cholesterol-ha1c-after-two-months-of-living-in-italy/) (2 years ago)
 
 #### 🌱 My latest projects
 
 
+- [iloveitaly/agent-containers](https://github.com/iloveitaly/agent-containers) - Agent runtime containers for coding harnesses (Cursor first), with Docker, mise, and direnv installed and hooked into the shell by default.
 - [iloveitaly/lunchmoney-transaction-enhancer](https://github.com/iloveitaly/lunchmoney-transaction-enhancer) - Enrich Lunch Money transactions using regex extraction rules
 - [iloveitaly/python-apple-maps-api](https://github.com/iloveitaly/python-apple-maps-api) - A modern Python client for the Apple Maps Server API with automatic JWT management and type safety
 - [iloveitaly/alembic-squawk](https://github.com/iloveitaly/alembic-squawk) - Extracts raw SQL from Alembic, splits it by revision, and saves each file individually for SQL linters like Squawk.
 - [iloveitaly/ephemeral-agent-database](https://github.com/iloveitaly/ephemeral-agent-database) - A FastAPI service that provisions short-lived PostgreSQL databases for preview environments, with automatic cleanup.
 - [iloveitaly/gh-url](https://github.com/iloveitaly/gh-url) - Generate a GitHub URL for any git ref — branch, tag, or commit.
-- [iloveitaly/gh-ai-pr](https://github.com/iloveitaly/gh-ai-pr) - Generate structured LLM prompts for pull request descriptions using git history and templates.
 
 
