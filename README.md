@@ -19,7 +19,7 @@
 #### 🌱 My latest projects
 
 
-- [iloveitaly/zsh-dokku](https://github.com/iloveitaly/zsh-dokku) - 
+- [iloveitaly/zsh-dokku](https://github.com/iloveitaly/zsh-dokku) - Native zsh completion for the Dokku CLI, with a local harness for developing and verifying plugin-aware goals
 - [iloveitaly/agent-containers](https://github.com/iloveitaly/agent-containers) - Agent runtime containers for coding harnesses (Cursor first), with Docker, mise, and direnv installed and hooked into the shell by default.
 - [iloveitaly/lunchmoney-transaction-enhancer](https://github.com/iloveitaly/lunchmoney-transaction-enhancer) - Enrich Lunch Money transactions using regex extraction rules
 - [iloveitaly/python-apple-maps-api](https://github.com/iloveitaly/python-apple-maps-api) - A modern Python client for the Apple Maps Server API with automatic JWT management and type safety
