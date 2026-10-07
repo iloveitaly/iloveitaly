@@ -19,11 +19,11 @@
 #### 🌱 My latest projects
 
 
+- [iloveitaly/assistant-template](https://github.com/iloveitaly/assistant-template) - 
+- [iloveitaly/python-kindle-ai-export](https://github.com/iloveitaly/python-kindle-ai-export) - 
 - [iloveitaly/python-cleanup-orphans](https://github.com/iloveitaly/python-cleanup-orphans) - Detect and safely terminate orphaned AI agent processes (Cursor, agy, Claude, Codex)
 - [iloveitaly/zsh-dokku](https://github.com/iloveitaly/zsh-dokku) - Native zsh completion for the Dokku CLI, with a local harness for developing and verifying plugin-aware goals
 - [iloveitaly/agent-containers](https://github.com/iloveitaly/agent-containers) - Agent runtime containers for coding harnesses (Cursor first), with Docker, mise, and direnv installed and hooked into the shell by default.
 - [iloveitaly/lunchmoney-transaction-enhancer](https://github.com/iloveitaly/lunchmoney-transaction-enhancer) - Enrich Lunch Money transactions using regex extraction rules
-- [iloveitaly/python-apple-maps-api](https://github.com/iloveitaly/python-apple-maps-api) - A modern Python client for the Apple Maps Server API with automatic JWT management and type safety
-- [iloveitaly/alembic-squawk](https://github.com/iloveitaly/alembic-squawk) - Extracts raw SQL from Alembic, splits it by revision, and saves each file individually for SQL linters like Squawk.
 
 
