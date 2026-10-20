@@ -19,11 +19,11 @@
 #### 🌱 My latest projects
 
 
+- [iloveitaly/playwright-loophole](https://github.com/iloveitaly/playwright-loophole) - Playwright Docker image with a transparent localhost TCP relay to host services, Chromium QUIC policy, and optional localias CA trust
 - [iloveitaly/assistant-template](https://github.com/iloveitaly/assistant-template) - 
 - [iloveitaly/python-kindle-ai-export](https://github.com/iloveitaly/python-kindle-ai-export) - 
 - [iloveitaly/python-cleanup-orphans](https://github.com/iloveitaly/python-cleanup-orphans) - Detect and safely terminate orphaned AI agent processes (Cursor, agy, Claude, Codex)
 - [iloveitaly/zsh-dokku](https://github.com/iloveitaly/zsh-dokku) - Native zsh completion for the Dokku CLI, with a local harness for developing and verifying plugin-aware goals
 - [iloveitaly/agent-containers](https://github.com/iloveitaly/agent-containers) - Agent runtime containers for coding harnesses (Cursor first), with Docker, mise, and direnv installed and hooked into the shell by default.
-- [iloveitaly/lunchmoney-transaction-enhancer](https://github.com/iloveitaly/lunchmoney-transaction-enhancer) - Enrich Lunch Money transactions using regex extraction rules
 
 
