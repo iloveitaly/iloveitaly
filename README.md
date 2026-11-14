@@ -9,21 +9,19 @@
 #### 📜 My recent blog posts
 
 
-- [How to Increase the macOS Terminal Device Limit](https://mikebian.co/how-to-increase-the-macos-terminal-device-limit/) (8 months ago)
-- [Why NetSuite and SalesForce Win](https://mikebian.co/why-netsuite-and-salesforce-win/) (9 months ago)
-- [The Future and AI, Part 2](https://mikebian.co/the-future-and-ai-part-2/) (10 months ago)
-- [Using Git Worktrees for Parallel AI Agent Development](https://mikebian.co/using-git-worktrees-for-parallel-ai-agent-development/) (10 months ago)
-- [Execution Isn’t Everything](https://mikebian.co/execution-isnt-everything/) (1 year ago)
+- [How to Increase the macOS Terminal Device Limit](https://mikebian.co/how-to-increase-the-macos-terminal-device-limit/) (9 months ago)
+- [Why NetSuite and SalesForce Win](https://mikebian.co/why-netsuite-and-salesforce-win/) (10 months ago)
+- [The Future and AI, Part 2](https://mikebian.co/the-future-and-ai-part-2/) (11 months ago)
+- [Using Git Worktrees for Parallel AI Agent Development](https://mikebian.co/using-git-worktrees-for-parallel-ai-agent-development/) (11 months ago)
+- [Execution Isn’t Everything](https://mikebian.co/execution-isnt-everything/) (2 years ago)
 - [European Experiment: Cholesterol &amp; HA1C After Two Months of Living In Italy](https://mikebian.co/european-experiment-cholesterol-ha1c-after-two-months-of-living-in-italy/) (2 years ago)
 
 #### 🌱 My latest projects
 
 
+- [iloveitaly/pytest-playwright-pause](https://github.com/iloveitaly/pytest-playwright-pause) - Pause Playwright tests before fixture teardown so the inspector still has a live page
+- [iloveitaly/open-in-editor](https://github.com/iloveitaly/open-in-editor) - Deterministic terminal file reference parser and vector-safe editor dispatcher
+- [iloveitaly/rex-extrakto](https://github.com/iloveitaly/rex-extrakto) - An idiomatic Rex plugin for fast, fuzzy terminal text extraction and copying
+- [iloveitaly/shadcn-apple-maps-address-autocomplete](https://github.com/iloveitaly/shadcn-apple-maps-address-autocomplete) - 
 - [iloveitaly/playwright-loophole](https://github.com/iloveitaly/playwright-loophole) - Playwright Docker image with a transparent localhost TCP relay to host services, Chromium QUIC policy, and optional localias CA trust
 - [iloveitaly/assistant-template](https://github.com/iloveitaly/assistant-template) - 
-- [iloveitaly/python-kindle-ai-export](https://github.com/iloveitaly/python-kindle-ai-export) - 
-- [iloveitaly/python-cleanup-orphans](https://github.com/iloveitaly/python-cleanup-orphans) - Detect and safely terminate orphaned AI agent processes (Cursor, agy, Claude, Codex)
-- [iloveitaly/zsh-dokku](https://github.com/iloveitaly/zsh-dokku) - Native zsh completion for the Dokku CLI, with a local harness for developing and verifying plugin-aware goals
-- [iloveitaly/agent-containers](https://github.com/iloveitaly/agent-containers) - Agent runtime containers for coding harnesses (Cursor first), with Docker, mise, and direnv installed and hooked into the shell by default.
-
-
