@@ -1,14 +1,37 @@
-# .github/workflows/kee-alive.yml
-# if there's no activity within 60d, the GH actions automatically disables itself
+# A commit on the default branch keeps scheduled workflows enabled.
+# GitHub turns them off after 60 days without repository activity.
+# gautamkrishnar/keepalive-workflow was blocked on 21 April 2025, so this
+# pushes the empty commit directly.
 name: Keepalive Commit
 
 on:
   schedule:
-    - cron: '0 0 1 * *'
+    # Half an hour after the daily README job, which can also push to main.
+    - cron: '30 0 1 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
-  docker:
+  keepalive:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
-      - uses: gautamkrishnar/keepalive-workflow@v2
+
+      - name: Push an empty commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          for attempt in 1 2 3; do
+            git pull --rebase origin main
+            git commit --allow-empty -m "chore: keep scheduled workflows alive"
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            echo "Push rejected (attempt ${attempt}); retrying"
+            git reset --hard origin/main
+            sleep 15
+          done
+          exit 1
