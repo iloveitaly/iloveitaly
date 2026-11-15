@@ -22,6 +22,6 @@
 - [iloveitaly/pytest-playwright-pause](https://github.com/iloveitaly/pytest-playwright-pause) - Pause Playwright tests before fixture teardown so the inspector still has a live page
 - [iloveitaly/open-in-editor](https://github.com/iloveitaly/open-in-editor) - Deterministic terminal file reference parser and vector-safe editor dispatcher
 - [iloveitaly/rex-extrakto](https://github.com/iloveitaly/rex-extrakto) - An idiomatic Rex plugin for fast, fuzzy terminal text extraction and copying
-- [iloveitaly/shadcn-apple-maps-address-autocomplete](https://github.com/iloveitaly/shadcn-apple-maps-address-autocomplete) - 
+- [iloveitaly/shadcn-apple-maps-address-autocomplete](https://github.com/iloveitaly/shadcn-apple-maps-address-autocomplete) - A ShadCN-compatible React component registry featuring Apple Maps Server API address autocomplete with beautiful, accessible UI styling integration.
 - [iloveitaly/playwright-loophole](https://github.com/iloveitaly/playwright-loophole) - Playwright Docker image with a transparent localhost TCP relay to host services, Chromium QUIC policy, and optional localias CA trust
 - [iloveitaly/assistant-template](https://github.com/iloveitaly/assistant-template) - 
